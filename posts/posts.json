@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "caption": "Your Anthropic API key isn't just for chatbots — it's a business license. 🔑\n\nHere's how engineers are quietly turning a single API key into real income:\n\n1️⃣ Freelance automation → $500–3K per project\n2️⃣ Micro-SaaS → $9–29/mo, even 50 users = real MRR\n3️⃣ AI consulting → $150–300/hr\n\nSwipe for the full playbook, then save this for when you're ready to build. 👉\n\n#ClaudeAI #AIagents #SideHustle #BuildInPublic #SoftwareEngineer #PassiveIncome #AITools #TechCareer #FinancialFreedom #AnthropicAPI",
+      "images": [
+        "assets/claude-api-side-hustle/01-cover.png",
+        "assets/claude-api-side-hustle/02-what-is-it.png",
+        "assets/claude-api-side-hustle/03-three-plays.png",
+        "assets/claude-api-side-hustle/04-how-to-start.png",
+        "assets/claude-api-side-hustle/05-real-numbers.png",
+        "assets/claude-api-side-hustle/06-cta.png"
+      ]
+    }
+  ]
+}
