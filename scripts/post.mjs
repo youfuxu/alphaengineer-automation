@@ -22,6 +22,10 @@ function rawUrl(path) {
   return `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}/${path}`;
 }
 
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
 async function api(path, params) {
   const url = new URL(`${API}/${path}`);
   for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v);
@@ -41,7 +45,7 @@ async function waitUntilReady(containerId) {
     const data = await res.json();
     if (data.status_code === 'FINISHED') return;
     if (data.status_code === 'ERROR') throw new Error(`Container ${containerId} failed processing`);
-    await new Promise((r) => setTimeout(r, 5000));
+    await sleep(5000);
   }
   throw new Error(`Container ${containerId} timed out waiting for FINISHED`);
 }
@@ -70,6 +74,7 @@ if (post.images.length === 1) {
     });
     await waitUntilReady(id);
     childIds.push(id);
+    await sleep(2000);
   }
   const { id } = await api(`${IG_USER_ID}/media`, {
     media_type: 'CAROUSEL',
