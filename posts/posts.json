@@ -11,6 +11,26 @@
         "assets/claude-api-side-hustle/05-real-numbers.png",
         "assets/claude-api-side-hustle/06-cta.png"
       ]
+    },
+    {
+      "id": 2,
+      "caption": "Good salary. Good title. Still felt behind. 👋\n\nThat's where this account starts.\n\nI'm an engineer who got tired of trading 40+ hours a week for a paycheck that never quite caught up — so I started building on the side with AI tools.\n\nNo fake screenshots, no \"get rich quick\" promises. Just an engineer's honest log of what I'm building, what's working, what's flopping, and the exact tools behind it.\n\nFollow along — new builds every week. 👇\n\n#AIagents #SideHustle #BuildInPublic #PassiveIncome #AITools #TechCareer #FinancialFreedom #SoloFounder #ContentCreator #AIforBusiness",
+      "images": [
+        "assets/welcome-post/01.png"
+      ]
+    },
+    {
+      "id": 3,
+      "caption": "6 months ago I had $0 from AI. Here's what changed. 🧵\n\nMonth 1: spent my nights testing every AI tool I could find — after my full day job, with zero income to show for it.\n\nMonth 2: first small win. Used AI to write and design content for a side project — earned my first $47.\n\nThen I connected the tools together and built my first automation. Content kept going out even when I wasn't working on it.\n\nThat's when it clicked — the real leverage isn't the AI itself, it's the system you build around it.\n\nNow I'm documenting the exact stack here, step by step, so you can skip the months I spent figuring it out alone.\n\nSwipe through the journey, then save this for when you're ready to start. 👉\n\n#AIagents #SideHustle #BuildInPublic #PassiveIncome #AITools #TechCareer #FinancialFreedom #ClaudeAI #Automation #MoneyMindset #SoloFounder",
+      "images": [
+        "assets/side-hustle-timeline/01.png",
+        "assets/side-hustle-timeline/02.png",
+        "assets/side-hustle-timeline/03.png",
+        "assets/side-hustle-timeline/04.png",
+        "assets/side-hustle-timeline/05.png",
+        "assets/side-hustle-timeline/06.png",
+        "assets/side-hustle-timeline/07.png"
+      ]
     }
   ]
 }
