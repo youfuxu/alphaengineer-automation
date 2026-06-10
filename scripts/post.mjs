@@ -19,7 +19,7 @@ function getISOWeek(date) {
 }
 
 function rawUrl(path) {
-  return `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${path}`;
+  return `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}/${path}`;
 }
 
 async function api(path, params) {
