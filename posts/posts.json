@@ -48,6 +48,18 @@
       "id": 5,
       "caption": "Nobody talks about this kind of compounding. 🔄\n\nCompound interest grows quietly for years before it's visible — most people quit before they ever see it.\n\nContent works the exact same way.\n\nPost #1 might get 12 views. But a year from now, it's still indexed, still searchable, still working — while post #50 gets discovered by people who never saw post #1.\n\nEvery piece of content is a permanent asset. Unlike a tweet that dies in 24 hours, a good post just keeps compounding.\n\nI treat my content library the same way I treat my brokerage account: small deposits, don't touch it, let time do the work.\n\nThe engineers who \"got lucky\" with content? They just didn't quit at post #20.\n\nWhat's stopping you from posting today — tell me below. 👇\n\n#ContentStrategy #BuildInPublic #PassiveIncome #CompoundInterest #AITools #FinancialFreedom #CreatorEconomy #SideHustle #WealthMindset #SoloFounder",
       "images": ["assets/compounding-content/01.png"]
+    },
+    {
+      "id": 6,
+      "caption": "This account posts itself. Here's the exact stack. 🤖\n\nNo social media manager, no scheduling tool subscription. Just AI + free infrastructure:\n\n1️⃣ Claude → writes captions, hooks, hashtags, and the carousel copy itself\n2️⃣ One HTML/CSS design system → reused for every post, zero manual design\n3️⃣ A browser script → renders each slide as a 1080x1080 PNG automatically\n4️⃣ A free scheduler → posts to Instagram every Wednesday on autopilot\n\nMonthly cost: $0. Manual work: picking the next topic.\n\nSwipe for the full breakdown, then save this if you want to build your own. 👉\n\n#AIagents #Automation #BuildInPublic #PassiveIncome #AITools #ClaudeAI #SideHustle #TechCareer #FinancialFreedom #NoCode",
+      "images": [
+        "assets/ai-stack-automation/01-cover.png",
+        "assets/ai-stack-automation/02-claude-writes.png",
+        "assets/ai-stack-automation/03-design-system.png",
+        "assets/ai-stack-automation/04-playwright-render.png",
+        "assets/ai-stack-automation/05-real-numbers.png",
+        "assets/ai-stack-automation/06-cta.png"
+      ]
     }
   ]
 }
