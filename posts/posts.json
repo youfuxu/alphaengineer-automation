@@ -60,6 +60,18 @@
         "assets/ai-stack-automation/05-real-numbers.png",
         "assets/ai-stack-automation/06-cta.png"
       ]
+    },
+    {
+      "id": 7,
+      "caption": "Your salary is one income stream. Here's how to build a second. 🔁\n\nStream 1: a brokerage account with dividend reinvestment turned on. Every quarter, the payouts buy more shares automatically — no decisions, no logins.\n\nStream 2: this account. Claude writes the captions, a script renders the carousels, a scheduler posts them. I show up once a week to pick the topic.\n\nDifferent currencies — capital vs. content — but the same engineering principle: build the system once, automate the output, let compounding do the rest.\n\nMost people treat investing and content creation as two separate hobbies fighting for their evenings. Engineers treat them as two systems running in parallel.\n\nWhich stream are you missing — capital or content? 👇\n\n#WealthMindset #PassiveIncome #DividendInvesting #BuildInPublic #CompoundInterest #AIagents #FinancialFreedom #SideHustle #AITools #InvestingTips #TechCareer #SoloFounder",
+      "images": [
+        "assets/dividend-ai-streams/01-cover.png",
+        "assets/dividend-ai-streams/02-dividends.png",
+        "assets/dividend-ai-streams/03-ai-content.png",
+        "assets/dividend-ai-streams/04-shared-principle.png",
+        "assets/dividend-ai-streams/05-real-numbers.png",
+        "assets/dividend-ai-streams/06-cta.png"
+      ]
     }
   ]
 }
