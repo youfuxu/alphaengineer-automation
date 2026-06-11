@@ -72,6 +72,18 @@
         "assets/dividend-ai-streams/05-real-numbers.png",
         "assets/dividend-ai-streams/06-cta.png"
       ]
+    },
+    {
+      "id": 8,
+      "caption": "4 tasks worth automating before you scale anything else. 🔄\n\nIf you're running any kind of side hustle, these are the first things to take off your plate — all doable in n8n, free to start:\n\n1️⃣ Content repurposing — publish once, auto-format and schedule it across every platform.\n2️⃣ Lead capture → welcome — new subscriber gets tagged and onboarded instantly, no manual list work.\n3️⃣ Monitoring & alerts — a scheduled check watches prices, keywords, or feeds and pings you only when something changes.\n4️⃣ Reporting — pull your numbers from different tools into one weekly digest, automatically.\n\nNone of this needs a dev team. Just a free afternoon and the willingness to build the boring stuff once.\n\nWhich one would save you the most time this week? 👇\n\n#n8n #Automation #AIagents #BuildInPublic #NoCode #SideHustle #PassiveIncome #AITools #Productivity #TechCareer #WorkSmarter #SoloFounder",
+      "images": [
+        "assets/n8n-automations/01-cover.png",
+        "assets/n8n-automations/02-content-repurpose.png",
+        "assets/n8n-automations/03-lead-capture.png",
+        "assets/n8n-automations/04-monitoring.png",
+        "assets/n8n-automations/05-what-it-costs.png",
+        "assets/n8n-automations/06-cta.png"
+      ]
     }
   ]
 }
