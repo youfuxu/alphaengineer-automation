@@ -84,6 +84,30 @@
         "assets/n8n-automations/05-what-it-costs.png",
         "assets/n8n-automations/06-cta.png"
       ]
+    },
+    {
+      "id": 9,
+      "caption": "Every two weeks, your paycheck hits zero. Then it does it again. 📉\n\nThat's not a flaw — that's just what an income statement does. It measures one period, then resets, no matter how good last month was.\n\nYour balance sheet doesn't play by those rules. Assets minus liabilities — it never resets, it just compounds, quietly, while you sleep, while you scroll, while you're at work not thinking about it at all.\n\nHere's the part that gets glossed over: two engineers can have the exact same salary and end up in completely different places. Same income statement, very different balance sheets. One spent it. The other converted it into something that compounds.\n\nYour salary is a number someone else sets. Your net worth is the number that tells the truth about the decisions you're actually making with it.\n\nSwipe through, then ask yourself the only question that matters — is your net worth trending up this year, or just your spending? 👉\n\n#WealthMindset #NetWorth #CompoundInterest #FinancialFreedom #PassiveIncome #MoneyMindset #BuildInPublic #InvestingTips #PersonalFinance #FinancialLiteracy #SoloFounder #TechCareer",
+      "images": [
+        "assets/balance-sheet-mindset/01.png",
+        "assets/balance-sheet-mindset/02.png",
+        "assets/balance-sheet-mindset/03.png",
+        "assets/balance-sheet-mindset/04.png",
+        "assets/balance-sheet-mindset/05.png",
+        "assets/balance-sheet-mindset/06.png"
+      ]
+    },
+    {
+      "id": 10,
+      "caption": "Your job pays you for hours. These don't. ⏱️\n\nStream 1 is capital — dividend ETFs that pay out on a schedule, rain or shine. It's the slowest stream to build, but once it's running it needs zero time from you. Set it, reinvest it, forget it.\n\nStream 2 is content — every post you publish keeps working long after you hit publish. Unlike your job, it doesn't clock out when you do. A carousel from 6 months ago can still be bringing in followers, leads, or sales today.\n\nStream 3 is skills — and this is the one most people skip. Package what you already know into a template, a guide, a framework. Build it once, sell it to hundreds.\n\nDifferent speeds, different mechanics, same underlying pattern: capital compounds money, content compounds attention, skills compound expertise. Stack all three and you've built something your hourly rate never could — income that doesn't need you in the room.\n\nSwipe through, then be honest with yourself about which stream you haven't started yet. 👉\n\n#PassiveIncome #DividendInvesting #CreatorEconomy #WealthMindset #CompoundInterest #FinancialFreedom #BuildInPublic #AITools #SideHustle #InvestingTips #SoloFounder #TechCareer",
+      "images": [
+        "assets/three-income-streams/01.png",
+        "assets/three-income-streams/02.png",
+        "assets/three-income-streams/03.png",
+        "assets/three-income-streams/04.png",
+        "assets/three-income-streams/05.png",
+        "assets/three-income-streams/06.png"
+      ]
     }
   ]
 }
