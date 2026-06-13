@@ -47,7 +47,9 @@
     {
       "id": 5,
       "caption": "Nobody talks about this kind of compounding. 🔄\n\nCompound interest grows quietly for years before it's visible — most people quit before they ever see it.\n\nContent works the exact same way.\n\nPost #1 might get 12 views. But a year from now, it's still indexed, still searchable, still working — while post #50 gets discovered by people who never saw post #1.\n\nEvery piece of content is a permanent asset. Unlike a tweet that dies in 24 hours, a good post just keeps compounding.\n\nI treat my content library the same way I treat my brokerage account: small deposits, don't touch it, let time do the work.\n\nThe engineers who \"got lucky\" with content? They just didn't quit at post #20.\n\nWhat's stopping you from posting today — tell me below. 👇\n\n#ContentStrategy #BuildInPublic #PassiveIncome #CompoundInterest #AITools #FinancialFreedom #CreatorEconomy #SideHustle #WealthMindset #SoloFounder",
-      "images": ["assets/compounding-content/01.png"]
+      "images": [
+        "assets/compounding-content/01.png"
+      ]
     },
     {
       "id": 6,
@@ -107,6 +109,30 @@
         "assets/three-income-streams/04.png",
         "assets/three-income-streams/05.png",
         "assets/three-income-streams/06.png"
+      ]
+    },
+    {
+      "id": 11,
+      "caption": "ChatGPT or Claude for content? Here's the honest answer.\n\nI use both, and they're not interchangeable.\n\nChatGPT wins on speed — fast first drafts, quick captions, lots of variations when I'm brainstorming.\n\nClaude wins on follow-through — give it 5+ rules for tone and length, and it actually sticks to all of them across a long edit.\n\nBoth consumer plans are $20/mo, so the real cost is your time, not your wallet.\n\nIf you write for a living, the smart move isn't picking a side. It's knowing which tool to open for which task.\n\nWhich one do you reach for first? Drop it in the comments.\n\n#AIagents #BuildInPublic #PassiveIncome #AITools #ClaudeAI #ChatGPT #ContentCreation #AIforWriters #TechWorkerWealth #ProductivityTools #AIWritingTools #SideHustle",
+      "images": [
+        "assets/chatgpt-vs-claude/01.png",
+        "assets/chatgpt-vs-claude/02.png",
+        "assets/chatgpt-vs-claude/03.png",
+        "assets/chatgpt-vs-claude/04.png",
+        "assets/chatgpt-vs-claude/05.png",
+        "assets/chatgpt-vs-claude/06.png"
+      ]
+    },
+    {
+      "id": 12,
+      "caption": "\"Faceless YouTube\" isn't faceless.\n\nEveryone's selling the dream of a channel that runs itself while you sleep.\n\nHere's what's actually true in 2025: AI handles the script draft, the narration, and a good chunk of the visuals.\n\nWhat it doesn't handle is the editing judgment, the thumbnail testing, and showing up every week when the numbers look flat.\n\nI broke down exactly where AI pulls weight and where it still falls on you — swipe through.\n\nIf you've tried AI-assisted video, what part took the longest to get right?\n\n#AIagents #BuildInPublic #PassiveIncome #AITools #YouTubeAutomation #ContentCreator #AIvoice #FaceLessYouTube #SideHustle #TechWorkerWealth #ClaudeAI #ContentStrategy",
+      "images": [
+        "assets/youtube-ai-automation/01.png",
+        "assets/youtube-ai-automation/02.png",
+        "assets/youtube-ai-automation/03.png",
+        "assets/youtube-ai-automation/04.png",
+        "assets/youtube-ai-automation/05.png",
+        "assets/youtube-ai-automation/06.png"
       ]
     }
   ]
