@@ -147,6 +147,18 @@
         "assets/fire-number/06.png",
         "assets/fire-number/07.png"
       ]
+    },
+    {
+      "id": 14,
+      "caption": "You don't need a dev team to build a chatbot. You need your FAQ page.\n\nA \"no-code chatbot\" is really just your own knowledge wrapped around an AI model that already knows how to talk — feed it your docs, it answers in your voice, 24/7.\n\nThe build is 4 steps: pick a builder (Custom GPT, Claude Project, or a free tool like Voiceflow/Botpress), upload your source docs, write the instructions (tone, scope, when to hand off to a human), then test and embed.\n\nIt's not replacing your support inbox — it's filtering it. The same 10 questions asked 100 times a week get handled instantly, so what lands in your inbox actually needs a human.\n\nMost people already have the tool: ChatGPT Plus and Claude Pro both include this at $20/mo, no extra setup cost.\n\nSwipe for the full build, then save this for your next free afternoon. 👉\n\n#AIagents #BuildInPublic #PassiveIncome #AITools #ChatGPT #ClaudeAI #NoCode #Chatbot #SideHustle #Automation #TechCareer #SoloFounder",
+      "images": [
+        "assets/ai-chatbot-no-code/01.png",
+        "assets/ai-chatbot-no-code/02.png",
+        "assets/ai-chatbot-no-code/03.png",
+        "assets/ai-chatbot-no-code/04.png",
+        "assets/ai-chatbot-no-code/05.png",
+        "assets/ai-chatbot-no-code/06.png"
+      ]
     }
   ]
 }
