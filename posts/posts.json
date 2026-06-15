@@ -159,6 +159,18 @@
         "assets/ai-chatbot-no-code/05.png",
         "assets/ai-chatbot-no-code/06.png"
       ]
+    },
+    {
+      "id": 15,
+      "caption": "Your thumbnail does 80% of the work before anyone watches.\n\nFor a faceless channel, there's no face to earn that click — the thumbnail has to do the convincing on its own. Midjourney is built for exactly this.\n\nThree things your prompt needs: --ar 16:9 to match YouTube's format, a clear subject with a style reference (\"dramatic studio lighting,\" \"bold comic-book style\"), and some negative space so text fits later.\n\nThe workflow: generate 4 variations, upscale the strongest one, drop it into Canva to add your title text (Midjourney rarely renders text correctly), then export at 1280x720 and check how it looks shrunk to phone size.\n\nThree principles separate a click from a scroll-past: contrast (bright subject, dark background), emotion (a reaction pulls people in), and a curiosity gap (show the result, let the title fill the rest).\n\nSwipe for the full breakdown, then save this for your next thumbnail. 👉\n\n#AIagents #BuildInPublic #PassiveIncome #AITools #Midjourney #YouTubeAutomation #FaceLessYouTube #ContentCreator #SideHustle #TechCareer #ClaudeAI #ContentStrategy",
+      "images": [
+        "assets/midjourney-youtube-thumbnails/01.png",
+        "assets/midjourney-youtube-thumbnails/02.png",
+        "assets/midjourney-youtube-thumbnails/03.png",
+        "assets/midjourney-youtube-thumbnails/04.png",
+        "assets/midjourney-youtube-thumbnails/05.png",
+        "assets/midjourney-youtube-thumbnails/06.png"
+      ]
     }
   ]
 }
