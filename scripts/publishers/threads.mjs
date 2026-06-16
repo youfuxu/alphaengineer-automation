@@ -33,6 +33,7 @@ export async function postToThreads({ post, rawUrl }) {
   const userId = process.env.THREADS_USER_ID;
   if (!token || !userId) { console.log('[Threads] secrets not set, skipping'); return; }
 
+  const text = post.caption.length > 500 ? post.caption.slice(0, 497) + '...' : post.caption;
   let creationId;
 
   if (post.images.length === 1) {
@@ -40,7 +41,7 @@ export async function postToThreads({ post, rawUrl }) {
     const { id } = await apiCall(`${userId}/threads`, {
       media_type: 'IMAGE',
       image_url: rawUrl(post.images[0]),
-      text: post.caption,
+      text,
     }, token);
     creationId = id;
   } else {
@@ -58,7 +59,7 @@ export async function postToThreads({ post, rawUrl }) {
     const { id } = await apiCall(`${userId}/threads`, {
       media_type: 'CAROUSEL',
       children: childIds.join(','),
-      text: post.caption,
+      text,
     }, token);
     await waitReady(id, token);
     creationId = id;
