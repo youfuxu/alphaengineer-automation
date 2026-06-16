@@ -10,14 +10,16 @@
         "assets/claude-api-side-hustle/04-how-to-start.png",
         "assets/claude-api-side-hustle/05-real-numbers.png",
         "assets/claude-api-side-hustle/06-cta.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 2,
       "caption": "Good salary. Good title. Still felt behind. 👋\n\nThat's where this account starts.\n\nI'm an engineer who got tired of trading 40+ hours a week for a paycheck that never quite caught up — so I started building on the side with AI tools.\n\nNo fake screenshots, no \"get rich quick\" promises. Just an engineer's honest log of what I'm building, what's working, what's flopping, and the exact tools behind it.\n\nFollow along — new builds every week. 👇\n\n#AIagents #SideHustle #BuildInPublic #PassiveIncome #AITools #TechCareer #FinancialFreedom #SoloFounder #ContentCreator #AIforBusiness",
       "images": [
         "assets/welcome-post/01.png"
-      ]
+      ],
+      "pillar": "bts"
     },
     {
       "id": 3,
@@ -30,7 +32,8 @@
         "assets/side-hustle-timeline/05.png",
         "assets/side-hustle-timeline/06.png",
         "assets/side-hustle-timeline/07.png"
-      ]
+      ],
+      "pillar": "bts"
     },
     {
       "id": 4,
@@ -42,14 +45,16 @@
         "assets/ai-products-weekend/04-mini-guides.png",
         "assets/ai-products-weekend/05-real-numbers.png",
         "assets/ai-products-weekend/06-cta.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "id": 5,
       "caption": "Nobody talks about this kind of compounding. 🔄\n\nCompound interest grows quietly for years before it's visible — most people quit before they ever see it.\n\nContent works the exact same way.\n\nPost #1 might get 12 views. But a year from now, it's still indexed, still searchable, still working — while post #50 gets discovered by people who never saw post #1.\n\nEvery piece of content is a permanent asset. Unlike a tweet that dies in 24 hours, a good post just keeps compounding.\n\nI treat my content library the same way I treat my brokerage account: small deposits, don't touch it, let time do the work.\n\nThe engineers who \"got lucky\" with content? They just didn't quit at post #20.\n\nWhat's stopping you from posting today — tell me below. 👇\n\n#ContentStrategy #BuildInPublic #PassiveIncome #CompoundInterest #AITools #FinancialFreedom #CreatorEconomy #SideHustle #WealthMindset #SoloFounder",
       "images": [
         "assets/compounding-content/01.png"
-      ]
+      ],
+      "pillar": "wealth-mindset"
     },
     {
       "id": 6,
@@ -61,7 +66,8 @@
         "assets/ai-stack-automation/04-playwright-render.png",
         "assets/ai-stack-automation/05-real-numbers.png",
         "assets/ai-stack-automation/06-cta.png"
-      ]
+      ],
+      "pillar": "bts"
     },
     {
       "id": 7,
@@ -73,7 +79,8 @@
         "assets/dividend-ai-streams/04-shared-principle.png",
         "assets/dividend-ai-streams/05-real-numbers.png",
         "assets/dividend-ai-streams/06-cta.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "id": 8,
@@ -85,7 +92,8 @@
         "assets/n8n-automations/04-monitoring.png",
         "assets/n8n-automations/05-what-it-costs.png",
         "assets/n8n-automations/06-cta.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 9,
@@ -97,7 +105,8 @@
         "assets/balance-sheet-mindset/04.png",
         "assets/balance-sheet-mindset/05.png",
         "assets/balance-sheet-mindset/06.png"
-      ]
+      ],
+      "pillar": "wealth-mindset"
     },
     {
       "id": 10,
@@ -109,7 +118,8 @@
         "assets/three-income-streams/04.png",
         "assets/three-income-streams/05.png",
         "assets/three-income-streams/06.png"
-      ]
+      ],
+      "pillar": "wealth-mindset"
     },
     {
       "id": 11,
@@ -121,7 +131,8 @@
         "assets/chatgpt-vs-claude/04.png",
         "assets/chatgpt-vs-claude/05.png",
         "assets/chatgpt-vs-claude/06.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 12,
@@ -133,7 +144,8 @@
         "assets/youtube-ai-automation/04.png",
         "assets/youtube-ai-automation/05.png",
         "assets/youtube-ai-automation/06.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "id": 13,
@@ -146,7 +158,8 @@
         "assets/fire-number/05.png",
         "assets/fire-number/06.png",
         "assets/fire-number/07.png"
-      ]
+      ],
+      "pillar": "wealth-mindset"
     },
     {
       "id": 14,
@@ -158,7 +171,8 @@
         "assets/ai-chatbot-no-code/04.png",
         "assets/ai-chatbot-no-code/05.png",
         "assets/ai-chatbot-no-code/06.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 15,
@@ -170,7 +184,8 @@
         "assets/midjourney-youtube-thumbnails/04.png",
         "assets/midjourney-youtube-thumbnails/05.png",
         "assets/midjourney-youtube-thumbnails/06.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 16,
@@ -183,7 +198,8 @@
         "assets/post-16/05.png",
         "assets/post-16/06.png",
         "assets/post-16/07.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "id": 17,
@@ -196,7 +212,8 @@
         "assets/post-17/05.png",
         "assets/post-17/06.png",
         "assets/post-17/07.png"
-      ]
+      ],
+      "pillar": "bts"
     },
     {
       "id": 18,
@@ -209,7 +226,8 @@
         "assets/post-18/05.png",
         "assets/post-18/06.png",
         "assets/post-18/07.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 19,
@@ -222,7 +240,8 @@
         "assets/post-19/05.png",
         "assets/post-19/06.png",
         "assets/post-19/07.png"
-      ]
+      ],
+      "pillar": "wealth-mindset"
     },
     {
       "id": 20,
@@ -235,7 +254,8 @@
         "assets/post-20/05.png",
         "assets/post-20/06.png",
         "assets/post-20/07.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 21,
@@ -248,7 +268,8 @@
         "assets/post-21/05.png",
         "assets/post-21/06.png",
         "assets/post-21/07.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "caption": "This account wrote itself this week. Here's the exact AI stack behind it. 🤖\n\nNo social media manager. No design agency. No freelancer. Just a system an engineer built on a Sunday.\n\n3 tools. That's the whole stack:\n\n1️⃣ Claude API — writes the caption, hook, and all 7 carousel slides. Input: topic + brand voice. Output: ready-to-post copy. Cost: ~\\.02.\n\n2️⃣ Playwright — renders HTML carousel slides to pixel-perfect 1080x1080 PNGs. No Canva. No exporting. Zero manual design steps.\n\n3️⃣ GitHub Actions — posts to Instagram + Threads every Wednesday 11am ET. Runs in the cloud while I'm at my day job.\n\nThe total time cost per post: 20 minutes of setup, once. After that, it runs indefinitely.\n\nThis isn't about replacing creativity. It's about not manually doing the same thing every single week. An engineer wouldn't manually deploy code each release — they'd write a CI/CD pipeline. Content is the same pattern.\n\nBuild the system. Let it run. Spend your time on the next problem.\n\nWhich part would you automate first — writing, designing, or scheduling? Comment below 👇\n\n#AITools #ContentAutomation #BuildInPublic #SideHustle #EngineerLife #ClaudeAI #GitHubActions #PassiveIncome #FinancialFreedom #SoloFounder #IndieHacker #AIAutomation",
@@ -261,7 +282,8 @@
         "assets/post-22/05.png",
         "assets/post-22/06.png",
         "assets/post-22/07.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "caption": "The first $1 from passive income hits different. Most people never make it. Here's why — and the exact path that fixes it. 💡\n\nEveryone talks about $10K/month. Nobody talks about the 0-to-$1 gap. That gap is where most people give up.\n\nThe 3 real blockers:\n1️⃣ Waiting until it's perfect (perfect never ships)\n2️⃣ Starting with a product (build audience first, sell affiliate while you learn what they buy)\n3️⃣ Picking one path and quitting when it doesn't work week 1\n\nThe actual sequence that works:\n→ Start with affiliate links (zero cost, first dollar can come in days)\n→ Watch what your audience clicks — that's your product research\n→ Build the digital product they've been asking for\n→ Automate the funnel and let it run\n\nThe $1 isn't income. It's a prod test. A signal that the system works. Most people never ship the first version — so they never get the signal.\n\nSave this roadmap, then comment: what's stopping your first $1? 👇\n\n#PassiveIncome #SideHustle #DigitalProducts #AffiliateMarketing #BuildInPublic #FinancialFreedom #AITools #EngineerLife #SoloFounder #OnlineIncome #CreatorEconomy #WealthMindset",
@@ -274,7 +296,8 @@
         "assets/post-23/05.png",
         "assets/post-23/06.png",
         "assets/post-23/07.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "caption": "I stopped comparing salaries and started comparing net worth. Here's what changed. 📊\n\nYour salary is a flow. Your net worth is the score. Most people spend their entire career optimizing the wrong number.\n\nThe formula is simple:\nAssets − Liabilities = Net Worth\n\nWhat counts as assets: investments, ETFs, real estate equity, cash, business value\nWhat counts as liabilities: mortgage, car loan, credit card debt\n\nSame $120K salary. 10 years later: one person is still salary-dependent, the other has options. The difference? One tracked take-home. The other tracked the balance sheet.\n\nEngineers have a real edge here:\n✅ High income floor = more to invest each month\n✅ Automation skills = income streams that earn while offline\n✅ Compounding leverage = savings rate × consistency × time\n\nThe bottleneck isn't the salary. It's not optimizing the balance sheet.\n\nCalculate your net worth today. It takes 10 minutes. That number is your actual score — not what HR deposits twice a month.\n\nComment your number (or just 'first time calculating') below 👇\n\n#WealthMindset #NetWorth #FinancialFreedom #PersonalFinance #EngineerLife #Investing #ETF #BuildWealth #SideHustle #PassiveIncome #AITools #FinancialIndependence",
@@ -287,7 +310,8 @@
         "assets/post-24/05.png",
         "assets/post-24/06.png",
         "assets/post-24/07.png"
-      ]
+      ],
+      "pillar": "wealth-mindset"
     },
     {
       "id": 25,
@@ -300,7 +324,8 @@
         "assets/post-25/05.png",
         "assets/post-25/06.png",
         "assets/post-25/07.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 26,
@@ -313,7 +338,8 @@
         "assets/post-26/05.png",
         "assets/post-26/06.png",
         "assets/post-26/07.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 27,
@@ -326,7 +352,8 @@
         "assets/post-27/05.png",
         "assets/post-27/06.png",
         "assets/post-27/07.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "id": 28,
@@ -339,7 +366,8 @@
         "assets/post-28/05.png",
         "assets/post-28/06.png",
         "assets/post-28/07.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "images": [
@@ -352,7 +380,8 @@
         "assets/post-29/07.png"
       ],
       "id": 29,
-      "caption": "I replaced Google Search with Perplexity AI for side hustle research. Here's what changed.\n\nThe old flow: 12 browser tabs, 3 ads, 45 minutes of manually cross-referencing sources just to answer one business question.\n\nThe new flow:\n→ Type my question into Perplexity\n→ Get a synthesized answer with 20+ citations in under 60 seconds\n→ Follow-up questions keep full context\n\nMy 3 use cases as an engineer building passive income:\n1. Market research — what are engineers actually buying?\n2. Competitor analysis — how does Tool A compare to Tool B in 2025?\n3. Content angles — what questions does my audience ask?\n\nBefore: 45 min per topic\nAfter: 4 min per topic\nResult: 10x more research done per week\n\nFree tier is enough to start. Perplexity Pro (~$20/mo) unlocks deeper research modes.\n\nSave this post when you're ready to stop Googling and start researching like a founder.\n\n#PerplexityAI #AITools #SideHustle #EngineerLife #ProductivityHacks #PassiveIncome #ResearchTools #AIProductivity #BuildInPublic #TechCareer"
+      "caption": "I replaced Google Search with Perplexity AI for side hustle research. Here's what changed.\n\nThe old flow: 12 browser tabs, 3 ads, 45 minutes of manually cross-referencing sources just to answer one business question.\n\nThe new flow:\n→ Type my question into Perplexity\n→ Get a synthesized answer with 20+ citations in under 60 seconds\n→ Follow-up questions keep full context\n\nMy 3 use cases as an engineer building passive income:\n1. Market research — what are engineers actually buying?\n2. Competitor analysis — how does Tool A compare to Tool B in 2025?\n3. Content angles — what questions does my audience ask?\n\nBefore: 45 min per topic\nAfter: 4 min per topic\nResult: 10x more research done per week\n\nFree tier is enough to start. Perplexity Pro (~$20/mo) unlocks deeper research modes.\n\nSave this post when you're ready to stop Googling and start researching like a founder.\n\n#PerplexityAI #AITools #SideHustle #EngineerLife #ProductivityHacks #PassiveIncome #ResearchTools #AIProductivity #BuildInPublic #TechCareer",
+      "pillar": "ai-tools"
     },
     {
       "images": [
@@ -365,7 +394,8 @@
         "assets/post-30/07.png"
       ],
       "id": 30,
-      "caption": "YouTube Shorts paid me while I worked a 9-to-5. No face. No studio. Here's the engineer's approach.\n\nThe secret: automation.\n\nThe AI stack I use:\nScript → Claude (30-second punchy topic breakdown)\nVoice → ElevenLabs (professional narration, no mic)\nVisuals → Pexels API + ffmpeg (free B-roll slideshow)\nUpload → YouTube Data API v3 (scheduled auto-post)\n\nOne Python script runs the full pipeline end-to-end.\n\nBest niches for engineers:\n→ AI tools explained in 60 seconds\n→ Coding tips and productivity hacks\n→ Side hustle income reports (numbers = views)\n→ Tech news breakdowns\n\nThe math:\n→ YPP threshold: 1,000 subs + 10M Shorts views\n→ RPM: ~$3–5 per 1,000 views\n→ Batch 30 videos in one weekend session\n→ Let automation post one per day\n\nFirst 90 days: build. After that: income compounds.\n\nYour engineering skills are the unfair advantage most YouTubers don't have. Build the system once, let it post while you sleep.\n\nFollow for the full Python pipeline breakdown.\n\n#YouTubeShorts #PassiveIncome #SideHustle #EngineerLife #AITools #ContentAutomation #BuildInPublic #FacelessYouTube #ElevenLabs #TechCareer"
+      "caption": "YouTube Shorts paid me while I worked a 9-to-5. No face. No studio. Here's the engineer's approach.\n\nThe secret: automation.\n\nThe AI stack I use:\nScript → Claude (30-second punchy topic breakdown)\nVoice → ElevenLabs (professional narration, no mic)\nVisuals → Pexels API + ffmpeg (free B-roll slideshow)\nUpload → YouTube Data API v3 (scheduled auto-post)\n\nOne Python script runs the full pipeline end-to-end.\n\nBest niches for engineers:\n→ AI tools explained in 60 seconds\n→ Coding tips and productivity hacks\n→ Side hustle income reports (numbers = views)\n→ Tech news breakdowns\n\nThe math:\n→ YPP threshold: 1,000 subs + 10M Shorts views\n→ RPM: ~$3–5 per 1,000 views\n→ Batch 30 videos in one weekend session\n→ Let automation post one per day\n\nFirst 90 days: build. After that: income compounds.\n\nYour engineering skills are the unfair advantage most YouTubers don't have. Build the system once, let it post while you sleep.\n\nFollow for the full Python pipeline breakdown.\n\n#YouTubeShorts #PassiveIncome #SideHustle #EngineerLife #AITools #ContentAutomation #BuildInPublic #FacelessYouTube #ElevenLabs #TechCareer",
+      "pillar": "passive-income"
     },
     {
       "caption": "I use Notion AI like a second brain for my side hustle. Here's my system.\n\nMost engineers use Notion as a fancy to-do list. That's the wrong move.\n\nThe knowledge problem engineers face:\n→ Ideas scattered across Notes, Slack, emails, GitHub issues\n→ Research done once — never found again\n→ Side hustle decisions made from memory, not data\n→ Start every new project from zero\n\nMy 4 core use cases:\n\n1. Project Hub — one page per side project with goals, status, notes, revenue\n2. Content Pipeline — ideas to published posts tracked in a database\n3. Research Vault — AI summarizes articles, saves key points automatically\n4. Docs on Demand — SOPs, emails, launch checklists drafted in 30 seconds\n\nThe Notion AI features I actually use:\n→ Ask AI: query your entire workspace in plain English\n→ Summarize: long notes → 5 bullet action items instantly\n→ Write with AI: outlines, emails, product copy in seconds\n→ Autofill DB: AI fills database columns from existing content\n\nTime saved per week:\n→ 2 hrs not hunting old notes\n→ 1 hr not writing docs manually\n→ 3 hrs total freed up = 156 hours/year\n\nYour best ideas deserve a system, not a graveyard of sticky notes.\n\nNotion is free to start. AI add-on is $10/mo and worth every dollar.\n\nFollow for more tools that multiply your output.\n\n#NotionAI #AITools #ProductivityHacks #SideHustle #EngineerLife #SecondBrain #BuildInPublic #WorkSmarter #TechCareer #FinancialFreedom",
@@ -378,7 +408,8 @@
         "assets/post-31/05.png",
         "assets/post-31/06.png",
         "assets/post-31/07.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "caption": "The engineer's path to $1M net worth. It's simpler than you think.\n\nNo crypto moonshots. No startup lottery. Just math and time.\n\nEngineers have an unfair advantage:\n→ Above-median income from day one\n→ Analytical thinking = no emotional investing mistakes\n→ Can build income-generating tools and products\n→ Remote work = geo-arbitrage opportunities\n\nThe formula is boring. That's the point.\n\nIncome × Savings Rate → invested in index funds\n+ Side hustle income → invested, not spent\n+ Time → compound interest does the rest\n\n$3,000/mo invested at 8% average return = $1M in about 16 years.\n\nThe 5-year roadmap:\nYear 1–2: Max 401(k)/IRA. Emergency fund. Kill high-interest debt. Start side hustle.\nYear 2–4: Side hustle income invested. Automate monthly index buys. Hit $100K net worth.\nYear 4–5: Compound acceleration. $200K → $300K feels faster. Keep the boring system.\n\nMistakes that slow you down:\n✗ Lifestyle inflation every raise\n✗ Picking individual stocks or timing the market\n✗ Spending side hustle income instead of investing it\n✗ Waiting until you 'make more' to start\n\nThe compound math most people ignore:\n$1K invested at 25 = ~$21K at 65 (7% return)\n$1K invested at 35 = ~$10.7K at 65\n2× difference from starting just 10 years earlier\n\n$1M isn't a dream — it's a math problem you already know how to solve.\n\nYour engineering brain optimized for problems is your biggest financial asset. Use it.\n\nFollow for the engineer's path to financial freedom.\n\n#WealthMindset #FinancialFreedom #EngineerLife #InvestingMindset #PassiveIncome #PersonalFinance #IndexFunds #CompoundInterest #SideHustle #BuildWealth",
@@ -391,7 +422,8 @@
         "assets/post-32/05.png",
         "assets/post-32/06.png",
         "assets/post-32/07.png"
-      ]
+      ],
+      "pillar": "wealth-mindset"
     },
     {
       "id": 33,
@@ -404,7 +436,8 @@
         "assets/post-33/05.png",
         "assets/post-33/06.png",
         "assets/post-33/07.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "id": 34,
@@ -417,7 +450,8 @@
         "assets/post-34/05.png",
         "assets/post-34/06.png",
         "assets/post-34/07.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 35,
@@ -430,7 +464,8 @@
         "assets/post-35/05.png",
         "assets/post-35/06.png",
         "assets/post-35/07.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "id": 36,
@@ -443,7 +478,8 @@
         "assets/post-36/05.png",
         "assets/post-36/06.png",
         "assets/post-36/07.png"
-      ]
+      ],
+      "pillar": "passive-income"
     },
     {
       "id": 37,
@@ -456,7 +492,8 @@
         "assets/post-37/05.png",
         "assets/post-37/06.png",
         "assets/post-37/07.png"
-      ]
+      ],
+      "pillar": "wealth-mindset"
     },
     {
       "id": 38,
@@ -469,7 +506,8 @@
         "assets/post-38/05.png",
         "assets/post-38/06.png",
         "assets/post-38/07.png"
-      ]
+      ],
+      "pillar": "ai-tools"
     },
     {
       "caption": "Engineers make the best online course creators. Most don't know it yet.\n\nYou already explain complex things to junior engineers for free. Someone will pay $197 for that.\n\nWhy engineers underestimate their teaching value:\n→ 'Everyone knows this' — no, they don't. Curse of knowledge.\n→ Engineers explain systematically, which is what learners need\n→ Your 5-year experience is someone else's 5-year shortcut\n→ Niche technical knowledge = lower competition + premium pricing\n\nCourse topics engineers can sell:\n• AI Tools for Engineers — Claude, Cursor, dev workflow automation\n• Side Hustle for Devs — from salary to multiple income streams\n• Scripting & Automation — Python/Bash for non-programmers\n• System Design 101 — for junior devs prepping for interviews\n\nHow to launch in 6 weeks:\n1. Week 1: Pick one problem you've solved. Write a 5-point outline.\n2. Week 2: Record 5 short videos (10-20 min) — phone + Loom works\n3. Week 3: Upload to Gumroad or Teachable. Write landing page copy.\n4. Week 4: Post 3 pieces of free content from the course as teasers\n5. Week 5: Launch to your email list at $97 early-bird price\n6. Week 6: Collect feedback, raise price to $197\n\nThe economics:\n→ Average mid-level technical course: $197\n→ 10 sales/mo = $1,970/mo passive\n→ Zero marginal cost per student after creation\n\nSomeone out there would pay $197 to skip the 5 years it took you to learn this.\n\nYour experience has already been paid for by your time. Now let it pay you back.\n\nFollow for the 6-week course launch playbook.\n\n#OnlineCourse #PassiveIncome #EngineerLife #SideHustle #Teachable #Gumroad #CourseCreator #DigitalProducts #BuildInPublic #FinancialFreedom",
@@ -482,7 +520,8 @@
         "assets/post-39/06.png",
         "assets/post-39/07.png"
       ],
-      "id": 39
+      "id": 39,
+      "pillar": "passive-income"
     },
     {
       "caption": "1 year building this account in public. What I got wrong. What actually worked.\n\nNo vanity metrics. Just honest lessons from the process.\n\nWhat I got wrong at the start:\n✗ Spent 3 weeks 'perfecting' the first post instead of shipping it\n✗ Tried to be everywhere at once (IG, LinkedIn, TikTok, YouTube)\n✗ Measured success by follower count instead of content consistency\n✗ Waited for 'the right moment' to monetize — there is no right moment\n\nThe 4 lessons that actually mattered:\n1. Consistency beats quality at the start. Post something imperfect every week.\n2. The system matters more than the content. Automate before you scale.\n3. Niche specificity compounds. 'Engineer + AI + passive income' beats 'productivity.'\n4. The audience you want finds you when you stop trying to impress the wrong one.\n\nWhat the pipeline looks like now:\n→ 1 weekend/month: batch 4-8 carousel posts (HTML → Playwright → PNG)\n→ GitHub Actions posts every Wednesday 11am ET automatically\n→ IG + Threads in sync — two platforms, one post, zero extra work\n→ 3 hours/month of active work. Consistent output regardless of schedule.\n\nWhat I'd do differently from day 1:\n→ Build the automation pipeline before post #1, not after post #20\n→ Start collecting emails from the first post (the list is the asset)\n→ Ship imperfect content weekly instead of perfect content quarterly\n→ Say no to platforms until one is fully automated\n\nThe honest numbers:\n→ 40+ carousels created\n→ 2 platforms posting automatically\n→ $0 monthly infrastructure cost\n→ Revenue: building. The foundation takes time. The compound curve hits later.\n\nBuilding in public means sharing the real process, not just the highlight reel.\n\nFollow for the full unfiltered build journal.\n\n#BuildInPublic #BehindTheScenes #EngineerLife #ContentAutomation #SideHustle #GitHubActions #AITools #PassiveIncome #PersonalBrand #TechCreator",
@@ -495,7 +534,8 @@
         "assets/post-40/06.png",
         "assets/post-40/07.png"
       ],
-      "id": 40
+      "id": 40,
+      "pillar": "bts"
     },
     {
       "id": 41,
