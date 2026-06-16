@@ -210,6 +210,45 @@
         "assets/post-18/06.png",
         "assets/post-18/07.png"
       ]
+    },
+    {
+      "id": 19,
+      "caption": "I don't predict the market. I just show up every month.\n\nThat's the entire strategy. It's called dollar-cost averaging — and it's the only investing habit I know that works without being smart, lucky, or early.\n\nHere's the math: $200/mo invested for 10 years at an average 8% return → ~$36K total. You put in $24K. The market added ~$12K you didn't have to earn.\n\nThe catch? You have to actually do it every month, even when the market drops — especially when it drops. That's when you're buying more shares for the same $200.\n\nMost people don't. They wait for a 'better time.' The market goes up → they think they missed it. The market goes down → they think it'll go lower. The result: the same $200 sits in a savings account at 0.01% interest.\n\nDCA isn't exciting. It's scheduled. Like a cron job that runs every 1st of the month, regardless of conditions. That's the point.\n\nIf you're waiting for the right time to start investing — this is it. Not because the market is at the right price. Because the 'right time' feeling never comes.\n\nSave this, then ask yourself: when did you last schedule an investment? 👇\n\n#WealthMindset #Investing #DollarCostAveraging #FinancialFreedom #PassiveIncome #SideHustle #BuildInPublic #PersonalFinance #AITools #SoloFounder #TechCareer #StockMarket",
+      "images": [
+        "assets/post-19/01.png",
+        "assets/post-19/02.png",
+        "assets/post-19/03.png",
+        "assets/post-19/04.png",
+        "assets/post-19/05.png",
+        "assets/post-19/06.png",
+        "assets/post-19/07.png"
+      ]
+    },
+    {
+      "id": 20,
+      "caption": "I've prompted Claude hundreds of times to write content. Most of those early attempts were bad — generic, fluffy, nothing like how I actually write.\n\nHere's what changed: I stopped describing my voice and started showing it.\n\n3 rules that actually work:\n\n1️⃣ Give it examples, not descriptions. Don't say 'write casually.' Paste 2–3 of your own posts and say 'match this tone.' Claude reverse-engineers your style far better from examples than from adjectives. Better yet: open a Claude Project and paste your best posts once — it remembers every session.\n\n2️⃣ Add constraints, not wishes. 'Make it punchy' means nothing. 'Max 15 words per sentence, no fluff words like leverage or unlock, paragraphs max 2 sentences' is specific enough to actually change the output.\n\n3️⃣ Give it a role and an audience. 'You're an engineer who builds passive income. Writing for 25–40 year olds in the US, already working a day job, exploring side income.' Claude calibrates tone, vocabulary, and complexity to that profile.\n\nCombine all three in a single system prompt, save it in a Claude Project, and you stop getting AI-sounding output. You start getting something that sounds like you.\n\nSave this template, then try it on your next piece of content. 👉\n\n#AITools #ClaudeAI #ContentCreation #AIagents #BuildInPublic #SideHustle #SoloFounder #TechCareer #ContentCreator #Automation #FinancialFreedom #AIPrompting",
+      "images": [
+        "assets/post-20/01.png",
+        "assets/post-20/02.png",
+        "assets/post-20/03.png",
+        "assets/post-20/04.png",
+        "assets/post-20/05.png",
+        "assets/post-20/06.png",
+        "assets/post-20/07.png"
+      ]
+    },
+    {
+      "id": 21,
+      "caption": "100 followers can make you money. The math is more honest than most people expect.\n\nAffiliate income at 100 followers: probably $0–50/mo. At 1K: maybe $50–300. At 10K: $300–2K+ becomes realistic. These aren't guarantees — they depend heavily on niche trust and what you're linking to.\n\nYour own digital product at 100 followers: same ballpark, maybe $0–200/mo if you launch to a warm audience. At 1K: $200–1K+ is possible. At 10K: the ceiling starts to look very different — $1K–$10K+/mo is where creators with high-trust audiences end up.\n\nThe difference is leverage. Affiliate income is renting the outcome. You earn a cut of someone else's product, at someone else's margin, on a commission rate they control. Your own product owns the outcome — the margin, the price, the long-term relationship.\n\nBut here's the order that actually works: start with affiliate. It requires no product, tests what your audience actually buys, and earns while you're still building trust. Then pay attention to what they click. Your affiliate data tells you which problem they're willing to pay to solve. That's your product idea.\n\nAffiliate is a probe. Your product is the system.\n\nSave this, then comment where you are right now — affiliate, product, or still figuring it out? 👇\n\n#PassiveIncome #CreatorEconomy #AffiliateMarketing #DigitalProducts #SideHustle #BuildInPublic #FinancialFreedom #ContentCreator #SoloFounder #AITools #WealthMindset #OnlineIncome",
+      "images": [
+        "assets/post-21/01.png",
+        "assets/post-21/02.png",
+        "assets/post-21/03.png",
+        "assets/post-21/04.png",
+        "assets/post-21/05.png",
+        "assets/post-21/06.png",
+        "assets/post-21/07.png"
+      ]
     }
   ]
 }
