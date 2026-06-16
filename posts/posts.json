@@ -418,6 +418,32 @@
         "assets/post-34/06.png",
         "assets/post-34/07.png"
       ]
+    },
+    {
+      "id": 35,
+      "caption": "GitHub Copilot vs Claude for engineers building a side hustle. Honest breakdown.\n\nI've used both for 6+ months. Here's where each one actually wins.\n\nWhat they're designed for:\n→ Copilot: IDE-native code completion — thinks in lines, not systems\n→ Claude: Long-context reasoning — thinks in files, architectures, tradeoffs\n→ Copilot is faster for mechanical coding; Claude is better for decisions\n\nFor a side hustle, you spend more time deciding than typing.\n\nWho wins by use case:\n→ Boilerplate code: Copilot (faster inline, less thinking needed)\n→ Architecture decisions: Claude (explains tradeoffs, not just code)\n→ Writing landing copy: Claude (understands context and audience)\n→ Debugging complex bugs: Claude (reasons through the whole file)\n→ Content creation: Claude (Copilot can't touch this)\n\nPricing reality:\n→ Copilot Individual: $10/mo — pure coding assistant\n→ Claude Pro: $20/mo — coding + writing + strategy + research\n\nFor a side hustle, $20 on Claude replaces $10 Copilot + $20 ChatGPT + writing tools.\n\nMy actual setup:\n→ Claude for planning, architecture, writing, debugging\n→ Cursor AI (built on Claude) for in-editor coding\n→ Dropped Copilot when Cursor came out\n\nThe right AI tool isn't the cheapest one. It's the one that ships your idea faster.\n\nPick based on what you're building, not what has the most GitHub stars.\n\nFollow for more honest AI tool reviews for engineers.\n\n#GitHubCopilot #ClaudeAI #AITools #EngineerLife #SideHustle #CursorAI #AIComparison #BuildInPublic #TechCareer #DeveloperTools",
+      "images": [
+        "assets/post-35/01.png",
+        "assets/post-35/02.png",
+        "assets/post-35/03.png",
+        "assets/post-35/04.png",
+        "assets/post-35/05.png",
+        "assets/post-35/06.png",
+        "assets/post-35/07.png"
+      ]
+    },
+    {
+      "id": 36,
+      "caption": "Engineers are selling Notion templates for $29–$149 each. Build once. Sell forever.\n\nYour workflow system is worth money. Someone else needs exactly what you already built.\n\nWhy engineers have a template edge:\n→ Engineers build systematic, structured workflows by default\n→ Niche knowledge commands premium prices (dev templates > generic ones)\n→ Once created, zero marginal cost per sale\n→ Notion has 30M+ users actively searching for templates\n\nBest template types for engineers (with pricing):\n• Side Hustle OS / Project Tracker — $29–49\n• AI Tools Dashboard + Comparison DB — $19–39\n• Job Search / Interview Prep System — $29–59\n• Personal Finance Tracker (engineer edition) — $29–79\n\nWhere to sell:\n1. Gumroad — easiest setup, 10% fee, simple checkout\n2. Notion Template Gallery — free, built-in traffic, competitive\n3. Etsy — digital downloads, large search traffic\n4. Your own site — zero fees, build your own traffic\n\nHow to build a sellable template:\n→ Start with YOUR system — what workflow do you actually use?\n→ Add Quick Start instructions (value in 5 minutes)\n→ Demo video on Loom (free) — triples conversion rate\n→ Price at $29–49 first, raise after first 10 reviews\n\nThe economics:\n→ $0 marginal cost per additional sale\n→ 8 hours to build a solid template\n→ Unlimited times it can sell from that work\n\n5 sales/month at $39 = $195/mo passive. 50 sales/month = $1,950/mo. Same template.\n\nThe system you built for yourself is the product someone else will pay for today.\n\nOpen Notion. Find the page you're most proud of. That's your first template.\n\nFollow for the step-by-step Gumroad setup guide.\n\n#NotionTemplates #PassiveIncome #Gumroad #SideHustle #EngineerLife #DigitalProducts #BuildInPublic #FinancialFreedom #TechCareer #ContentCreator",
+      "images": [
+        "assets/post-36/01.png",
+        "assets/post-36/02.png",
+        "assets/post-36/03.png",
+        "assets/post-36/04.png",
+        "assets/post-36/05.png",
+        "assets/post-36/06.png",
+        "assets/post-36/07.png"
+      ]
     }
   ]
 }
