@@ -1,8 +1,15 @@
-# Alpha Engineer — IG 自動發文 (GitHub Actions 版)
+# Alpha Engineer — 多平台自動發文 (GitHub Actions 版)
 
-取代 n8n 的免費自動發文系統。每週三自動幫 `@alphaengineer.ai` 發一篇 IG 貼文（單圖或輪播）。
+免費多平台自動發文系統。每週三同步發佈到所有已設定的平台。
 
-**狀態：已上線 ✅**（2026-06-10 第一篇 carousel 發布成功）
+| 平台 | 狀態 |
+|------|------|
+| Instagram | ✅ 啟用中（@alphaengineer.ai） |
+| Threads | 💤 設定 2 個 secrets 後啟用 |
+| TikTok | 💤 申請 API 審核通過後啟用 |
+| YouTube | 💤 設定 3 個 secrets 後啟用（Shorts 格式） |
+
+**參閱 `docs/platform-setup-guide.md` 完成帳號申請與 API 設定。**
 
 ## 設定步驟
 

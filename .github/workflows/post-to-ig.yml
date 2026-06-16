@@ -1,4 +1,4 @@
-name: Post to Instagram
+name: Post to All Platforms
 
 on:
   schedule:
@@ -15,5 +15,20 @@ jobs:
           node-version: 20
       - run: node scripts/post.mjs
         env:
+          # ── Instagram (啟用中) ──────────────────────────────────────────────
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
+
+          # ── Threads（設定後即啟用，參閱 docs/platform-setup-guide.md）──────
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+
+          # ── TikTok（API 審核通過後再填）────────────────────────────────────
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
+
+          # ── YouTube（OAuth 設定後再填）─────────────────────────────────────
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
