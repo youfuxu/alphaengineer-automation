@@ -54,6 +54,7 @@ export async function postToThreads({ post, rawUrl }) {
         image_url: rawUrl(img),
         is_carousel_item: 'true',
       }, token);
+      await waitReady(id, token);
       childIds.push(id);
     }
     const { id } = await apiCall(`${userId}/threads`, {
