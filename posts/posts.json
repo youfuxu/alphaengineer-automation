@@ -366,6 +366,32 @@
       ],
       "id": 30,
       "caption": "YouTube Shorts paid me while I worked a 9-to-5. No face. No studio. Here's the engineer's approach.\n\nThe secret: automation.\n\nThe AI stack I use:\nScript → Claude (30-second punchy topic breakdown)\nVoice → ElevenLabs (professional narration, no mic)\nVisuals → Pexels API + ffmpeg (free B-roll slideshow)\nUpload → YouTube Data API v3 (scheduled auto-post)\n\nOne Python script runs the full pipeline end-to-end.\n\nBest niches for engineers:\n→ AI tools explained in 60 seconds\n→ Coding tips and productivity hacks\n→ Side hustle income reports (numbers = views)\n→ Tech news breakdowns\n\nThe math:\n→ YPP threshold: 1,000 subs + 10M Shorts views\n→ RPM: ~$3–5 per 1,000 views\n→ Batch 30 videos in one weekend session\n→ Let automation post one per day\n\nFirst 90 days: build. After that: income compounds.\n\nYour engineering skills are the unfair advantage most YouTubers don't have. Build the system once, let it post while you sleep.\n\nFollow for the full Python pipeline breakdown.\n\n#YouTubeShorts #PassiveIncome #SideHustle #EngineerLife #AITools #ContentAutomation #BuildInPublic #FacelessYouTube #ElevenLabs #TechCareer"
+    },
+    {
+      "caption": "I use Notion AI like a second brain for my side hustle. Here's my system.\n\nMost engineers use Notion as a fancy to-do list. That's the wrong move.\n\nThe knowledge problem engineers face:\n→ Ideas scattered across Notes, Slack, emails, GitHub issues\n→ Research done once — never found again\n→ Side hustle decisions made from memory, not data\n→ Start every new project from zero\n\nMy 4 core use cases:\n\n1. Project Hub — one page per side project with goals, status, notes, revenue\n2. Content Pipeline — ideas to published posts tracked in a database\n3. Research Vault — AI summarizes articles, saves key points automatically\n4. Docs on Demand — SOPs, emails, launch checklists drafted in 30 seconds\n\nThe Notion AI features I actually use:\n→ Ask AI: query your entire workspace in plain English\n→ Summarize: long notes → 5 bullet action items instantly\n→ Write with AI: outlines, emails, product copy in seconds\n→ Autofill DB: AI fills database columns from existing content\n\nTime saved per week:\n→ 2 hrs not hunting old notes\n→ 1 hr not writing docs manually\n→ 3 hrs total freed up = 156 hours/year\n\nYour best ideas deserve a system, not a graveyard of sticky notes.\n\nNotion is free to start. AI add-on is $10/mo and worth every dollar.\n\nFollow for more tools that multiply your output.\n\n#NotionAI #AITools #ProductivityHacks #SideHustle #EngineerLife #SecondBrain #BuildInPublic #WorkSmarter #TechCareer #FinancialFreedom",
+      "id": 31,
+      "images": [
+        "assets/post-31/01.png",
+        "assets/post-31/02.png",
+        "assets/post-31/03.png",
+        "assets/post-31/04.png",
+        "assets/post-31/05.png",
+        "assets/post-31/06.png",
+        "assets/post-31/07.png"
+      ]
+    },
+    {
+      "caption": "The engineer's path to $1M net worth. It's simpler than you think.\n\nNo crypto moonshots. No startup lottery. Just math and time.\n\nEngineers have an unfair advantage:\n→ Above-median income from day one\n→ Analytical thinking = no emotional investing mistakes\n→ Can build income-generating tools and products\n→ Remote work = geo-arbitrage opportunities\n\nThe formula is boring. That's the point.\n\nIncome × Savings Rate → invested in index funds\n+ Side hustle income → invested, not spent\n+ Time → compound interest does the rest\n\n$3,000/mo invested at 8% average return = $1M in about 16 years.\n\nThe 5-year roadmap:\nYear 1–2: Max 401(k)/IRA. Emergency fund. Kill high-interest debt. Start side hustle.\nYear 2–4: Side hustle income invested. Automate monthly index buys. Hit $100K net worth.\nYear 4–5: Compound acceleration. $200K → $300K feels faster. Keep the boring system.\n\nMistakes that slow you down:\n✗ Lifestyle inflation every raise\n✗ Picking individual stocks or timing the market\n✗ Spending side hustle income instead of investing it\n✗ Waiting until you 'make more' to start\n\nThe compound math most people ignore:\n$1K invested at 25 = ~$21K at 65 (7% return)\n$1K invested at 35 = ~$10.7K at 65\n2× difference from starting just 10 years earlier\n\n$1M isn't a dream — it's a math problem you already know how to solve.\n\nYour engineering brain optimized for problems is your biggest financial asset. Use it.\n\nFollow for the engineer's path to financial freedom.\n\n#WealthMindset #FinancialFreedom #EngineerLife #InvestingMindset #PassiveIncome #PersonalFinance #IndexFunds #CompoundInterest #SideHustle #BuildWealth",
+      "id": 32,
+      "images": [
+        "assets/post-32/01.png",
+        "assets/post-32/02.png",
+        "assets/post-32/03.png",
+        "assets/post-32/04.png",
+        "assets/post-32/05.png",
+        "assets/post-32/06.png",
+        "assets/post-32/07.png"
+      ]
     }
   ]
 }
