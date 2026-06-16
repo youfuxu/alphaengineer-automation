@@ -114,25 +114,44 @@ https://graph.threads.net/oauth/authorize
 1. 到 https://console.cloud.google.com
 2. 建立新 Project（名稱：Alpha Engineer Bot）
 3. APIs & Services → Enable APIs → 搜尋「YouTube Data API v3」→ Enable
-4. APIs & Services → Credentials → Create Credentials → **OAuth 2.0 Client IDs**
-   - Application type: **Web application**
-   - Authorized redirect URIs: `https://developers.google.com/oauthplayground`
-5. 下載 client ID 和 client secret
+4. APIs & Services → OAuth Consent Screen：
+   - User Type：**External**
+   - 填 App name + 你的 email
+   - Scopes：加 `youtube.upload`
+   - ⚠️ **CRITICAL**：Test Users → 加入你的 Google email（沒加這步會出現 "Access blocked"）
+5. APIs & Services → Credentials → Create Credentials → **OAuth 2.0 Client IDs**
+   - Application type：**Desktop app**（不是 Web application）
+   - 名稱：Alpha Engineer Bot
+6. 下載 client ID 和 client secret
 
-### 3. 取得 Refresh Token（一次性操作）
-1. 到 https://developers.google.com/oauthplayground
-2. 右上角齒輪 → 勾選「Use your own OAuth credentials」→ 填入 Client ID 和 Secret
-3. 左側 Step 1 → 搜尋 `https://www.googleapis.com/auth/youtube.upload` → Authorize APIs
-4. 登入並授權（用頻道帳號）
-5. Step 2 → Exchange authorization code for tokens
-6. 複製 **refresh_token**（長字串，永久有效直到撤銷）
+### 3. 取得 Refresh Token（用 youtube-creator-cli，比 OAuth Playground 更簡單）
+
+```bash
+# 安裝 CLI（一次性）
+npm install -g youtube-creator-cli
+
+# 填入你的 credentials
+youtube-creator-cli setup \
+  --client-id "你的 Client ID" \
+  --client-secret "你的 Client Secret" \
+  --non-interactive
+
+# 開瀏覽器授權（用 YouTube 頻道帳號登入）
+youtube-creator-cli auth
+
+# 取出 refresh_token
+cat ~/.youtube-creator-cli/config.json
+# 複製 "refresh_token" 的值
+```
+
+> 原因：Desktop app OAuth 不需要 redirect URI，CLI 自動起 localhost server 完成授權，比 OAuth Playground 少 3 個步驟。
 
 ### 4. 加入 GitHub Secrets
 | Secret Name | Value |
 |-------------|-------|
 | `YOUTUBE_CLIENT_ID` | Google Cloud OAuth Client ID |
 | `YOUTUBE_CLIENT_SECRET` | Google Cloud OAuth Client Secret |
-| `YOUTUBE_REFRESH_TOKEN` | OAuth Playground 取得的 refresh token |
+| `YOUTUBE_REFRESH_TOKEN` | `config.json` 裡的 `refresh_token` 值 |
 
 ### 內容說明
 - 每週三同步從 carousel 圖片自動產生 **YouTube Shorts**（21秒以內的垂直短影音）
