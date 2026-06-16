@@ -340,6 +340,32 @@
         "assets/post-28/06.png",
         "assets/post-28/07.png"
       ]
+    },
+    {
+      "images": [
+        "assets/post-29/01.png",
+        "assets/post-29/02.png",
+        "assets/post-29/03.png",
+        "assets/post-29/04.png",
+        "assets/post-29/05.png",
+        "assets/post-29/06.png",
+        "assets/post-29/07.png"
+      ],
+      "id": 29,
+      "caption": "I replaced Google Search with Perplexity AI for side hustle research. Here's what changed.\n\nThe old flow: 12 browser tabs, 3 ads, 45 minutes of manually cross-referencing sources just to answer one business question.\n\nThe new flow:\n→ Type my question into Perplexity\n→ Get a synthesized answer with 20+ citations in under 60 seconds\n→ Follow-up questions keep full context\n\nMy 3 use cases as an engineer building passive income:\n1. Market research — what are engineers actually buying?\n2. Competitor analysis — how does Tool A compare to Tool B in 2025?\n3. Content angles — what questions does my audience ask?\n\nBefore: 45 min per topic\nAfter: 4 min per topic\nResult: 10x more research done per week\n\nFree tier is enough to start. Perplexity Pro (~$20/mo) unlocks deeper research modes.\n\nSave this post when you're ready to stop Googling and start researching like a founder.\n\n#PerplexityAI #AITools #SideHustle #EngineerLife #ProductivityHacks #PassiveIncome #ResearchTools #AIProductivity #BuildInPublic #TechCareer"
+    },
+    {
+      "images": [
+        "assets/post-30/01.png",
+        "assets/post-30/02.png",
+        "assets/post-30/03.png",
+        "assets/post-30/04.png",
+        "assets/post-30/05.png",
+        "assets/post-30/06.png",
+        "assets/post-30/07.png"
+      ],
+      "id": 30,
+      "caption": "YouTube Shorts paid me while I worked a 9-to-5. No face. No studio. Here's the engineer's approach.\n\nThe secret: automation.\n\nThe AI stack I use:\nScript → Claude (30-second punchy topic breakdown)\nVoice → ElevenLabs (professional narration, no mic)\nVisuals → Pexels API + ffmpeg (free B-roll slideshow)\nUpload → YouTube Data API v3 (scheduled auto-post)\n\nOne Python script runs the full pipeline end-to-end.\n\nBest niches for engineers:\n→ AI tools explained in 60 seconds\n→ Coding tips and productivity hacks\n→ Side hustle income reports (numbers = views)\n→ Tech news breakdowns\n\nThe math:\n→ YPP threshold: 1,000 subs + 10M Shorts views\n→ RPM: ~$3–5 per 1,000 views\n→ Batch 30 videos in one weekend session\n→ Let automation post one per day\n\nFirst 90 days: build. After that: income compounds.\n\nYour engineering skills are the unfair advantage most YouTubers don't have. Build the system once, let it post while you sleep.\n\nFollow for the full Python pipeline breakdown.\n\n#YouTubeShorts #PassiveIncome #SideHustle #EngineerLife #AITools #ContentAutomation #BuildInPublic #FacelessYouTube #ElevenLabs #TechCareer"
     }
   ]
 }
