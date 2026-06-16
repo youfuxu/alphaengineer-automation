@@ -444,6 +444,32 @@
         "assets/post-36/06.png",
         "assets/post-36/07.png"
       ]
+    },
+    {
+      "id": 37,
+      "caption": "The engineer's relationship with money is broken. Here's how to fix it.\n\nWe optimize systems at work. We leave our finances running on defaults.\n\nThe broken defaults most engineers run on:\n✗ Income goes to checking account → gets spent → repeat\n✗ 401(k) contribution set once in year one, never reviewed\n✗ 'I'll invest when I earn more' — the perpetual delay loop\n✗ Lifestyle inflates with every raise — net worth stays flat\n\nAn unoptimized financial system is a bug. Treat it like one.\n\nThe mindset shifts that change everything:\n'I'll invest when I have more money' → 'I invest first, spend what's left'\n'My salary determines my wealth' → 'My savings rate determines my wealth'\n'That raise deserves a reward' → 'That raise = faster compounding'\n\nThe financial OS to build:\n1. Automate: paycheck → 401(k) + Roth IRA + index funds before you can spend it\n2. Track: net worth monthly, not spending daily (behavior follows measurement)\n3. Add income: one side hustle that doesn't scale with your time\n4. Raise the ceiling: salary negotiations, promotions, job changes\n\nThe 30-minute audit to run today:\n→ 401(k) contribution — is it maxed? ($23,500 limit in 2025)\n→ Fund allocation — still in target-date fund from year one?\n→ Calculate savings rate (savings ÷ gross income × 100)\n→ Set up one automatic transfer to a brokerage account\n\n30 minutes today could be worth $100,000+ over 20 years. No other task has that ROI.\n\nYou optimize code for performance. Your money deserves the same treatment.\n\nFollow for the engineer's 30-minute financial audit checklist.\n\n#WealthMindset #EngineerFinance #PersonalFinance #InvestingForEngineers #401k #IndexFunds #FinancialFreedom #SideHustle #CompoundInterest #BuildWealth",
+      "images": [
+        "assets/post-37/01.png",
+        "assets/post-37/02.png",
+        "assets/post-37/03.png",
+        "assets/post-37/04.png",
+        "assets/post-37/05.png",
+        "assets/post-37/06.png",
+        "assets/post-37/07.png"
+      ]
+    },
+    {
+      "id": 38,
+      "caption": "AI can write content that sounds exactly like you. Most people don't know how.\n\nThe secret isn't a better model. It's a better prompt.\n\nWhy AI content sounds generic:\n✗ No voice instructions → AI defaults to corporate-neutral English\n✗ Vague prompts → vague output ('write a LinkedIn post about AI')\n✗ No audience definition → AI doesn't know who it's talking to\n✗ No examples → AI can't pattern-match your style\n\nThe voice prompt framework:\n'You are writing in the voice of [Name]. Audience: [specific description]. Tone: [2-3 adjectives]. Style: short sentences, no filler words, direct. Never say [banned phrases]. Always end with [CTA pattern]. Here are 3 examples of past content: [examples]'\n\nBad prompt: 'Write an Instagram post about using AI tools to make money as an engineer'\n\nGood prompt: 'Write a 7-slide carousel for engineers 25–35 who want passive income. Direct, no fluff, one insight per slide. End with: Follow for more.'\n\n5 elements of a voice prompt:\n1. Identity — who are you? what's your credential?\n2. Audience — age, job, pain points, what they care about\n3. Tone — 2-3 specific adjectives (direct, technical, empowering)\n4. Rules — what to avoid (jargon, corporate language, passive voice)\n5. Examples — 2-3 samples of your best past content\n\nMy actual system prompt (simplified):\n'You write for @alphaengineer.ai. Audience: engineers 25–40 building AI-powered passive income. Tone: direct, technical, motivating. No: harness, leverage, paradigm. Always: short sentences, real numbers, end with CTA.'\n\nEvery AI post I publish starts with this. The consistency is the brand.\n\nAI doesn't replace your voice. It amplifies it — if you give it the right instructions.\n\nFollow — I'll share my full prompt template next week.\n\n#AITools #ContentCreation #AIWriting #ClaudeAI #PromptEngineering #EngineerLife #SideHustle #BuildInPublic #ContentStrategy #PersonalBrand",
+      "images": [
+        "assets/post-38/01.png",
+        "assets/post-38/02.png",
+        "assets/post-38/03.png",
+        "assets/post-38/04.png",
+        "assets/post-38/05.png",
+        "assets/post-38/06.png",
+        "assets/post-38/07.png"
+      ]
     }
   ]
 }
