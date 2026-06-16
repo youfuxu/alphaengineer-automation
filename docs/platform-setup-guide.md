@@ -5,7 +5,7 @@
 | 平台 | 帳號 | API Secrets | 自動發文 |
 |------|------|------------|---------|
 | Instagram | ✅ @alphaengineer.ai | ✅ 已設定 | ✅ 運作中 |
-| Threads | ⬜ 待申請 | ⬜ 待設定 | 💤 設定後立即啟用 |
+| Threads | ✅ @alphaengineer.ai | ✅ 已設定 | ✅ 運作中 |
 | TikTok | ⬜ 待申請 | ⬜ API 審核中（需數天）| 💤 審核通過後啟用 |
 | YouTube | ⬜ 待申請 | ⬜ 待設定 | 💤 設定後立即啟用 |
 

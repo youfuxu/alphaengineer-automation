@@ -5,7 +5,7 @@
 | 平台 | 狀態 |
 |------|------|
 | Instagram | ✅ 啟用中（@alphaengineer.ai） |
-| Threads | 💤 設定 2 個 secrets 後啟用 |
+| Threads | ✅ 啟用中（@alphaengineer.ai） |
 | TikTok | 💤 申請 API 審核通過後啟用 |
 | YouTube | 💤 設定 3 個 secrets 後啟用（Shorts 格式） |
 
