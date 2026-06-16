@@ -249,6 +249,19 @@
         "assets/post-21/06.png",
         "assets/post-21/07.png"
       ]
+    },
+    {
+      "caption": "This account wrote itself this week. Here's the exact AI stack behind it. 🤖\n\nNo social media manager. No design agency. No freelancer. Just a system an engineer built on a Sunday.\n\n3 tools. That's the whole stack:\n\n1️⃣ Claude API — writes the caption, hook, and all 7 carousel slides. Input: topic + brand voice. Output: ready-to-post copy. Cost: ~\\.02.\n\n2️⃣ Playwright — renders HTML carousel slides to pixel-perfect 1080x1080 PNGs. No Canva. No exporting. Zero manual design steps.\n\n3️⃣ GitHub Actions — posts to Instagram + Threads every Wednesday 11am ET. Runs in the cloud while I'm at my day job.\n\nThe total time cost per post: 20 minutes of setup, once. After that, it runs indefinitely.\n\nThis isn't about replacing creativity. It's about not manually doing the same thing every single week. An engineer wouldn't manually deploy code each release — they'd write a CI/CD pipeline. Content is the same pattern.\n\nBuild the system. Let it run. Spend your time on the next problem.\n\nWhich part would you automate first — writing, designing, or scheduling? Comment below 👇\n\n#AITools #ContentAutomation #BuildInPublic #SideHustle #EngineerLife #ClaudeAI #GitHubActions #PassiveIncome #FinancialFreedom #SoloFounder #IndieHacker #AIAutomation",
+      "id": 22,
+      "images": [
+        "assets/post-22/01.png",
+        "assets/post-22/02.png",
+        "assets/post-22/03.png",
+        "assets/post-22/04.png",
+        "assets/post-22/05.png",
+        "assets/post-22/06.png",
+        "assets/post-22/07.png"
+      ]
     }
   ]
 }
