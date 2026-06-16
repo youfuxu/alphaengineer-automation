@@ -392,6 +392,32 @@
         "assets/post-32/06.png",
         "assets/post-32/07.png"
       ]
+    },
+    {
+      "id": 33,
+      "caption": "Engineers are selling print on demand products. Most aren't engineers. You are.\n\nAI designs the product. The platform handles printing and shipping. You collect the margin.\n\nWhy POD fits engineers:\n→ Zero inventory risk — products made only when ordered\n→ AI tools (Midjourney, DALL-E) replace a graphic designer\n→ Niche engineering humor has a loyal, high-spending audience\n→ Once listed, products earn while you work your day job\n\nBest product types for engineers:\n• T-Shirts / Hoodies — coding jokes, stack references, 'it works on my machine' humor\n• Mugs & Posters — terminal output prints, circuit board art\n• Stickers / Pins — low price, high volume, impulse buys\n• Digital print files on Gumroad — 100% margin, zero fulfillment\n\nThe AI workflow (idea to live listing in 2 hours):\n1. Perplexity AI — research trending engineer gifts\n2. Midjourney / DALL-E 3 — generate 10 design variations in 20 min\n3. Adobe Express (free) — upscale to 300dpi print-ready PNG\n4. Printful + Etsy — first listing live in 30 min\n\nRealistic numbers:\n→ $5–8 profit per shirt (Redbubble)\n→ 50+ listings for consistent sales\n→ $200–800/month by month 3–6\n\nA T-shirt you designed in 20 minutes can sell while you sleep for the next 5 years.\n\nYour niche knowledge is your design moat. Non-engineers can't make engineering humor land.\n\nFollow for more passive income systems built for engineers.\n\n#PrintOnDemand #PassiveIncome #SideHustle #EngineerLife #AITools #SellingOnEtsy #Redbubble #Gumroad #MidJourney #BuildInPublic",
+      "images": [
+        "assets/post-33/01.png",
+        "assets/post-33/02.png",
+        "assets/post-33/03.png",
+        "assets/post-33/04.png",
+        "assets/post-33/05.png",
+        "assets/post-33/06.png",
+        "assets/post-33/07.png"
+      ]
+    },
+    {
+      "id": 34,
+      "caption": "I post to Instagram and Threads every week. I haven't touched it in 3 months. Here's the full automation pipeline running this account.\n\nThe problem I was solving: I wanted to grow a social presence without the content treadmill. Engineer instinct — if I do a task more than 3 times, I automate it.\n\nThe full pipeline:\n\nStep 1 — Content batch\nWrite carousel HTML → render PNGs with Playwright (1 weekend = 4-8 posts)\n\nStep 2 — Push to GitHub\nImages to repo assets/, captions to posts.json\n\nStep 3 — GitHub Actions fires\nEvery Wednesday 11am ET — reads posts.json, posts to IG + Threads via API\n\nThe tech stack:\n→ Design: HTML/CSS carousel + Playwright screenshot → 1080×1080 PNGs\n→ Storage: GitHub repo + jsdelivr CDN (both free)\n→ Automation: GitHub Actions cron (free, no server)\n→ APIs: Instagram Graph API + Threads API (free)\n\nTotal monthly cost: $0. Everything runs on free tiers.\n\nThe cron job that runs it all:\ncron: '53 14 * * 3' — Every Wednesday 14:53 UTC = 11am ET\n\nWhat I actually spend time on:\n→ Content strategy: ~1 hr/month\n→ Writing carousel HTML: 30 min/post when batching\n→ Reviewing logs: 5 min/week\n→ Everything else: zero\n\nTotal active time: ~3 hours/month to maintain a weekly posting schedule.\n\nThe best content system is the one that runs without you showing up.\n\nFollow to see the full repo walkthrough coming soon.\n\n#BuildInPublic #ContentAutomation #GitHubActions #InstagramAPI #EngineerLife #SideHustle #AITools #NoCode #TechBTS #PassiveIncome",
+      "images": [
+        "assets/post-34/01.png",
+        "assets/post-34/02.png",
+        "assets/post-34/03.png",
+        "assets/post-34/04.png",
+        "assets/post-34/05.png",
+        "assets/post-34/06.png",
+        "assets/post-34/07.png"
+      ]
     }
   ]
 }
