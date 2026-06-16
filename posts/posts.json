@@ -496,6 +496,146 @@
         "assets/post-40/07.png"
       ],
       "id": 40
+    },
+    {
+      "id": 41,
+      "pillar": "ai-tools",
+      "caption": "Claude Artifacts just replaced 3 paid tools for me. 🔧\n\nInteractive, exportable, shareable — and most people still don't know how to use it.\n\nThe 3 tools it replaced:\n→ Tableau / Looker Studio ($70/mo) — build live charts from CSVs in 10 seconds\n→ Notion calculators ($16/mo) — compound interest sliders, live in Claude\n→ Framer prototypes ($25/mo) — instant HTML landing page previews\n\nMy top 5 use cases:\n1. Side hustle ROI calculator (shareable link, no account needed)\n2. API response visualizer for debugging JSON\n3. Salary negotiation script with editable variables\n4. Stock portfolio allocation pie chart\n5. Carousel content outline builder\n\nThe prompt formula: \"Build me a [tool] that does [function]. Make it interactive with [sliders/dropdowns]. Style it dark, modern. Export the full HTML.\"\n\n$111/mo in tool subscriptions → $20 Claude Pro. $91 saved every month.\n\nThe best tools are the ones that get out of your way and let you build.\n\nSave this — you'll use it this week.\n\n#ClaudeAI #AITools #Productivity #SideHustle #EngineerLife #BuildInPublic #PassiveIncome #ArtificialIntelligence #TechTools #Automation",
+      "images": [
+        "assets/post-41/01.png",
+        "assets/post-41/02.png",
+        "assets/post-41/03.png",
+        "assets/post-41/04.png",
+        "assets/post-41/05.png",
+        "assets/post-41/06.png",
+        "assets/post-41/07.png"
+      ]
+    },
+    {
+      "id": 42,
+      "pillar": "passive-income",
+      "caption": "How to make $500/month selling Notion templates. 📋\n\nBuild once. Sell forever. The math works.\n\nWhy engineers have an edge:\n→ We build systematic, structured workflows by default\n→ Niche technical knowledge = lower competition + premium prices\n→ 30M+ Notion users actively searching for templates\n→ $0 marginal cost per additional sale\n\nBest-selling types for engineers:\n🏆 AI Side Hustle OS — $49\n🏆 Personal Finance Dashboard — $39\n🏆 Job Search Command Center — $29\n🏆 Second Brain for Engineers — $29\n\n6-step launch process:\n1. Pick your most-used Notion page. That's your product.\n2. Add a Quick Start guide (value in 5 minutes)\n3. Post to Gumroad at $29 with a template link\n4. Record a 3-min Loom walkthrough\n5. Share 3 short-form content pieces showing it in action\n6. After 10 sales — raise price to $49\n\nThe math: $39 avg × 13 sales/month = $507 passive. 13 sales across 30M users.\n\nThe system you built for yourself is the product someone else will pay for today.\n\n#NotionTemplates #PassiveIncome #SideHustle #Gumroad #DigitalProducts #EngineerLife #BuildInPublic #FinancialFreedom #ContentCreator #AITools",
+      "images": [
+        "assets/post-42/01.png",
+        "assets/post-42/02.png",
+        "assets/post-42/03.png",
+        "assets/post-42/04.png",
+        "assets/post-42/05.png",
+        "assets/post-42/06.png",
+        "assets/post-42/07.png"
+      ]
+    },
+    {
+      "id": 43,
+      "pillar": "ai-tools",
+      "caption": "I use Perplexity Deep Research instead of $500/hr consultants. 🔍\n\nNot an exaggeration. Here's exactly how.\n\nWhat Deep Research actually does:\n→ You give it a question\n→ It searches 20+ real sources, synthesizes them\n→ Delivers a structured report with citations you can verify\n→ Takes 2–5 minutes. Replaces 2–3 hours of manual research.\n\nGoogle: 10+ links to read yourself, no synthesis, 30–60 min\nPerplexity Deep Research: Structured report from 20+ sources, cited, organized — 2–5 min\n\nMy top 5 use cases this month:\n→ \"Analyze the best affiliate programs for AI tools in 2025\"\n→ \"What are the highest CPM YouTube niches right now?\"\n→ \"Compare dividend ETFs vs growth ETFs for 10-year horizon\"\n→ \"What semiconductor companies are gaining market share?\"\n→ \"What does the latest Claude model improve?\"\n\nCost: $20/mo. ~40 hours research time saved. Effectively $0.50 per query.\n\nA market research consultant charges $500/hr. Perplexity does comparable work at $0.50.\n\nInformation advantage is a competitive moat. Use the right tools.\n\n#PerplexityAI #AITools #Productivity #Research #SideHustle #EngineerLife #AIResearch #BuildInPublic #PassiveIncome #TechTools",
+      "images": [
+        "assets/post-43/01.png",
+        "assets/post-43/02.png",
+        "assets/post-43/03.png",
+        "assets/post-43/04.png",
+        "assets/post-43/05.png",
+        "assets/post-43/06.png",
+        "assets/post-43/07.png"
+      ]
+    },
+    {
+      "id": 44,
+      "pillar": "wealth-mindset",
+      "caption": "Why engineers are bad at salary negotiation — and how to fix it. 💰\n\nThe 4 mental blocks costing you $20K–$50K per year.\n\nThe broken defaults:\n✗ \"My work speaks for itself\" — it doesn't. Advocacy speaks for you.\n✗ \"Negotiating is rude\" — it's expected. Companies budget for it.\n✗ \"I'm lucky to have this offer\" — scarcity mindset, not leverage mindset.\n✗ \"I don't know my worth\" — you can find out in 20 minutes.\n\nThe 3-step script:\n1. Never give a number first. \"What's the budgeted range?\"\n2. Anchor 15–20% above your target. They'll meet in the middle.\n3. Use silence. After your ask, stop talking. Silence is leverage.\n\nKnow your market rate in 20 min:\n→ Levels.fyi — real comp data from verified engineers\n→ LinkedIn Salary — filter by role, location, experience\n→ Blind — anonymous, see what peers are actually paid\n\nThe lifetime cost of not negotiating:\n→ $15K typical first win → $300K compounded over 20 years → captured in 10 minutes\n\nYou negotiate for systems at work every day. Do it for yourself.\n\n#SalaryNegotiation #WealthMindset #EngineerLife #FinancialFreedom #TechCareer #PersonalFinance #CareerGrowth #BuildWealth #Money #Engineering",
+      "images": [
+        "assets/post-44/01.png",
+        "assets/post-44/02.png",
+        "assets/post-44/03.png",
+        "assets/post-44/04.png",
+        "assets/post-44/05.png",
+        "assets/post-44/06.png",
+        "assets/post-44/07.png"
+      ]
+    },
+    {
+      "id": 45,
+      "pillar": "ai-tools",
+      "caption": "Google NotebookLM: the AI research tool most engineers are sleeping on. 📚\n\nFree. Powerful. Understands your documents better than you do.\n\nWhat makes it different:\n→ Upload YOUR documents — PDFs, research papers, meeting notes\n→ NotebookLM reads them and becomes an expert on your specific material\n→ Every answer cites the exact source (page number)\n→ No hallucinations on your content — grounded in what you uploaded\n\nMy 5 use cases as an engineer:\n📄 Technical docs — upload 200-page manuals, ask in plain English\n📚 Research papers — synthesize 10 papers into one report with citations\n🎧 Audio overview — turn any document into a podcast episode\n→ Upload competitor landing pages — ask \"what's their positioning?\"\n→ Upload 6 months of meeting notes — find patterns and action items\n\nGet started in 5 minutes:\n1. notebooklm.google.com (free with Google account)\n2. Upload 1–5 PDFs or paste URLs\n3. Ask \"What are the main themes across all these sources?\"\n4. Click \"Audio Overview\" — instant podcast episode\n\nBest stack: NotebookLM for research + Claude for execution. They're complements, not competitors.\n\n#NotebookLM #GoogleAI #AITools #Productivity #Research #EngineerLife #TechTools #BuildInPublic #SideHustle #AIResearch",
+      "images": [
+        "assets/post-45/01.png",
+        "assets/post-45/02.png",
+        "assets/post-45/03.png",
+        "assets/post-45/04.png",
+        "assets/post-45/05.png",
+        "assets/post-45/06.png",
+        "assets/post-45/07.png"
+      ]
+    },
+    {
+      "id": 46,
+      "pillar": "passive-income",
+      "caption": "My faceless YouTube channel makes money while I sleep. 📹\n\nNo camera. No editing. Full AI pipeline. Here's how.\n\nThe full AI stack (monthly cost):\n📝 Script: Claude Haiku API — ~$3/mo\n🎙️ Voice: edge-tts Microsoft Neural voices — $0\n🎬 Visuals: Pexels API stock footage — $0\n🎞️ Edit: MoviePy + FFmpeg Python — $0\nTotal: ~$3/month for a daily automated upload channel.\n\nBest niches for engineers:\n💰 Finance/Investing — CPM $15–25\n🤖 AI & Tech News — CPM $10–20\n⚽ Sports Analysis — CPM $8–15\n📰 True Crime — CPM $8–12\n\nDaily pipeline:\n1. Trend detection — Google News RSS + YouTube API\n2. Script generation — Claude writes 600-word narration\n3. Production — voice + visuals + FFmpeg render\n4. Upload — YouTube API with auto-generated title/tags\nTotal runtime: ~8 minutes. Zero human involvement.\n\nRealistic timeline:\n→ 30 days to set up pipeline\n→ 3–6 months to hit 1K subscribers (daily upload)\n→ $200–800/month income at 10K subscribers\n\nBuild the pipeline once. Let it run while you do everything else.\n\n#FacelessYouTube #PassiveIncome #YouTubeAutomation #SideHustle #AITools #EngineerLife #BuildInPublic #FinancialFreedom #ContentCreation #Python",
+      "images": [
+        "assets/post-46/01.png",
+        "assets/post-46/02.png",
+        "assets/post-46/03.png",
+        "assets/post-46/04.png",
+        "assets/post-46/05.png",
+        "assets/post-46/06.png",
+        "assets/post-46/07.png"
+      ]
+    },
+    {
+      "id": 47,
+      "pillar": "ai-tools",
+      "caption": "Zapier AI vs Make.com — which automation tool is actually better? ⚙️\n\nI've built side-hustle pipelines with both. Honest verdict.\n\nZapier AI:\n→ 7,000+ app integrations\n→ AI-guided setup in plain English\n→ Easier to learn, faster to start\n→ $20–$49/mo for real usage\n\nMake.com:\n→ Visual scenario builder (engineers will love this)\n→ Complex logic — filters, routers, iterators, aggregators\n→ Much lower cost per operation at scale\n→ $9/mo handles high-volume automations\n\nUse Zapier when:\n✓ You need a specific integration only Zapier supports\n✓ Low-volume automations (under 2,000 tasks/month)\n✓ Speed matters more than cost\n\nUse Make.com when:\n✓ Complex logic (routing by brand, content type, platform)\n✓ High-volume automations (10,000+ operations/month)\n✓ Budget matters — 5–10x cheaper at scale\n\nMy personal setup:\n→ Make.com for social content pipelines (Claude → Webhook → Buffer → IG/FB)\n→ 2 brands × 30 posts/month with custom routing for $9/mo\n→ Zapier for one-off integrations Make.com doesn't support\n\nThe best automation tool is the one you'll actually use and maintain.\n\n#Zapier #MakeCom #Automation #NoCode #SideHustle #AITools #EngineerLife #BuildInPublic #ContentAutomation #Productivity",
+      "images": [
+        "assets/post-47/01.png",
+        "assets/post-47/02.png",
+        "assets/post-47/03.png",
+        "assets/post-47/04.png",
+        "assets/post-47/05.png",
+        "assets/post-47/06.png",
+        "assets/post-47/07.png"
+      ]
+    },
+    {
+      "id": 48,
+      "pillar": "passive-income",
+      "caption": "Dividend stocks: an engineer's passive income strategy. 📈\n\nThe boring strategy that silently builds wealth while you code.\n\nWhy dividends fit engineers:\n→ Patience + system-thinking is the exact edge dividends reward\n→ Once set up, requires zero active work\n→ The company pays YOU just for holding shares\n→ Enable DRIP and it compounds automatically forever\n\nFavorite dividend ETFs (2025):\n→ SCHD — ~3.7% yield (my core position)\n→ VYM — ~2.9% yield (large cap stability)\n→ DGRO — ~2.3% yield (dividend growth focus)\n→ JEPI — ~7–9% yield (higher income, options-based)\n\nDividends vs Growth: which wins?\n→ Growth wins on total return (S&P 500 ~10%/yr)\n→ Dividends win on cashflow — income without selling\n→ Engineer's play: 70% growth + 30% dividends\n\nThe realistic math:\n$200K in SCHD at 3.7% = $7,400/year = $617/month passive income\n\n$200K sounds huge. But $1,500/month invested for 10 years at 10% return = $307K.\n\nYour money should work a second shift every single day.\n\n#DividendInvesting #SCHD #PassiveIncome #PersonalFinance #EngineerFinance #WealthBuilding #IndexFunds #ETF #FinancialFreedom #Investing",
+      "images": [
+        "assets/post-48/01.png",
+        "assets/post-48/02.png",
+        "assets/post-48/03.png",
+        "assets/post-48/04.png",
+        "assets/post-48/05.png",
+        "assets/post-48/06.png",
+        "assets/post-48/07.png"
+      ]
+    },
+    {
+      "id": 49,
+      "pillar": "ai-tools",
+      "caption": "I switched to Cursor AI. Side hustle code output went up 2x. 🖥️\n\nHere's every feature that actually changed how I work.\n\nWhat is Cursor AI?\n→ VS Code fork with Claude + GPT-4 built into the IDE itself\n→ Reads your entire codebase, understands context\n→ Rewrites whole functions, files, or modules at once\n→ Pair programming with an AI that's already read all your code\n\nThe 4 features that made me switch:\n⌘K — Select code → describe change → AI rewrites inline. No copy-paste from chat.\nChat @file — \"@myfile.py why is this function slow?\" — full context answers\nComposer — describe a feature, Cursor edits 5 files simultaneously, shows diffs\n\nMy real workflow:\n1. Describe the feature in natural language\n2. Composer generates full implementation across multiple files\n3. Review diffs. Accept with one click. Run tests.\n4. If something breaks — @file the error, ask Cursor to fix it.\n\nActual output numbers:\n→ 2× features shipped per weekend\n→ -60% time spent debugging\n→ $20/mo Cursor Pro cost\n\nIf your side hustle rate is $50/hr, Cursor pays for itself in the first 30 minutes.\n\nYour engineering speed is your biggest competitive edge. Cursor doubles it.\n\n#CursorAI #AITools #Coding #SideHustle #Productivity #EngineerLife #BuildInPublic #AIAssistant #Developer #TechTools",
+      "images": [
+        "assets/post-49/01.png",
+        "assets/post-49/02.png",
+        "assets/post-49/03.png",
+        "assets/post-49/04.png",
+        "assets/post-49/05.png",
+        "assets/post-49/06.png",
+        "assets/post-49/07.png"
+      ]
+    },
+    {
+      "id": 50,
+      "pillar": "wealth-mindset",
+      "caption": "The 10-year compound effect of investing $500/month as an engineer. 📊\n\nThe math most engineers ignore until it's too late.\n\nWhy $500/month is the right number:\n→ ~5–10% of engineer take-home pay\n→ $16/day — less than a lunch and two coffees\n→ Below the \"I'll invest more later\" threshold nobody reaches\n\nThe compound timeline (10% annual return):\n→ Year 1: $6,283\n→ Year 3: $20,936\n→ Year 5: $38,781\n→ Year 7: $60,958\n→ Year 10: $102,422\n\nWhat $102K turns into:\n→ Keep going 20 years → $382,828\n→ Keep going 30 years → $1,130,243\n→ Raise to $1,000/mo at year 10 → hits milestone 5 years sooner\n\nThe 3-account strategy:\n1. 401(k) — contribute to get full employer match first (free money)\n2. Roth IRA — $7,000/year, tax-free growth forever\n3. Brokerage — remaining $500/mo into VOO or SCHD\n\nThe real enemy of compounding:\n→ Start at 25: $1.13M at 55\n→ Start at 35: $382K at 55\n→ Cost of 10-year delay: $748,000\n\nTime in the market beats timing the market. Every single time.\n\n$500/month. Today. The math does the rest.\n\n#CompoundInterest #WealthMindset #PersonalFinance #Investing #FinancialFreedom #EngineerFinance #401k #RothIRA #IndexFunds #BuildWealth",
+      "images": [
+        "assets/post-50/01.png",
+        "assets/post-50/02.png",
+        "assets/post-50/03.png",
+        "assets/post-50/04.png",
+        "assets/post-50/05.png",
+        "assets/post-50/06.png",
+        "assets/post-50/07.png"
+      ]
     }
   ]
 }
