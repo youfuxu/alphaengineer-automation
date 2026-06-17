@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080, initial-scale=1">
+<title>Post 56 – Engineer's guide to affiliate marketing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 1080px; background: #060810; }
+  .slide { width: 1080px; height: 1080px; background: #0D1117; position: relative; display: flex; flex-direction: column; justify-content: center; padding: 80px 90px 80px 104px; overflow: hidden; font-family: 'Inter', sans-serif; }
+  .slide::before { content: ''; position: absolute; left: 0; top: 0; width: 6px; height: 100%; background: #00D4FF; }
+  .slide::after { content: ''; position: absolute; inset: 0; background-image: linear-gradient(rgba(0,212,255,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(0,212,255,0.05) 1px, transparent 1px); background-size: 60px 60px; opacity: 0.30; pointer-events: none; }
+  .panel { background: #161B22; border: 1px solid #1E2A30; border-radius: 12px; padding: 36px 40px; position: relative; z-index: 1; }
+  .tag { display: inline-block; background: rgba(0,212,255,0.12); color: #00D4FF; font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 6px 18px; border-radius: 6px; margin-bottom: 28px; }
+  h1 { font-family: 'Space Grotesk', sans-serif; font-size: 58px; font-weight: 700; color: #E6EDF3; line-height: 1.08; letter-spacing: -0.02em; margin-bottom: 32px; }
+  h1 span { color: #00D4FF; }
+  h2 { font-family: 'Space Grotesk', sans-serif; font-size: 44px; font-weight: 700; color: #E6EDF3; line-height: 1.15; margin-bottom: 28px; }
+  h2 span { color: #00D4FF; }
+  p { font-size: 28px; color: #C9D1D9; line-height: 1.6; }
+  .muted { font-size: 24px; color: #768F92; margin-top: 20px; }
+  .slide-num { position: absolute; bottom: 52px; right: 72px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  .handle { position: absolute; bottom: 52px; left: 104px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  ul { list-style: none; margin-top: 8px; }
+  ul li { font-size: 27px; color: #C9D1D9; line-height: 1.55; padding: 10px 0; border-bottom: 1px solid #1E2A30; display: flex; align-items: flex-start; gap: 18px; }
+  ul li:last-child { border-bottom: none; }
+  ul li .icon { color: #00D4FF; font-size: 26px; flex-shrink: 0; margin-top: 2px; }
+  .prog-table { display: flex; flex-direction: column; gap: 10px; margin-top: 12px; }
+  .prog-row { background: #0D1117; border: 1px solid #1E2A30; border-radius: 8px; padding: 14px 20px; display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 8px; align-items: center; }
+  .prog-row.header { background: #161B22; border-color: #00D4FF; }
+  .prog-cell { font-size: 20px; color: #C9D1D9; }
+  .prog-cell.label { font-family: 'Space Grotesk', sans-serif; font-weight: 700; color: #00D4FF; font-size: 16px; text-transform: uppercase; }
+  .prog-cell.name { font-weight: 600; color: #E6EDF3; }
+  .cta-line { font-family: 'Space Grotesk', sans-serif; font-size: 34px; font-weight: 700; color: #00D4FF; margin-top: 28px; border-top: 1px solid #1E2A30; padding-top: 24px; }
+</style>
+</head>
+<body>
+
+<div class="slide" id="p1">
+  <span class="tag">Passive Income</span>
+  <h1>The engineer's<br>guide to affiliate<br>marketing: <span>$300/month</span><br>from tools you already use.</h1>
+  <p class="muted">Zero extra time. Just smarter content.</p>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">1 / 7</div>
+</div>
+
+<div class="slide" id="p2">
+  <div class="panel">
+    <h2>How affiliate marketing <span>actually works</span></h2>
+    <p>You mention a tool in your content. Someone clicks your link. They buy. You get a commission — every month for as long as they're a customer.</p>
+    <p style="margin-top:20px;">No inventory. No customer service. No shipping. You're just adding a link to content you'd write anyway.</p>
+    <p class="muted">The only difference between your current content and $300/month is a tracked link.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">2 / 7</div>
+</div>
+
+<div class="slide" id="p3">
+  <div class="panel">
+    <h2>The <span>best affiliate programs</span> for engineers</h2>
+    <div class="prog-table">
+      <div class="prog-row header">
+        <div class="prog-cell label">Tool</div>
+        <div class="prog-cell label">Commission</div>
+        <div class="prog-cell label">Type</div>
+        <div class="prog-cell label">Min payout</div>
+      </div>
+      <div class="prog-row">
+        <div class="prog-cell name">ElevenLabs</div>
+        <div class="prog-cell">22%</div>
+        <div class="prog-cell">Recurring 12mo</div>
+        <div class="prog-cell">$5</div>
+      </div>
+      <div class="prog-row">
+        <div class="prog-cell name">Synthesia</div>
+        <div class="prog-cell">25%</div>
+        <div class="prog-cell">Recurring 12mo</div>
+        <div class="prog-cell">—</div>
+      </div>
+      <div class="prog-row">
+        <div class="prog-cell name">Jasper AI</div>
+        <div class="prog-cell">30%</div>
+        <div class="prog-cell">Recurring</div>
+        <div class="prog-cell">$50</div>
+      </div>
+      <div class="prog-row">
+        <div class="prog-cell name">HeyGen</div>
+        <div class="prog-cell">35%</div>
+        <div class="prog-cell">3 months</div>
+        <div class="prog-cell">$30</div>
+      </div>
+    </div>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">3 / 7</div>
+</div>
+
+<div class="slide" id="p4">
+  <div class="panel">
+    <h2>The <span>content strategy</span> that converts</h2>
+    <ul>
+      <li><span class="icon">✓</span>Review posts: "I use [Tool X] for [specific use case] — here's my honest take"</li>
+      <li><span class="icon">✓</span>Comparison posts: "[Tool A] vs [Tool B] — which one wins for engineers?"</li>
+      <li><span class="icon">✓</span>Tutorial posts: "How to set up [Tool X] in 10 minutes"</li>
+      <li><span class="icon">✓</span>Workflow posts: "My full AI stack (with what each tool costs)"</li>
+    </ul>
+    <p class="muted" style="margin-top:20px;">The affiliate link goes in your bio, not in the post (platform algorithm preference).</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">4 / 7</div>
+</div>
+
+<div class="slide" id="p5">
+  <div class="panel">
+    <h2>How to get <span>approved in 30 minutes</span></h2>
+    <ul>
+      <li><span class="icon">1.</span>Go to ElevenLabs.io/affiliates → Sign up with PartnerStack (instant approval)</li>
+      <li><span class="icon">2.</span>Synthesia.io/partners/affiliates → Apply (1-3 business days)</li>
+      <li><span class="icon">3.</span>Jasper.ai → Footer → Affiliates (PartnerStack, usually instant)</li>
+      <li><span class="icon">4.</span>HeyGen.com/affiliate-program → Rewardful (usually instant)</li>
+    </ul>
+    <p class="muted" style="margin-top:20px;">All four have no follower minimum. You can apply today with zero audience.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">5 / 7</div>
+</div>
+
+<div class="slide" id="p6">
+  <div class="panel">
+    <h2>The <span>$300/month math</span></h2>
+    <ul>
+      <li><span class="icon">→</span>ElevenLabs: 5 referrals × $22/mo × 22% = $24.20/mo (recurring 12 months)</li>
+      <li><span class="icon">→</span>Jasper AI: 5 referrals × $49/mo × 30% = $73.50/mo</li>
+      <li><span class="icon">→</span>HeyGen: 5 referrals × $29/mo × 35% = $50.75/mo (first 3 months)</li>
+      <li><span class="icon">→</span>Synthesia: 3 referrals × $30/mo × 25% = $22.50/mo</li>
+    </ul>
+    <p class="muted" style="margin-top:16px;">Combined: ~$170–$300/month from 18-20 referrals across 4 programs.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">6 / 7</div>
+</div>
+
+<div class="slide" id="p7">
+  <h1>The only difference<br>between now<br>and $300/month<br>is a <span>tracked link.</span></h1>
+  <p>Apply to ElevenLabs this week. One program. One link. See what happens.</p>
+  <div class="cta-line">Follow for the full affiliate setup guide (link in bio).</div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">7 / 7</div>
+</div>
+
+</body>
+</html>

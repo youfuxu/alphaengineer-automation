@@ -746,6 +746,76 @@
         "assets/post-55/06.png",
         "assets/post-55/07.png"
       ]
+    },
+    {
+      "id": 56,
+      "pillar": "passive-income",
+      "caption": "The only difference between your current content and $300/month is a tracked link. 🔗\n\nAffiliate marketing for engineers: the passive income stream hiding in tools you already use.\n\nHow it works:\nYou mention a tool → someone clicks your link → they subscribe → you earn every month they stay. No inventory, no customer service, no shipping. Just content you'd create anyway.\n\nThe 4 programs I'd apply to this week:\n→ ElevenLabs: 22% recurring (12 months) — min payout $5\n→ Synthesia: 25% recurring (12 months)\n→ Jasper AI: 30% recurring — min payout $50\n→ HeyGen: 35% for 3 months — min payout $30\n\nAll 4 have no follower minimum. You can apply today with zero audience.\n\nContent that converts:\n✅ Review posts: \"I use [Tool X] for [specific use case] — honest take\"\n✅ Comparison posts: \"[Tool A] vs [Tool B] for engineers\"\n✅ Tutorial posts: \"How to set up [Tool X] in 10 minutes\"\n✅ Workflow posts: \"My full AI stack (with what each costs)\"\n\nThe $300/month math (18–20 referrals across 4 programs):\n→ ElevenLabs 5 referrals × $22/mo × 22% = $24/mo\n→ Jasper 5 referrals × $49/mo × 30% = $73/mo\n→ HeyGen 5 referrals × $29/mo × 35% = $50/mo\n→ Synthesia 3 referrals × $30/mo × 25% = $22/mo\n\nYour affiliate link goes in the bio, not the post. The content is already there. The link is all that's missing.\n\nApply to ElevenLabs this week. One program. One link. See what happens.\n\n#PassiveIncome #AffiliateMarketing #SideHustle #EngineerLife #BuildInPublic #AITools #FinancialFreedom #OnlineIncome #CreatorEconomy #ElevenLabs #SoloFounder",
+      "images": [
+        "assets/post-56/01.png",
+        "assets/post-56/02.png",
+        "assets/post-56/03.png",
+        "assets/post-56/04.png",
+        "assets/post-56/05.png",
+        "assets/post-56/06.png",
+        "assets/post-56/07.png"
+      ]
+    },
+    {
+      "id": 57,
+      "pillar": "ai-tools",
+      "caption": "I use GitHub Copilot and Claude together. They're not competing — they're complementary. 🤝\n\nHere's the exact workflow, and when to use which.\n\nThe core difference most engineers miss:\n→ Copilot: IDE-native autocomplete. Thinks in lines and functions. Sees your current file.\n→ Claude: Long-context reasoning. Thinks in architecture and tradeoffs. Sees your whole problem.\n\nCopilot wins:\n✅ Boilerplate and repetitive patterns\n✅ Test stubs\n✅ Fast autocomplete mid-flow when context is obvious\n\nClaude wins:\n✅ Architecture decisions\n✅ Debugging complex bugs\n✅ Code review and tradeoff analysis\n✅ Writing copy, docs, and email\n\nMy actual workflow:\n1. Open Claude: \"Design the architecture for [feature]. What are the tradeoffs?\"\n2. Claude gives a structured recommendation. I pick a direction.\n3. Switch to editor (Cursor with Copilot). Copilot autocompletes the patterns.\n4. Hit a bug? Back to Claude with the full error context.\n\nClaude handles the WHY. Copilot handles the WHAT.\n\nThe pricing reality:\n→ Copilot Individual: $10/mo\n→ Claude Pro: $20/mo\n→ Both: $30/mo\n→ What they replace: $99/mo in separate tools\n\n$30 all-in is one of the best ROIs in any engineer's stack.\n\nDrop your AI coding setup below: Cursor, Copilot, Claude, or something else? 👇\n\n#AITools #GitHubCopilot #ClaudeAI #EngineerLife #CodingTools #Cursor #BuildInPublic #Productivity #SideHustle #TechCareer #AIWorkflow",
+      "images": [
+        "assets/post-57/01.png",
+        "assets/post-57/02.png",
+        "assets/post-57/03.png",
+        "assets/post-57/04.png",
+        "assets/post-57/05.png",
+        "assets/post-57/06.png",
+        "assets/post-57/07.png"
+      ]
+    },
+    {
+      "id": 58,
+      "pillar": "passive-income",
+      "caption": "Print on demand for engineers: AI designs, zero inventory, passive income. 🎨\n\nI've never touched a product. The platform ships everything.\n\nHow it works:\nYou design it. A customer buys it. Printful or Printify prints and ships it. You collect the margin. Products only made when someone orders — zero inventory risk, zero upfront cost.\n\nAI tools design it for you in 20 minutes. Etsy or Shopify lists it. The whole system runs without you after setup.\n\nBest products for engineers to sell:\n→ T-shirts/hoodies — coding jokes, \"it works on my machine\", terminal humor\n→ Mugs/posters — circuit board art, code snippets, algorithm prints\n→ Stickers/pins — low price, high impulse buy, niche collector appeal\n→ Digital prints on Gumroad — 100% margin, zero fulfillment, instant delivery\n\nEngineer humor is a niche nobody else can fake. That's your moat.\n\nThe AI workflow (idea to listing in 2 hours):\n1. Perplexity: \"Most popular engineering humor T-shirt designs on Etsy right now?\"\n2. Midjourney/DALL-E 3: generate 10 variations. Pick best 3.\n3. Canva (free): upscale to 300dpi print-ready PNG.\n4. Printful + Etsy: upload, set price, Claude writes the copy. Live in 30 min.\n\nThe realistic numbers:\n→ $11 profit per shirt (Redbubble, $19 price)\n→ 50+ listings needed for consistent monthly sales\n→ $800 realistic monthly income at 3–6 months in\n\nA T-shirt you designed in 20 minutes can sell for 5 years. That's the leverage engineers miss.\n\nStart with Etsy — built-in search traffic for engineer gifts.\n\n#PassiveIncome #PrintOnDemand #SideHustle #EngineerLife #AIDesign #Etsy #Printful #BuildInPublic #FinancialFreedom #OnlineIncome #WealthMindset",
+      "images": [
+        "assets/post-58/01.png",
+        "assets/post-58/02.png",
+        "assets/post-58/03.png",
+        "assets/post-58/04.png",
+        "assets/post-58/05.png",
+        "assets/post-58/06.png",
+        "assets/post-58/07.png"
+      ]
+    },
+    {
+      "id": 59,
+      "pillar": "wealth-mindset",
+      "caption": "Stop checking your bank account. Check your net worth instead. 📊\n\nOne number tells the whole story. The other tells you almost nothing.\n\nBank balance = cash you have right now. It resets every month. Doesn't show your investments, your debt, or your real financial trajectory.\n\nNet worth = all assets − all liabilities. It compounds. It shows whether you're actually getting wealthier or just earning-and-spending at a higher level.\n\nSame salary, two engineers. One has $150K net worth at 35. The other has $15K. The bank balance doesn't tell you which you are.\n\nThe 10-minute setup — what to track:\n\nAssets (add):\n→ Liquid: checking, savings, emergency fund\n→ Investments: 401k, Roth IRA, brokerage, ETFs\n\nLiabilities (subtract):\n→ Student loans, car loan, credit card balance\n\n= Net Worth. Calculate this once. Update monthly.\n\nThe monthly ritual that works:\n1. First of every month: log current balances\n2. Total assets − total liabilities\n3. Track month-over-month change\n4. Ask: \"What moved the number? What can I improve?\"\n\n15 minutes. More financial clarity than daily bank balance checking.\n\nThe motivation effect:\n→ Checking bank balance: anxiety\n→ Checking net worth: progress\n→ You can't control the balance directly. You control the net worth.\n\nTool that makes it easy (free): Personal Capital / Empower — automatic, syncs all accounts.\n\nBehavior follows measurement. Measure the right thing.\n\nCalculate yours today. Comment the month-over-month change you'd like to hit by year end 👇\n\n#WealthMindset #NetWorth #FinancialFreedom #PersonalFinance #EngineerLife #Investing #BuildWealth #SideHustle #FIRE #FinancialIndependence #CompoundInterest",
+      "images": [
+        "assets/post-59/01.png",
+        "assets/post-59/02.png",
+        "assets/post-59/03.png",
+        "assets/post-59/04.png",
+        "assets/post-59/05.png",
+        "assets/post-59/06.png",
+        "assets/post-59/07.png"
+      ]
+    },
+    {
+      "id": 60,
+      "pillar": "bts",
+      "caption": "6 months of automated content. What the data actually shows. 📈\n\nNo highlight reel. Just honest numbers from a real account.\n\nThe setup in one slide:\n→ 60+ carousel posts in posts.json (HTML → Playwright PNG → GitHub)\n→ GitHub Actions: every Wednesday 11am ET → IG + Threads API\n→ Platforms: 2 (IG + Threads), same post, zero extra work\n→ Monthly cost: $20 (Claude Pro). GitHub Actions free tier.\n→ Active time per month: ~3 hours. Automation runs the rest.\n\nWhat performed best:\n1. Specific numbers — \"saved 3 hours\" beats \"saves time\"\n2. Real story posts — \"I switched to Cursor AI\" beats \"tools comparison\"\n3. Actionable takeaways — \"do THIS today\" beats \"here's something interesting\"\n4. Wednesday posting — consistent day builds audience expectation\n\nWhat didn't work:\n✗ Generic AI listicles — no differentiation\n✗ Too-long captions on Threads — IG captions don't port perfectly\n✗ No hook in the first line — first sentence does 80% of the work\n✗ Vague CTAs — \"follow for more\" alone underperforms\n\n4 lessons I'd apply from day 1:\n→ Build the automation before post #1. Not after post #20.\n→ Start collecting emails from your first post.\n→ Post imperfect content weekly. Not perfect content quarterly.\n→ Pick one platform and automate it fully before adding a second.\n\nThe honest numbers:\n→ 60+ carousels created (14 months queued)\n→ 2 platforms auto-posting weekly\n→ $20/month total cost\n→ Revenue: building. Email list: growing.\n\nBuilding in public means showing the real process — not just the wins.\n\nFollow for the full automation build journal. See you next Wednesday.\n\n#BuildInPublic #BehindTheScenes #ContentAutomation #EngineerLife #SideHustle #InstagramAutomation #AITools #GrowthHacking #SoloFounder #FinancialFreedom #PassiveIncome",
+      "images": [
+        "assets/post-60/01.png",
+        "assets/post-60/02.png",
+        "assets/post-60/03.png",
+        "assets/post-60/04.png",
+        "assets/post-60/05.png",
+        "assets/post-60/06.png",
+        "assets/post-60/07.png"
+      ]
     }
   ]
 }

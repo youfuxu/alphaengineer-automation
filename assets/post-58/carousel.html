@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080, initial-scale=1">
+<title>Post 58 – Print on demand with AI designs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 1080px; background: #060810; }
+  .slide { width: 1080px; height: 1080px; background: #0D1117; position: relative; display: flex; flex-direction: column; justify-content: center; padding: 80px 90px 80px 104px; overflow: hidden; font-family: 'Inter', sans-serif; }
+  .slide::before { content: ''; position: absolute; left: 0; top: 0; width: 6px; height: 100%; background: #00D4FF; }
+  .slide::after { content: ''; position: absolute; inset: 0; background-image: linear-gradient(rgba(0,212,255,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(0,212,255,0.05) 1px, transparent 1px); background-size: 60px 60px; opacity: 0.30; pointer-events: none; }
+  .panel { background: #161B22; border: 1px solid #1E2A30; border-radius: 12px; padding: 36px 40px; position: relative; z-index: 1; }
+  .tag { display: inline-block; background: rgba(0,212,255,0.12); color: #00D4FF; font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 6px 18px; border-radius: 6px; margin-bottom: 28px; }
+  h1 { font-family: 'Space Grotesk', sans-serif; font-size: 58px; font-weight: 700; color: #E6EDF3; line-height: 1.08; letter-spacing: -0.02em; margin-bottom: 32px; }
+  h1 span { color: #00D4FF; }
+  h2 { font-family: 'Space Grotesk', sans-serif; font-size: 44px; font-weight: 700; color: #E6EDF3; line-height: 1.15; margin-bottom: 28px; }
+  h2 span { color: #00D4FF; }
+  p { font-size: 28px; color: #C9D1D9; line-height: 1.6; }
+  .muted { font-size: 24px; color: #768F92; margin-top: 20px; }
+  .slide-num { position: absolute; bottom: 52px; right: 72px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  .handle { position: absolute; bottom: 52px; left: 104px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  ul { list-style: none; margin-top: 8px; }
+  ul li { font-size: 27px; color: #C9D1D9; line-height: 1.55; padding: 10px 0; border-bottom: 1px solid #1E2A30; display: flex; align-items: flex-start; gap: 18px; }
+  ul li:last-child { border-bottom: none; }
+  ul li .icon { color: #00D4FF; font-size: 26px; flex-shrink: 0; margin-top: 2px; }
+  .step-list { display: flex; flex-direction: column; gap: 12px; margin-top: 12px; }
+  .step { background: #0D1117; border: 1px solid #1E2A30; border-radius: 10px; padding: 14px 20px; display: flex; gap: 16px; }
+  .step-num { font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #00D4FF; font-weight: 700; min-width: 36px; }
+  .step-text { font-size: 24px; color: #C9D1D9; line-height: 1.45; }
+  .metric-row { display: flex; gap: 24px; margin-top: 12px; }
+  .metric { flex: 1; background: #0D1117; border: 1px solid #1E2A30; border-radius: 10px; padding: 22px 18px; text-align: center; }
+  .metric .val { font-family: 'Space Grotesk', sans-serif; font-size: 40px; font-weight: 700; color: #00D4FF; line-height: 1; }
+  .metric .desc { font-size: 19px; color: #768F92; margin-top: 8px; line-height: 1.4; }
+  .cta-line { font-family: 'Space Grotesk', sans-serif; font-size: 34px; font-weight: 700; color: #00D4FF; margin-top: 28px; border-top: 1px solid #1E2A30; padding-top: 24px; }
+</style>
+</head>
+<body>
+
+<div class="slide" id="p1">
+  <span class="tag">Passive Income</span>
+  <h1>Print on demand<br>for engineers:<br>AI designs, <span>zero inventory</span>,<br>passive income.</h1>
+  <p class="muted">I've never touched a product. The platform ships everything.</p>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">1 / 7</div>
+</div>
+
+<div class="slide" id="p2">
+  <div class="panel">
+    <h2>How <span>print on demand</span> works</h2>
+    <p>You design it. A customer buys it. Printful or Printify prints and ships it. You collect the margin. You never touch the product.</p>
+    <p style="margin-top:20px;">AI tools design it for you in 20 minutes. Etsy or Shopify list it. The whole system runs without you after setup.</p>
+    <p class="muted">Zero inventory risk. Zero upfront cost. Products only made when someone orders.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">2 / 7</div>
+</div>
+
+<div class="slide" id="p3">
+  <div class="panel">
+    <h2>Best products for <span>engineers to sell</span></h2>
+    <ul>
+      <li><span class="icon">🎨</span>T-shirts/hoodies — coding jokes, "it works on my machine", terminal humor</li>
+      <li><span class="icon">☕</span>Mugs/posters — circuit board art, code snippets, algorithm prints</li>
+      <li><span class="icon">🏷️</span>Stickers/pins — low price, high impulse buy, niche collector appeal</li>
+      <li><span class="icon">📄</span>Digital prints (Gumroad) — 100% margin, zero fulfillment, instant delivery</li>
+    </ul>
+    <p class="muted" style="margin-top:16px;">Engineer humor is a niche nobody else can fake. That's your moat.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">3 / 7</div>
+</div>
+
+<div class="slide" id="p4">
+  <div class="panel">
+    <h2>The AI workflow (idea to listing in <span>2 hours</span>)</h2>
+    <div class="step-list">
+      <div class="step"><div class="step-num">01</div><div class="step-text">Perplexity: "What are the most popular engineering humor T-shirt designs selling on Etsy right now?"</div></div>
+      <div class="step"><div class="step-num">02</div><div class="step-text">Midjourney/DALL-E 3: generate 10 design variations in 20 minutes. Pick the best 3.</div></div>
+      <div class="step"><div class="step-num">03</div><div class="step-text">Canva (free): upscale to 300dpi print-ready PNG. Remove background if needed.</div></div>
+      <div class="step"><div class="step-num">04</div><div class="step-text">Printful + Etsy: upload design, set price, write listing (Claude writes the copy). Live in 30 min.</div></div>
+    </div>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">4 / 7</div>
+</div>
+
+<div class="slide" id="p5">
+  <div class="panel">
+    <h2>Where to <span>sell</span> (ranked by ease)</h2>
+    <ul>
+      <li><span class="icon">1.</span>Etsy + Printful — biggest audience for niche products, easiest integration</li>
+      <li><span class="icon">2.</span>Redbubble — instant listing, built-in traffic, lower margins</li>
+      <li><span class="icon">3.</span>Shopify + Printify — higher margins, more control, but needs your own traffic</li>
+      <li><span class="icon">4.</span>Gumroad (digital art) — 100% margin, instant, no fulfillment complexity</li>
+    </ul>
+    <p class="muted" style="margin-top:16px;">Start with Etsy. It has existing search traffic for engineer gifts.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">5 / 7</div>
+</div>
+
+<div class="slide" id="p6">
+  <div class="panel">
+    <h2>The <span>realistic numbers</span></h2>
+    <div class="metric-row">
+      <div class="metric">
+        <div class="val">$11</div>
+        <div class="desc">Profit per shirt (Redbubble, $19 price)</div>
+      </div>
+      <div class="metric">
+        <div class="val">50+</div>
+        <div class="desc">Listings needed for consistent monthly sales</div>
+      </div>
+      <div class="metric">
+        <div class="val">$800</div>
+        <div class="desc">Realistic monthly income at 3-6 months</div>
+      </div>
+    </div>
+    <p class="muted" style="margin-top:28px;">A T-shirt you designed in 20 minutes can sell for 5 years. That's the leverage engineers miss.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">6 / 7</div>
+</div>
+
+<div class="slide" id="p7">
+  <h1>Your niche knowledge<br>is your design moat.<br>Non-engineers<br>can't <span>fake this.</span></h1>
+  <p>Open Midjourney. Generate "terminal humor engineer T-shirt design". That's the start.</p>
+  <div class="cta-line">Follow for the full Etsy + Printful setup guide.</div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">7 / 7</div>
+</div>
+
+</body>
+</html>

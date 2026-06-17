@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080, initial-scale=1">
+<title>Post 59 – Net worth tracker for engineers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 1080px; background: #060810; }
+  .slide { width: 1080px; height: 1080px; background: #0D1117; position: relative; display: flex; flex-direction: column; justify-content: center; padding: 80px 90px 80px 104px; overflow: hidden; font-family: 'Inter', sans-serif; }
+  .slide::before { content: ''; position: absolute; left: 0; top: 0; width: 6px; height: 100%; background: #00D4FF; }
+  .slide::after { content: ''; position: absolute; inset: 0; background-image: linear-gradient(rgba(0,212,255,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(0,212,255,0.05) 1px, transparent 1px); background-size: 60px 60px; opacity: 0.30; pointer-events: none; }
+  .panel { background: #161B22; border: 1px solid #1E2A30; border-radius: 12px; padding: 36px 40px; position: relative; z-index: 1; }
+  .tag { display: inline-block; background: rgba(0,212,255,0.12); color: #00D4FF; font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 6px 18px; border-radius: 6px; margin-bottom: 28px; }
+  h1 { font-family: 'Space Grotesk', sans-serif; font-size: 60px; font-weight: 700; color: #E6EDF3; line-height: 1.08; letter-spacing: -0.02em; margin-bottom: 32px; }
+  h1 span { color: #00D4FF; }
+  h2 { font-family: 'Space Grotesk', sans-serif; font-size: 44px; font-weight: 700; color: #E6EDF3; line-height: 1.15; margin-bottom: 28px; }
+  h2 span { color: #00D4FF; }
+  p { font-size: 28px; color: #C9D1D9; line-height: 1.6; }
+  .muted { font-size: 24px; color: #768F92; margin-top: 20px; }
+  .slide-num { position: absolute; bottom: 52px; right: 72px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  .handle { position: absolute; bottom: 52px; left: 104px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  ul { list-style: none; margin-top: 8px; }
+  ul li { font-size: 27px; color: #C9D1D9; line-height: 1.55; padding: 10px 0; border-bottom: 1px solid #1E2A30; display: flex; align-items: flex-start; gap: 18px; }
+  ul li:last-child { border-bottom: none; }
+  ul li .icon { color: #00D4FF; font-size: 26px; flex-shrink: 0; margin-top: 2px; }
+  .nw-table { display: flex; flex-direction: column; gap: 10px; margin-top: 12px; }
+  .nw-row { display: grid; grid-template-columns: 1.2fr 1fr 0.8fr; gap: 10px; background: #0D1117; border: 1px solid #1E2A30; border-radius: 8px; padding: 14px 20px; }
+  .nw-row.header { background: #161B22; border-color: #00D4FF; }
+  .nw-cell { font-size: 22px; color: #C9D1D9; }
+  .nw-cell.hdr { font-family: 'Space Grotesk', sans-serif; font-weight: 700; color: #00D4FF; font-size: 18px; text-transform: uppercase; letter-spacing: 0.04em; }
+  .cta-line { font-family: 'Space Grotesk', sans-serif; font-size: 34px; font-weight: 700; color: #00D4FF; margin-top: 28px; border-top: 1px solid #1E2A30; padding-top: 24px; }
+</style>
+</head>
+<body>
+
+<div class="slide" id="p1">
+  <span class="tag">Wealth Mindset</span>
+  <h1>Stop checking<br>your bank account.<br>Check your<br><span>net worth instead.</span></h1>
+  <p class="muted">One number tells the whole story. The other tells you almost nothing.</p>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">1 / 7</div>
+</div>
+
+<div class="slide" id="p2">
+  <div class="panel">
+    <h2>Bank balance vs <span>net worth</span></h2>
+    <p><strong>Bank balance</strong> = cash you have right now. It resets every month. It doesn't show your investments, your debt, or your real financial trajectory.</p>
+    <p style="margin-top:20px;"><strong>Net worth</strong> = all assets − all liabilities. It compounds. It shows whether you're actually getting wealthier or just earning-and-spending at a higher level.</p>
+    <p class="muted">Same salary, two engineers. One has a $150K net worth at 35. The other has $15K. The bank balance doesn't tell you which you are.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">2 / 7</div>
+</div>
+
+<div class="slide" id="p3">
+  <div class="panel">
+    <h2>What to <span>track</span> (the 10-minute setup)</h2>
+    <div class="nw-table">
+      <div class="nw-row header">
+        <div class="nw-cell hdr">Category</div>
+        <div class="nw-cell hdr">Examples</div>
+        <div class="nw-cell hdr">Direction</div>
+      </div>
+      <div class="nw-row">
+        <div class="nw-cell">Liquid assets</div>
+        <div class="nw-cell">Checking, savings, emergency fund</div>
+        <div class="nw-cell" style="color:#00D4FF;">+ add</div>
+      </div>
+      <div class="nw-row">
+        <div class="nw-cell">Investments</div>
+        <div class="nw-cell">401k, Roth IRA, brokerage, ETFs</div>
+        <div class="nw-cell" style="color:#00D4FF;">+ add</div>
+      </div>
+      <div class="nw-row">
+        <div class="nw-cell">Liabilities</div>
+        <div class="nw-cell">Student loans, car loan, credit card</div>
+        <div class="nw-cell" style="color:#FF6B6B;">− subtract</div>
+      </div>
+    </div>
+    <p class="muted" style="margin-top:16px;">= Net Worth. Calculate this once. Update monthly.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">3 / 7</div>
+</div>
+
+<div class="slide" id="p4">
+  <div class="panel">
+    <h2>The <span>monthly ritual</span> that works</h2>
+    <ul>
+      <li><span class="icon">1.</span>First of every month: log in to each account and record current balance</li>
+      <li><span class="icon">2.</span>Total assets − total liabilities = net worth for this month</li>
+      <li><span class="icon">3.</span>Track the month-over-month change (not just the total)</li>
+      <li><span class="icon">4.</span>Ask: "What moved the number this month? What can I improve next month?"</li>
+    </ul>
+    <p class="muted" style="margin-top:20px;">Takes 15 minutes. Gives you more financial clarity than daily bank balance checking.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">4 / 7</div>
+</div>
+
+<div class="slide" id="p5">
+  <div class="panel">
+    <h2>The <span>motivation effect</span></h2>
+    <ul>
+      <li><span class="icon">→</span>Checking bank balance: anxiety (payday coming? rent due?)</li>
+      <li><span class="icon">→</span>Checking net worth: progress (it's up $2K from last month)</li>
+      <li><span class="icon">→</span>You can't control the bank balance directly. You control the net worth.</li>
+      <li><span class="icon">→</span>Seeing net worth compound is the thing that makes people actually keep investing.</li>
+    </ul>
+    <p class="muted" style="margin-top:20px;">Behavior follows measurement. Measure the right thing.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">5 / 7</div>
+</div>
+
+<div class="slide" id="p6">
+  <div class="panel">
+    <h2>Tools that <span>make it easy</span></h2>
+    <ul>
+      <li><span class="icon">→</span><strong>Personal Capital / Empower</strong> — automatic, syncs all accounts, free</li>
+      <li><span class="icon">→</span><strong>Notion template</strong> — manual, private, fully customizable (searchable on Gumroad)</li>
+      <li><span class="icon">→</span><strong>Simple spreadsheet</strong> — paste balances monthly, chart the trend line</li>
+      <li><span class="icon">→</span><strong>YNAB</strong> — more advanced, budget-focused, $14/mo</li>
+    </ul>
+    <p class="muted" style="margin-top:20px;">Start with whatever you'll actually use. Spreadsheet is fine. Consistency beats tool quality.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">6 / 7</div>
+</div>
+
+<div class="slide" id="p7">
+  <h1>Your bank balance<br>is a snapshot.<br>Your net worth<br>is the <span>real score.</span></h1>
+  <p>Calculate yours today. It takes 15 minutes and changes how you make decisions for the next decade.</p>
+  <div class="cta-line">Follow for the net worth tracker Notion template.</div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">7 / 7</div>
+</div>
+
+</body>
+</html>

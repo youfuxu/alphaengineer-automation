@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080, initial-scale=1">
+<title>Post 57 – GitHub Copilot and Claude together</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 1080px; background: #060810; }
+  .slide { width: 1080px; height: 1080px; background: #0D1117; position: relative; display: flex; flex-direction: column; justify-content: center; padding: 80px 90px 80px 104px; overflow: hidden; font-family: 'Inter', sans-serif; }
+  .slide::before { content: ''; position: absolute; left: 0; top: 0; width: 6px; height: 100%; background: #00D4FF; }
+  .slide::after { content: ''; position: absolute; inset: 0; background-image: linear-gradient(rgba(0,212,255,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(0,212,255,0.05) 1px, transparent 1px); background-size: 60px 60px; opacity: 0.30; pointer-events: none; }
+  .panel { background: #161B22; border: 1px solid #1E2A30; border-radius: 12px; padding: 36px 40px; position: relative; z-index: 1; }
+  .tag { display: inline-block; background: rgba(0,212,255,0.12); color: #00D4FF; font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 6px 18px; border-radius: 6px; margin-bottom: 28px; }
+  h1 { font-family: 'Space Grotesk', sans-serif; font-size: 58px; font-weight: 700; color: #E6EDF3; line-height: 1.08; letter-spacing: -0.02em; margin-bottom: 32px; }
+  h1 span { color: #00D4FF; }
+  h2 { font-family: 'Space Grotesk', sans-serif; font-size: 44px; font-weight: 700; color: #E6EDF3; line-height: 1.15; margin-bottom: 28px; }
+  h2 span { color: #00D4FF; }
+  p { font-size: 28px; color: #C9D1D9; line-height: 1.6; }
+  .muted { font-size: 24px; color: #768F92; margin-top: 20px; }
+  .slide-num { position: absolute; bottom: 52px; right: 72px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  .handle { position: absolute; bottom: 52px; left: 104px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  ul { list-style: none; margin-top: 8px; }
+  ul li { font-size: 27px; color: #C9D1D9; line-height: 1.55; padding: 10px 0; border-bottom: 1px solid #1E2A30; display: flex; align-items: flex-start; gap: 18px; }
+  ul li:last-child { border-bottom: none; }
+  ul li .icon { color: #00D4FF; font-size: 26px; flex-shrink: 0; margin-top: 2px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 12px; }
+  .grid-item { background: #0D1117; border: 1px solid #1E2A30; border-radius: 10px; padding: 18px 20px; }
+  .grid-label { font-family: 'Space Grotesk', sans-serif; font-size: 20px; color: #00D4FF; font-weight: 700; margin-bottom: 10px; }
+  .grid-text { font-size: 22px; color: #C9D1D9; line-height: 1.4; }
+  .cta-line { font-family: 'Space Grotesk', sans-serif; font-size: 34px; font-weight: 700; color: #00D4FF; margin-top: 28px; border-top: 1px solid #1E2A30; padding-top: 24px; }
+</style>
+</head>
+<body>
+
+<div class="slide" id="p1">
+  <span class="tag">AI Tools</span>
+  <h1>I use GitHub Copilot<br>and Claude together.<br>They're <span>not competing</span> —<br>they're complementary.</h1>
+  <p class="muted">Here's the exact workflow — and when to use which.</p>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">1 / 7</div>
+</div>
+
+<div class="slide" id="p2">
+  <div class="panel">
+    <h2>The <span>core difference</span> most engineers miss</h2>
+    <div class="grid2">
+      <div class="grid-item">
+        <div class="grid-label">GitHub Copilot</div>
+        <div class="grid-text">IDE-native autocomplete. Thinks in lines and functions. Sees your current file.</div>
+      </div>
+      <div class="grid-item">
+        <div class="grid-label">Claude</div>
+        <div class="grid-text">Long-context reasoning. Thinks in architecture and tradeoffs. Sees your whole problem.</div>
+      </div>
+    </div>
+    <p class="muted" style="margin-top:20px;">Copilot is faster for mechanical coding. Claude is better for decisions. For a side hustle, you spend more time deciding than typing.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">2 / 7</div>
+</div>
+
+<div class="slide" id="p3">
+  <div class="panel">
+    <h2>Who wins by <span>use case</span></h2>
+    <ul>
+      <li><span class="icon">C↑</span><strong>Copilot wins:</strong> boilerplate, repetitive patterns, test stubs</li>
+      <li><span class="icon">Cl↑</span><strong>Claude wins:</strong> architecture decisions, debugging complex bugs, writing copy</li>
+      <li><span class="icon">Cl↑</span><strong>Claude wins:</strong> explaining tradeoffs, code review, content creation</li>
+      <li><span class="icon">C↑</span><strong>Copilot wins:</strong> fast autocomplete mid-flow when context is obvious</li>
+    </ul>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">3 / 7</div>
+</div>
+
+<div class="slide" id="p4">
+  <div class="panel">
+    <h2>My actual <span>workflow</span></h2>
+    <ul>
+      <li><span class="icon">1.</span>Open Claude: "Design the architecture for [feature]. What are the tradeoffs between these approaches?"</li>
+      <li><span class="icon">2.</span>Claude gives a structured recommendation. I pick a direction.</li>
+      <li><span class="icon">3.</span>Switch to editor (Cursor with Copilot). Start implementing. Copilot autocompletes the patterns.</li>
+      <li><span class="icon">4.</span>Hit a bug? Back to Claude with the full error context.</li>
+    </ul>
+    <p class="muted" style="margin-top:20px;">Claude handles the WHY. Copilot handles the WHAT. Both are faster than writing either alone.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">4 / 7</div>
+</div>
+
+<div class="slide" id="p5">
+  <div class="panel">
+    <h2>The <span>pricing reality</span></h2>
+    <ul>
+      <li><span class="icon">→</span>Copilot Individual: $10/mo — pure IDE coding assistant</li>
+      <li><span class="icon">→</span>Claude Pro: $20/mo — coding + writing + strategy + research</li>
+      <li><span class="icon">→</span>Running both: $30/mo total</li>
+      <li><span class="icon">→</span>What they replace: $30 Copilot + $20 ChatGPT + $49 Jasper = $99/mo in separate tools</li>
+    </ul>
+    <p class="muted" style="margin-top:20px;">$30 all-in is one of the best ROIs in any engineer's stack.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">5 / 7</div>
+</div>
+
+<div class="slide" id="p6">
+  <div class="panel">
+    <h2>My setup in <span>2026</span></h2>
+    <ul>
+      <li><span class="icon">→</span>Cursor AI (built on Claude models) — my main IDE</li>
+      <li><span class="icon">→</span>Claude Pro — architecture, writing, research, strategy</li>
+      <li><span class="icon">→</span>GitHub Copilot — day job (corporate IT, can't install Cursor)</li>
+      <li><span class="icon">→</span>Copilot dropped for personal projects when Cursor launched</li>
+    </ul>
+    <p class="muted" style="margin-top:20px;">The right tool isn't the one with the most GitHub stars. It's the one that ships your idea fastest.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">6 / 7</div>
+</div>
+
+<div class="slide" id="p7">
+  <h1>Two AI tools,<br>two different jobs.<br>Stack them right.<br><span>Ship 10x faster.</span></h1>
+  <p>Copilot for lines. Claude for systems. Both for shipping.</p>
+  <div class="cta-line">Follow for more honest AI coding tool breakdowns.</div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">7 / 7</div>
+</div>
+
+</body>
+</html>

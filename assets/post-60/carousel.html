@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080, initial-scale=1">
+<title>Post 60 – 6 months of automated content: real data</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { width: 1080px; background: #060810; }
+  .slide { width: 1080px; height: 1080px; background: #0D1117; position: relative; display: flex; flex-direction: column; justify-content: center; padding: 80px 90px 80px 104px; overflow: hidden; font-family: 'Inter', sans-serif; }
+  .slide::before { content: ''; position: absolute; left: 0; top: 0; width: 6px; height: 100%; background: #00D4FF; }
+  .slide::after { content: ''; position: absolute; inset: 0; background-image: linear-gradient(rgba(0,212,255,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(0,212,255,0.05) 1px, transparent 1px); background-size: 60px 60px; opacity: 0.30; pointer-events: none; }
+  .panel { background: #161B22; border: 1px solid #1E2A30; border-radius: 12px; padding: 36px 40px; position: relative; z-index: 1; }
+  .tag { display: inline-block; background: rgba(0,212,255,0.12); color: #00D4FF; font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 6px 18px; border-radius: 6px; margin-bottom: 28px; }
+  h1 { font-family: 'Space Grotesk', sans-serif; font-size: 58px; font-weight: 700; color: #E6EDF3; line-height: 1.08; letter-spacing: -0.02em; margin-bottom: 32px; }
+  h1 span { color: #00D4FF; }
+  h2 { font-family: 'Space Grotesk', sans-serif; font-size: 44px; font-weight: 700; color: #E6EDF3; line-height: 1.15; margin-bottom: 28px; }
+  h2 span { color: #00D4FF; }
+  p { font-size: 28px; color: #C9D1D9; line-height: 1.6; }
+  .muted { font-size: 24px; color: #768F92; margin-top: 20px; }
+  .slide-num { position: absolute; bottom: 52px; right: 72px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  .handle { position: absolute; bottom: 52px; left: 104px; font-family: 'Space Grotesk', sans-serif; font-size: 22px; color: #768F92; z-index: 2; }
+  ul { list-style: none; margin-top: 8px; }
+  ul li { font-size: 27px; color: #C9D1D9; line-height: 1.55; padding: 10px 0; border-bottom: 1px solid #1E2A30; display: flex; align-items: flex-start; gap: 18px; }
+  ul li:last-child { border-bottom: none; }
+  ul li .icon { color: #00D4FF; font-size: 26px; flex-shrink: 0; margin-top: 2px; }
+  .lesson-list { display: flex; flex-direction: column; gap: 14px; margin-top: 12px; }
+  .lesson { background: #0D1117; border: 1px solid #1E2A30; border-radius: 10px; padding: 16px 22px; }
+  .lesson-num { font-family: 'Space Grotesk', sans-serif; font-size: 18px; color: #768F92; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 6px; }
+  .lesson-text { font-size: 25px; color: #E6EDF3; line-height: 1.4; font-weight: 500; }
+  .metric-row { display: flex; gap: 24px; margin-top: 12px; }
+  .metric { flex: 1; background: #0D1117; border: 1px solid #1E2A30; border-radius: 10px; padding: 22px 18px; text-align: center; }
+  .metric .val { font-family: 'Space Grotesk', sans-serif; font-size: 40px; font-weight: 700; color: #00D4FF; line-height: 1; }
+  .metric .desc { font-size: 19px; color: #768F92; margin-top: 8px; line-height: 1.4; }
+  .cta-line { font-family: 'Space Grotesk', sans-serif; font-size: 34px; font-weight: 700; color: #00D4FF; margin-top: 28px; border-top: 1px solid #1E2A30; padding-top: 24px; }
+</style>
+</head>
+<body>
+
+<div class="slide" id="p1">
+  <span class="tag">Behind the Scenes</span>
+  <h1>6 months of<br>automated content.<br>What the <span>data</span><br>actually shows.</h1>
+  <p class="muted">No highlight reel. Just honest numbers from a real account.</p>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">1 / 7</div>
+</div>
+
+<div class="slide" id="p2">
+  <div class="panel">
+    <h2>The <span>setup</span> in one slide</h2>
+    <ul>
+      <li><span class="icon">→</span>60+ carousel posts in posts.json (HTML → Playwright PNG → GitHub)</li>
+      <li><span class="icon">→</span>GitHub Actions: every Wednesday 11am ET → IG + Threads API</li>
+      <li><span class="icon">→</span>Platforms: 2 (IG + Threads), same post, zero extra work</li>
+      <li><span class="icon">→</span>Monthly cost: $20 (Claude Pro). GitHub Actions free tier.</li>
+    </ul>
+    <p class="muted" style="margin-top:20px;">Active time per month: ~3 hours (mostly new content creation). Automation runs the rest.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">2 / 7</div>
+</div>
+
+<div class="slide" id="p3">
+  <div class="panel">
+    <h2>What <span>performed</span> best</h2>
+    <ul>
+      <li><span class="icon">1.</span>Specific numbers — "saved 3 hours" beats "saves time"</li>
+      <li><span class="icon">2.</span>Real story posts — "I switched to Cursor AI" beats "tools comparison"</li>
+      <li><span class="icon">3.</span>Actionable takeaways — "do THIS today" beats "here's something interesting"</li>
+      <li><span class="icon">4.</span>Wednesday posting — consistent day builds audience expectation</li>
+    </ul>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">3 / 7</div>
+</div>
+
+<div class="slide" id="p4">
+  <div class="panel">
+    <h2>What <span>didn't work</span></h2>
+    <ul>
+      <li><span class="icon">✗</span>Generic AI listicles ("10 AI tools you should try") — no differentiation</li>
+      <li><span class="icon">✗</span>Too long captions on Threads — IG captions don't port perfectly</li>
+      <li><span class="icon">✗</span>Posting without a hook in the first line — first sentence does 80% of the work</li>
+      <li><span class="icon">✗</span>Vague CTAs — "follow for more" alone underperforms vs. a specific promise</li>
+    </ul>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">4 / 7</div>
+</div>
+
+<div class="slide" id="p5">
+  <div class="panel">
+    <h2>The <span>4 lessons</span> I'd apply from day 1</h2>
+    <div class="lesson-list">
+      <div class="lesson">
+        <div class="lesson-num">Lesson 01</div>
+        <div class="lesson-text">Build the automation before post #1. Not after post #20.</div>
+      </div>
+      <div class="lesson">
+        <div class="lesson-num">Lesson 02</div>
+        <div class="lesson-text">Start collecting emails from your first post. The list outlasts every platform.</div>
+      </div>
+      <div class="lesson">
+        <div class="lesson-num">Lesson 03</div>
+        <div class="lesson-text">Post imperfect content weekly. Not perfect content quarterly.</div>
+      </div>
+      <div class="lesson">
+        <div class="lesson-num">Lesson 04</div>
+        <div class="lesson-text">Pick one platform and automate it fully before adding a second.</div>
+      </div>
+    </div>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">5 / 7</div>
+</div>
+
+<div class="slide" id="p6">
+  <div class="panel">
+    <h2>The <span>honest numbers</span></h2>
+    <div class="metric-row">
+      <div class="metric">
+        <div class="val">60+</div>
+        <div class="desc">Carousel posts created (14 months queued)</div>
+      </div>
+      <div class="metric">
+        <div class="val">2</div>
+        <div class="desc">Platforms auto-posting weekly</div>
+      </div>
+      <div class="metric">
+        <div class="val">$20</div>
+        <div class="desc">Monthly total cost</div>
+      </div>
+    </div>
+    <p class="muted" style="margin-top:28px;">Revenue: building. Email list: growing. The infrastructure is real. The compound curve hits later.</p>
+  </div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">6 / 7</div>
+</div>
+
+<div class="slide" id="p7">
+  <h1>Building in public<br>means showing<br>the real process —<br>not just the <span>wins.</span></h1>
+  <p>The wins are coming. The foundation is real. See you next week.</p>
+  <div class="cta-line">Follow for the full automation build journal.</div>
+  <div class="handle">@alphaengineer.ai</div>
+  <div class="slide-num">7 / 7</div>
+</div>
+
+</body>
+</html>
