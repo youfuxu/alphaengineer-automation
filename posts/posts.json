@@ -676,6 +676,76 @@
         "assets/post-50/06.png",
         "assets/post-50/07.png"
       ]
+    },
+    {
+      "id": 51,
+      "pillar": "ai-tools",
+      "caption": "5 AI prompts engineers use every day to save 3 hours. ⏱️\n\nCopy these. Use them today. They work immediately.\n\nPrompt #1 — Debug (saves 45 min):\n\"You are a senior [language] engineer. Here is my code: [paste]. It's failing with: [error]. Diagnose the root cause. Don't fix it yet — just explain what's wrong.\"\n\nPrompt #2 — Email draft (saves 20 min):\n\"Write a [formal/casual] email to [role]. Subject: [topic]. Key points: [list]. Max 200 words. No filler phrases.\"\n\nPrompt #3 — Code review (saves 30 min):\n\"Review for: 1) Security vulnerabilities 2) Performance issues 3) Missing edge cases. Be specific — name line numbers.\"\n\nPrompt #4 — Auto-document (saves 40 min):\n\"Write docstrings for every function in this file. Follow [Google/NumPy/JSDoc] format. Include: what it does, params, return, one example.\"\n\nPrompt #5 — Market research (saves 45 min):\n\"Write a 200-word brief on [topic]. Include: current state, 3 key trends in 2025, and 2 risks engineers should know. Cite reasoning.\"\n\nThe compound effect: 3h/day × 250 work days = 750 hours/year reclaimed.\n\nSave these. Use them this week.\n\n#ClaudeAI #AITools #EngineerLife #Productivity #AIPrompts #SideHustle #BuildInPublic #TechCareer #AIWorkflow #TimeHacking",
+      "images": [
+        "assets/post-51/01.png",
+        "assets/post-51/02.png",
+        "assets/post-51/03.png",
+        "assets/post-51/04.png",
+        "assets/post-51/05.png",
+        "assets/post-51/06.png",
+        "assets/post-51/07.png"
+      ]
+    },
+    {
+      "id": 52,
+      "pillar": "passive-income",
+      "caption": "How I made $200 in my first month selling digital products as an engineer. 💰\n\nSelling something I already built. No audience. No experience.\n\nWhat I sold:\n1. Notion Side Hustle OS — my personal tracker, listed at $29 on Gumroad\n2. AI Prompt Pack — 20 Claude prompts for engineers, listed at $9\n\nThe 30-day timeline:\nDay 1: Listed on Gumroad\nDay 3: First sale ($26.10 after fees). First dollar online ever.\nDay 7: Added prompt pack at $9\nDay 30: 5 Notion sales ($130) + 8 prompt packs ($72) = $202 total\n\nThe 3 lessons:\n→ Distribution beats product quality in month 1\n→ $200 wasn't the point — proof the machine works was\n→ Gumroad 10% fee hurts less than not shipping\n\nWhat I'd do differently:\n✓ Price at $19-29, not $9 (cheap products get less trust)\n✓ Add a Loom demo video day 1 (triples perceived value)\n✓ Start collecting emails from first sale (the list is the asset)\n\nThe math at scale: same products × 1,000 sales = $39K. Same work. Infinite leverage.\n\nYou already have what it takes. You just haven't listed it yet.\n\n#PassiveIncome #DigitalProducts #Gumroad #SideHustle #EngineerLife #BuildInPublic #FinancialFreedom #OnlineIncome #FirstDollar #CreatorEconomy",
+      "images": [
+        "assets/post-52/01.png",
+        "assets/post-52/02.png",
+        "assets/post-52/03.png",
+        "assets/post-52/04.png",
+        "assets/post-52/05.png",
+        "assets/post-52/06.png",
+        "assets/post-52/07.png"
+      ]
+    },
+    {
+      "id": 53,
+      "pillar": "ai-tools",
+      "caption": "Claude API vs Claude Pro: which one should engineers choose? 🤔\n\nThey look the same. They're built for completely different things.\n\nClaude Pro ($20/mo):\n→ Chat interface — you type, Claude responds\n→ Personal use: writing, research, code reviews\n→ Fixed monthly cost, unlimited messages\n→ Best for: daily AI work you do manually\n\nClaude API (pay per token):\n→ Programmatic access — your app calls Claude\n→ Build products/automation\n→ Scales with usage (~$3 per million input tokens)\n→ Best for: automation, side hustle tools, batch processing\n\nReal engineer use cases:\n→ Pro: daily writing, code reviews, research, email drafts\n→ API: content pipeline (generates this account's captions)\n→ API: YouTube bot (writes daily scripts automatically)\n→ API: chatbot products others pay to use\n\nThe engineer's answer:\n1. Get Claude Pro first. Use it daily. Learn what you repeat.\n2. Those repeated tasks → automate with the API.\n3. First automation script costs under $1 to run.\n\nMy setup: Claude Pro for thinking. API for shipping.\n\nBoth. That's the answer.\n\n#ClaudeAI #AnthropicAPI #AITools #EngineerLife #SideHustle #Automation #BuildInPublic #AIAutomation #TechCareer #PassiveIncome",
+      "images": [
+        "assets/post-53/01.png",
+        "assets/post-53/02.png",
+        "assets/post-53/03.png",
+        "assets/post-53/04.png",
+        "assets/post-53/05.png",
+        "assets/post-53/06.png",
+        "assets/post-53/07.png"
+      ]
+    },
+    {
+      "id": 54,
+      "pillar": "wealth-mindset",
+      "caption": "Why most engineers never reach financial freedom — and how the top 10% think differently. 🧠\n\nThe myth: \"If I just earn more, I'll eventually be free.\"\nThe reality: lifestyle grows with every raise. Same savings rate.\n\nThe savings rate math most engineers ignore:\n→ 10% savings rate → Financial independence in ~43 years\n→ 20% savings rate → ~37 years\n→ 40% savings rate → ~22 years\n→ 60% savings rate → ~12 years\n→ 75% savings rate → ~7 years\n\nSame income. Completely different timelines.\n\n4 mindset shifts from the top 10%:\n→ \"I'll invest more when I earn more\" → \"I invest first, live on what's left\"\n→ \"That raise = better lifestyle\" → \"That raise = 5 years shorter to freedom\"\n→ \"My salary determines my wealth\" → \"My savings rate determines my wealth\"\n→ \"Wait until I make more\" → \"Run the system now\"\n\nThe 30-min audit to run today:\n→ Calculate your savings rate: monthly investments ÷ gross income × 100\n→ Check 401(k) contribution — maxed or just employer match minimum?\n→ List subscriptions — what auto-renews that you forgot about?\n→ Calculate FI number: annual expenses × 25\n\nThe difference isn't income. It's who controls the system.\n\n#WealthMindset #FinancialFreedom #EngineerFinance #SavingsRate #FIRE #PersonalFinance #CompoundInterest #InvestingMindset #BuildWealth #TechCareer",
+      "images": [
+        "assets/post-54/01.png",
+        "assets/post-54/02.png",
+        "assets/post-54/03.png",
+        "assets/post-54/04.png",
+        "assets/post-54/05.png",
+        "assets/post-54/06.png",
+        "assets/post-54/07.png"
+      ]
+    },
+    {
+      "id": 55,
+      "pillar": "ai-tools",
+      "caption": "I replaced my 30-minute morning research routine with one Perplexity Space. ☕\n\nNow it takes 5 minutes. Here's the exact setup.\n\nA Perplexity Space = your personalized AI workspace with its own sources, instructions, and memory.\n\nMy Space setup:\n📰 Sources: TechCrunch, Hacker News, Anthropic Blog, Y Combinator News\n🎯 Topics: AI tools, Claude updates, passive income, tech hiring\n📝 Instruction: \"Format as: Top Story → Why it matters for engineers → One action I could take\"\n\nThe 5-minute routine:\n1. Ask Space: \"What's the most important news this morning for an engineer building AI side income?\"\n2. Read 3-5 bulleted insights with citations (1 min)\n3. Ask follow-up: \"Which could I turn into content this week?\"\n4. Save 1-2 ideas to Notion\n\n5 use cases for engineers:\n→ Morning news briefing on AI + tech\n→ Competitor monitoring (add competitor blogs)\n→ Job market tracking (industry hiring trends)\n→ Investment research (add financial news)\n→ Learning accelerator (add docs and papers)\n\nThe time math: 30 min → 5 min × 5 days/week = 91 hours/year reclaimed.\n\nInformation advantage isn't about reading more. It's about reading smarter.\n\n#PerplexityAI #AITools #EngineerLife #Productivity #ResearchTools #BuildInPublic #TechCareer #MorningRoutine #AIWorkflow #SideHustle",
+      "images": [
+        "assets/post-55/01.png",
+        "assets/post-55/02.png",
+        "assets/post-55/03.png",
+        "assets/post-55/04.png",
+        "assets/post-55/05.png",
+        "assets/post-55/06.png",
+        "assets/post-55/07.png"
+      ]
     }
   ]
 }
