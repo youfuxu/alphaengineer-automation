@@ -1,13 +1,43 @@
 # 新平台帳號申請與 API 串接指南
+最後更新：2026-06-18
 
 ## 狀態總覽
 
-| 平台 | 帳號 | API Secrets | 自動發文 |
-|------|------|------------|---------|
-| Instagram | ✅ @alphaengineer.ai | ✅ 已設定 | ✅ 運作中 |
-| Threads | ✅ @alphaengineer.ai | ✅ 已設定 | ✅ 運作中 |
-| TikTok | ⬜ 待申請 | ⬜ API 審核中（需數天）| 💤 審核通過後啟用 |
-| YouTube | ⬜ 待申請 | ⬜ 待設定 | 💤 設定後立即啟用 |
+| 平台 | 帳號 | API Secrets | 自動發文 | Token 到期 |
+|------|------|------------|---------|----------|
+| Instagram | ✅ @alphaengineer.ai | ✅ 已設定 | ✅ 運作中 | ⚠️ 約 2026-08-01 |
+| Threads | ✅ @alphaengineer.ai | ✅ 已設定 | ✅ 運作中 | ⚠️ 約 2026-08-01 |
+| TikTok | ⬜ 待申請 | ⬜ API 審核中 | 💤 審核通過後啟用 | — |
+| YouTube | ⬜ 待申請 | ⬜ 待設定 | 💤 設定後立即啟用 | — |
+
+> ⚠️ **Token 到期提醒已自動化**：`.github/workflows/token-expiry-reminder.yml` 每週一自動檢查，到期前 30 天會自動開 GitHub Issue 提醒你。
+
+---
+
+## Meta Token 續期（IG + Threads）
+
+> 每 60 天需執行一次，下次到期：約 2026-08-01
+
+### 步驟（約 5 分鐘）
+
+1. 到 [Meta Developer Console](https://developers.facebook.com)
+2. 選擇 App「AlphaEngineer Bot」→ Tools → Graph API Explorer
+3. 右上角選你的 App，點 **Generate Access Token**，勾選 scopes：
+   - `instagram_basic`, `instagram_content_publish`
+   - `threads_basic`, `threads_content_publish`
+4. 換成 Long-lived Token（有效 60 天）：
+   ```bash
+   curl "https://graph.facebook.com/oauth/access_token\
+     ?grant_type=fb_exchange_token\
+     &client_id={APP_ID}\
+     &client_secret={APP_SECRET}\
+     &fb_exchange_token={SHORT_TOKEN}"
+   ```
+5. 到 GitHub repo → **Settings → Secrets and variables → Actions**
+6. 更新 `IG_ACCESS_TOKEN`（貼上新 token）
+7. 更新 `THREADS_ACCESS_TOKEN`（同一個 token）
+8. 更新 `SYSTEM.md` 裡的到期日為新日期
+9. 關閉 GitHub Issue（若有）
 
 ---
 
@@ -55,8 +85,6 @@ https://graph.threads.net/oauth/authorize
 | `THREADS_ACCESS_TOKEN` | 上方取得的 long-lived token |
 | `THREADS_USER_ID` | me API 回傳的 id 欄位 |
 
-**完成後下次 GitHub Actions 執行即自動發文到 Threads。**
-
 ---
 
 ## TikTok
@@ -69,15 +97,14 @@ https://graph.threads.net/oauth/authorize
 ### 2. 申請開發者資格
 1. 到 https://developers.tiktok.com → 用 TikTok 帳號登入
 2. 建立 App：名稱「Alpha Engineer Bot」，Platform：Web
-3. 申請以下 Permissions（在 App → Products → Login Kit → Add scopes）：
-   - `video.publish`（發文用）
-4. 同時申請 **Content Posting API** access（需填寫使用情境，說明是個人帳號自動化發文）
+3. 申請以下 Permissions：`video.publish`（發文用）
+4. 同時申請 **Content Posting API** access（說明是個人帳號自動化發文）
 
 > ⚠️ **TikTok 審核需要 3-7 天**，提交後等待 email 通知
 
 ### 3. 取得 OAuth 憑證（審核通過後）
 1. App → Credentials 取得 Client Key 和 Client Secret
-2. 執行 OAuth 授權流程取得 refresh token（需要一次性手動操作）：
+2. 執行 OAuth 授權流程取得 refresh token：
    ```
    GET https://www.tiktok.com/v2/auth/authorize/
      ?client_key={client_key}
@@ -98,7 +125,7 @@ https://graph.threads.net/oauth/authorize
 |-------------|-------|
 | `TIKTOK_CLIENT_KEY` | App 的 Client Key |
 | `TIKTOK_CLIENT_SECRET` | App 的 Client Secret |
-| `TIKTOK_REFRESH_TOKEN` | OAuth 換來的 refresh_token（365天有效） |
+| `TIKTOK_REFRESH_TOKEN` | OAuth 換來的 refresh_token（365天有效）|
 
 ---
 
@@ -124,7 +151,7 @@ https://graph.threads.net/oauth/authorize
    - 名稱：Alpha Engineer Bot
 6. 下載 client ID 和 client secret
 
-### 3. 取得 Refresh Token（用 youtube-creator-cli，比 OAuth Playground 更簡單）
+### 3. 取得 Refresh Token
 
 ```bash
 # 安裝 CLI（一次性）
@@ -144,7 +171,7 @@ cat ~/.youtube-creator-cli/config.json
 # 複製 "refresh_token" 的值
 ```
 
-> 原因：Desktop app OAuth 不需要 redirect URI，CLI 自動起 localhost server 完成授權，比 OAuth Playground 少 3 個步驟。
+> 使用 Desktop app OAuth 不需要 redirect URI，CLI 自動起 localhost server 完成授權。
 
 ### 4. 加入 GitHub Secrets
 | Secret Name | Value |
@@ -153,7 +180,16 @@ cat ~/.youtube-creator-cli/config.json
 | `YOUTUBE_CLIENT_SECRET` | Google Cloud OAuth Client Secret |
 | `YOUTUBE_REFRESH_TOKEN` | `config.json` 裡的 `refresh_token` 值 |
 
+### 5. 常見錯誤排查
+
+| 錯誤訊息 | 原因 | 解法 |
+|---------|------|------|
+| `Access blocked: This app's request is invalid` | OAuth Consent Screen 沒加 Test Users | 到 Google Cloud Console → OAuth Consent Screen → Test Users → 加入你的 email |
+| `invalid_grant` | refresh token 失效 | 重新執行 `youtube-creator-cli auth` |
+| `quotaExceeded` | YouTube API 每日 quota 用完 | 等隔天自動重置（免費帳號 10,000 units/day）|
+| `uploadLimitExceeded` | 新帳號每日上傳限制 | 申請 YouTube 頻道驗證（Verify）提升上限 |
+
 ### 內容說明
-- 每週三同步從 carousel 圖片自動產生 **YouTube Shorts**（21秒以內的垂直短影音）
+- 每週三同步從 carousel 圖片自動產生 **YouTube Shorts**（21秒以內垂直短影音）
 - 格式：每張圖顯示 3 秒 → 合成 1080×1920 短片上傳
 - Shorts 演算法對新頻道友好，適合早期增粉

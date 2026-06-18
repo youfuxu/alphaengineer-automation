@@ -1,0 +1,83 @@
+name: Token Expiry Reminder
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'  # 每週一 9am ET
+  workflow_dispatch:
+
+jobs:
+  check-token-expiry:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Check token expiry and create issue if needed
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const EXPIRY_DATE = new Date('2026-08-01');
+            const today = new Date();
+            const daysLeft = Math.ceil((EXPIRY_DATE - today) / (1000 * 60 * 60 * 24));
+
+            console.log(`Token expires in ${daysLeft} days (${EXPIRY_DATE.toISOString().slice(0, 10)})`);
+
+            if (daysLeft > 30) {
+              console.log('No action needed.');
+              return;
+            }
+
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: 'token-expiry',
+              state: 'open'
+            });
+
+            if (issues.length > 0) {
+              console.log(`Issue already exists (#${issues[0].number}). Skipping.`);
+              return;
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `⚠️ Meta Token 即將到期（剩 ${daysLeft} 天）`,
+              body: [
+                '## Meta API Token 到期提醒',
+                '',
+                '| 項目 | 值 |',
+                '|------|---|',
+                `| **到期日** | 2026-08-01 |`,
+                `| **剩餘天數** | ${daysLeft} 天 |`,
+                '| **影響平台** | Instagram + Threads（自動發文會中斷） |',
+                '',
+                '---',
+                '',
+                '## 需要更新的 GitHub Secrets',
+                '',
+                '- `IG_ACCESS_TOKEN`',
+                '- `THREADS_ACCESS_TOKEN`',
+                '',
+                '## 續期步驟（約 5 分鐘）',
+                '',
+                '1. 到 [Meta Developer Console](https://developers.facebook.com)',
+                '2. 選擇 App「AlphaEngineer Bot」→ Tools → Graph API Explorer',
+                '3. 右上角選擇你的 App，點 **Generate Access Token**，勾選所需 scopes',
+                '4. 換成 Long-lived Token（有效 60 天）：',
+                '   ```',
+                '   curl "https://graph.facebook.com/oauth/access_token?grant_type=fb_exchange_token&client_id={APP_ID}&client_secret={APP_SECRET}&fb_exchange_token={SHORT_TOKEN}"',
+                '   ```',
+                '5. 到 GitHub repo → Settings → Secrets and variables → Actions',
+                '6. 更新 `IG_ACCESS_TOKEN`（值貼上新 token）',
+                '7. 更新 `THREADS_ACCESS_TOKEN`（IG 和 Threads 使用同一個 token）',
+                '8. 更新 `SYSTEM.md` 的 Token 到期日為新日期',
+                '9. 關閉此 Issue ✅',
+                '',
+                '---',
+                '',
+                '*此 Issue 由 GitHub Actions 自動建立，每週一定期檢查。*'
+              ].join('\n'),
+              labels: ['token-expiry']
+            });
+
+            console.log(`✅ Created token expiry issue. ${daysLeft} days remaining.`);
