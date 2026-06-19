@@ -1,5 +1,13 @@
-// Upload reel_01 to Instagram Reels via Graph API
-// Usage: node scripts/upload-reel.mjs
+// Upload a Reel to Instagram via Graph API
+// Usage: node scripts/upload-reel.mjs --reel 01
+// Or via GitHub Actions with reel_number input
+
+import { readFileSync } from 'fs';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const BASE_DIR = join(__dirname, '..');
 
 const API = 'https://graph.instagram.com/v21.0';
 const token = process.env.IG_ACCESS_TOKEN;
@@ -10,10 +18,14 @@ if (!token || !userId) {
   process.exit(1);
 }
 
-const VIDEO_URL =
-  'https://cdn.jsdelivr.net/gh/youfuxu/alphaengineer-automation@main/reels/reel_01_final.mp4';
+// Parse --reel argument or default to '01'
+const reelArg = process.argv.find((a) => a.startsWith('--reel'));
+const reelNumber = (reelArg ? reelArg.split('=')[1] || process.argv[process.argv.indexOf(reelArg) + 1] : '01').padStart(2, '0');
 
-const CAPTION = `Stop trading hours for dollars.
+// Load caption from reel_config.json (02+) or hardcoded (01)
+let caption;
+if (reelNumber === '01') {
+  caption = `Stop trading hours for dollars.
 
 This engineer uses AI to build income streams that never sleep. 🤖💰
 
@@ -29,6 +41,21 @@ Which tool would you start with? Drop it below 👇
 🔗 Free AI voice → https://try.elevenlabs.io/alphaengineer-ig
 
 #AlphaEngineer #AITools #PassiveIncome #SideHustle #EngineerLife #AIVideo #FacelessContent #BuildInPublic #FinancialFreedom`;
+} else {
+  const configPath = join(BASE_DIR, 'reels', 'reel_config.json');
+  const configs = JSON.parse(readFileSync(configPath, 'utf-8'));
+  const reel = configs.find((r) => r.number === reelNumber);
+  if (!reel) {
+    console.error(`Reel ${reelNumber} not found in reel_config.json`);
+    process.exit(1);
+  }
+  caption = reel.caption;
+}
+
+const VIDEO_URL = `https://cdn.jsdelivr.net/gh/youfuxu/alphaengineer-automation@main/reels/reel_${reelNumber}_final.mp4`;
+
+console.log(`Uploading Reel ${reelNumber}...`);
+console.log('Video URL:', VIDEO_URL);
 
 async function apiPost(path, params) {
   const url = new URL(`${API}/${path}`);
@@ -41,7 +68,7 @@ async function apiPost(path, params) {
 }
 
 async function waitReady(containerId) {
-  console.log(`Waiting for container ${containerId} to finish processing...`);
+  console.log(`Waiting for container ${containerId}...`);
   for (let i = 0; i < 30; i++) {
     await new Promise((r) => setTimeout(r, 5000));
     const url = new URL(`${API}/${containerId}`);
@@ -49,33 +76,24 @@ async function waitReady(containerId) {
     url.searchParams.set('access_token', token);
     const res = await fetch(url);
     const { status_code, status } = await res.json();
-    console.log(`  [${i + 1}/30] status_code=${status_code} status=${status}`);
+    console.log(`  [${i + 1}/30] ${status_code} ${status}`);
     if (status_code === 'FINISHED') return;
-    if (status_code === 'ERROR') throw new Error(`Container ${containerId} failed: ${status}`);
+    if (status_code === 'ERROR') throw new Error(`Container failed: ${status}`);
   }
   throw new Error('Timed out waiting for container');
 }
 
 async function main() {
-  console.log('Creating Reel media container...');
-  console.log('Video URL:', VIDEO_URL);
-
   const { id: containerId } = await apiPost(`${userId}/media`, {
     media_type: 'REELS',
     video_url: VIDEO_URL,
-    caption: CAPTION,
+    caption,
     share_to_feed: 'true',
   });
   console.log('Container ID:', containerId);
-
   await waitReady(containerId);
-
-  console.log('Publishing Reel...');
-  const { id: postId } = await apiPost(`${userId}/media_publish`, {
-    creation_id: containerId,
-  });
-  console.log('✅ Reel published! Post ID:', postId);
-  console.log(`View at: https://www.instagram.com/p/${postId}/`);
+  const { id: postId } = await apiPost(`${userId}/media_publish`, { creation_id: containerId });
+  console.log(`✅ Reel ${reelNumber} published! Post ID: ${postId}`);
 }
 
 main().catch((err) => {
