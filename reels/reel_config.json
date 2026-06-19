@@ -48,5 +48,45 @@
     "paired_post": 56,
     "affiliate_link": "https://try.elevenlabs.io/alphaengineer-ig",
     "caption": "I made my first affiliate commission by doing what I was already doing — recommending AI tools.\n\nThe difference: I added a link.\n\nElevenLabs affiliate: 22% recurring for 12 months.\n\nStart here → https://try.elevenlabs.io/alphaengineer-ig\n\n#AlphaEngineer #AffiliateMarketing #AITools #PassiveIncome #SideHustle #EngineerLife #FinancialFreedom"
+  },
+  {
+    "number": "07",
+    "theme": "One prompt generates a week of content",
+    "higgsfield_prompt": "Dark minimalist home office at night, multiple screens showing social media posts being generated in real-time, soft cyan and blue ambient glow from monitors, cinematic wide shot, ultra-clean desk aesthetic, content creator atmosphere",
+    "voiceover": "This engineer writes one prompt every Monday. By Tuesday, the entire week of posts is ready. That is two hours of content work compressed into three minutes.",
+    "genre": "drama",
+    "paired_post": 87,
+    "affiliate_link": "https://www.synthesia.io?via=youfu",
+    "caption": "One prompt. One Monday. A week of content.\n\nHere's how the pipeline works:\n1. Claude writes the posts\n2. Playwright renders the carousels\n3. GitHub Actions publishes automatically\n\nTotal weekly time: ~15 minutes.\n\nAI video tool I use for reels → https://www.synthesia.io?via=youfu\n\n#AlphaEngineer #AIAutomation #ContentCreation #BuildInPublic #AITools #SideHustle #EngineerLife"
+  },
+  {
+    "number": "08",
+    "theme": "The compound math engineers ignore",
+    "higgsfield_prompt": "Cinematic extreme close-up of a finance app screen showing an exponential growth curve in emerald green, finger slowly scrolling through projected returns, dark background with soft warm lighting, dramatic shallow depth of field, 4K quality",
+    "voiceover": "Five hundred dollars a month at ten percent return. In ten years: one hundred thousand. In twenty years: three hundred forty thousand. The math does not care when you start. But you should.",
+    "genre": "epic",
+    "paired_post": 50,
+    "affiliate_link": null,
+    "caption": "$500/month invested at 10% avg return:\n\n• 10 years → $102,000\n• 20 years → $343,000\n• 30 years → $986,000\n\nThe math doesn't care if you start today or in 5 years.\n\nBut you should care. A lot.\n\nWhich year are you on? 👇\n\n#AlphaEngineer #CompoundInterest #WealthBuilding #InvestingForBeginners #FinancialFreedom #EngineerLife #IndexFund"
+  },
+  {
+    "number": "09",
+    "theme": "Stop recommending AI tools for free",
+    "higgsfield_prompt": "Laptop on a minimal white desk with an affiliate dashboard visible on screen showing commission payments flowing in, notification badges lighting up one by one, clean bright studio lighting, cinematic close-up pull-back shot, professional creator aesthetic",
+    "voiceover": "Every time you tell someone about an AI tool, that is value leaving your hands for free. One free affiliate account changes that. Same conversation. Different outcome.",
+    "genre": "drama",
+    "paired_post": 56,
+    "affiliate_link": "https://try.elevenlabs.io/alphaengineer-ig",
+    "caption": "You're recommending AI tools every day.\n\nTo coworkers. In Discord. In comments.\n\nFor free.\n\nMost affiliate programs take 5 minutes to join and pay 20-25% recurring for 12 months.\n\nSame conversation. Very different outcome.\n\nElevenLabs — the one I use daily → https://try.elevenlabs.io/alphaengineer-ig\n\n#AlphaEngineer #AffiliateMarketing #PassiveIncome #AITools #SideHustle #EngineerLife #FinancialFreedom"
+  },
+  {
+    "number": "10",
+    "theme": "What engineers have wrong about side income",
+    "higgsfield_prompt": "Split cinematic shot: left side shows an engineer stressed at a corporate desk under harsh fluorescent light, right side shows the same person calm at a home desk with warm light and a growing chart on screen, seamless transition, epic film quality",
+    "voiceover": "Most engineers think side income means less focus on their career. The data says the opposite. Engineers with diversified income negotiate better salaries, take more calculated risks, and get promoted faster. Because they can afford to.",
+    "genre": "epic",
+    "paired_post": 32,
+    "affiliate_link": null,
+    "caption": "Engineers think: \"Side income = distraction from my career.\"\n\nThe data says the opposite.\n\nEngineers with diversified income:\n✅ Negotiate better (can walk away)\n✅ Take smarter career risks\n✅ Get promoted faster\n✅ Hit $1M net worth earlier\n\nThe side income isn't the distraction. The fear of building it is.\n\n#AlphaEngineer #EngineerLife #WealthMindset #FinancialFreedom #SideHustle #PassiveIncome #CareerAdvice"
   }
 ]
