@@ -189,10 +189,11 @@ def make_reel(reel_number: str):
     tmp_video.unlink(missing_ok=True)
 
     print(f"\n[DONE] Reel {reel_number} complete: {final}")
-    print(f"   Caption preview:\n{reel['caption'][:120]}...")
+    preview = reel['caption'][:120].encode('ascii', errors='replace').decode('ascii')
+    print(f"   Caption preview:\n{preview}...")
     if reel.get("affiliate_link"):
         print(f"   Affiliate link: {reel['affiliate_link']}")
-    print(f"\nNext: Upload via GitHub Actions → 'Upload Reel to Instagram' → reel_number: {reel_number}")
+    print(f"\nNext: Upload via GitHub Actions -> reel_number: {reel_number}")
 
 
 if __name__ == "__main__":
