@@ -26,7 +26,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { config } from 'dotenv';
 
-config();
+config({ path: join(dirname(fileURLToPath(import.meta.url)), '..', '.env') });
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -113,11 +113,24 @@ CAPTION RULES:
 - End: "Follow for more [relevant topic] every week."
 - Then hashtags on new line
 
-Return JSON exactly:
-{
-  "html": "<!DOCTYPE html>...",
-  "caption": "Hook line\\n\\n→ Point 1\\n→ Point 2\\n→ Point 3\\n\\nFollow for more...\\n\\n#hashtag1 #hashtag2..."
-}`;
+Return your response using these exact XML markers (no JSON, the HTML content makes JSON unreliable):
+
+<HTML>
+<!DOCTYPE html>
+...full HTML here...
+</HTML>
+
+<CAPTION>
+Hook line
+
+→ Point 1
+→ Point 2
+→ Point 3
+
+Follow for more...
+
+#hashtag1 #hashtag2...
+</CAPTION>`;
 }
 
 // === Generate with Claude ===
@@ -131,11 +144,19 @@ async function generateContent(topic, pillar) {
     messages: [{ role: 'user', content: buildPrompt(topic, pillar) }],
   });
 
-  const raw = msg.content[0].text.trim()
-    .replace(/^```json\n?/, '')
-    .replace(/\n?```$/, '');
+  const raw = msg.content[0].text;
 
-  return JSON.parse(raw);
+  const htmlMatch = raw.match(/<HTML>([\s\S]*?)<\/HTML>/);
+  const captionMatch = raw.match(/<CAPTION>([\s\S]*?)<\/CAPTION>/);
+
+  if (!htmlMatch || !captionMatch) {
+    throw new Error('Response missing <HTML> or <CAPTION> markers. Got: ' + raw.slice(0, 200));
+  }
+
+  return {
+    html: htmlMatch[1].trim(),
+    caption: captionMatch[1].trim(),
+  };
 }
 
 // === Render with Playwright ===
