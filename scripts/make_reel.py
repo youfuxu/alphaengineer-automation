@@ -29,6 +29,7 @@ load_dotenv(BASE_DIR / ".env")
 REELS_DIR = BASE_DIR / "reels"
 ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY")
 ELEVENLABS_VOICE_ID = os.getenv("ELEVENLABS_VOICE_ID", "bIHbv24MWmeRgasZH58o")  # Will (warm male)
+PEXELS_API_KEY = os.getenv("PEXELS_API_KEY")
 
 _HF_CMD = shutil.which("higgsfield.cmd") or shutil.which("higgsfield") or "higgsfield"
 
@@ -75,6 +76,58 @@ def generate_higgsfield_video(prompt: str, genre: str, output_path: Path) -> boo
 
     except Exception as e:
         print(f"[Higgsfield] Exception: {e}")
+        return False
+
+
+# ── Pexels video fallback ─────────────────────────────────────────────────────
+
+def generate_pexels_video(query: str, output_path: Path) -> bool:
+    """Fallback: download a portrait stock video from Pexels (requires PEXELS_API_KEY)."""
+    if not PEXELS_API_KEY:
+        print("[Pexels] PEXELS_API_KEY not set in .env")
+        return False
+    print(f"[Pexels] Searching portrait video for: {query}")
+    headers = {"Authorization": PEXELS_API_KEY}
+    params = {"query": query, "per_page": 5, "orientation": "portrait"}
+    try:
+        resp = requests.get(
+            "https://api.pexels.com/videos/search",
+            headers=headers, params=params, timeout=30,
+        )
+        resp.raise_for_status()
+        videos = resp.json().get("videos", [])
+        if not videos:
+            print("[Pexels] No videos found")
+            return False
+
+        video_url = None
+        for video in videos:
+            files = [
+                f for f in video.get("video_files", [])
+                if f.get("width") and f.get("height")
+                and f["height"] >= f["width"]
+                and min(f["width"], f["height"]) >= 720
+            ]
+            if files:
+                files.sort(key=lambda f: f.get("height", 0))
+                video_url = files[0]["link"]
+                break
+
+        if not video_url:
+            print("[Pexels] No >=720p portrait file found")
+            return False
+
+        print("[Pexels] Downloading video...")
+        dl = requests.get(video_url, stream=True, timeout=120)
+        dl.raise_for_status()
+        with open(output_path, "wb") as f:
+            for chunk in dl.iter_content(8192):
+                f.write(chunk)
+        print(f"[Pexels] Video saved: {output_path.name}")
+        return True
+
+    except Exception as e:
+        print(f"[Pexels] Error: {e}")
         return False
 
 
@@ -152,7 +205,7 @@ def combine_video_audio(video_path: Path, audio_path: Path, output_path: Path) -
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-def make_reel(reel_number: str):
+def make_reel(reel_number: str, no_higgsfield: bool = False):
     config_path = REELS_DIR / "reel_config.json"
     if not config_path.exists():
         print(f"ERROR: {config_path} not found")
@@ -170,10 +223,18 @@ def make_reel(reel_number: str):
     tmp_audio = REELS_DIR / f"reel_{reel_number}_voiceover.mp3"
     final = REELS_DIR / f"reel_{reel_number}_final.mp4"
 
-    # Step 1: Higgsfield video
-    if not generate_higgsfield_video(reel["higgsfield_prompt"], reel["genre"], tmp_video):
-        print("ERROR: Higgsfield generation failed")
-        sys.exit(1)
+    # Step 1: Higgsfield video (Pexels fallback if it fails or --no-higgsfield)
+    video_ok = False
+    if not no_higgsfield:
+        video_ok = generate_higgsfield_video(reel["higgsfield_prompt"], reel["genre"], tmp_video)
+        if not video_ok:
+            print("[Higgsfield] failed — falling back to Pexels")
+
+    if not video_ok:
+        pexels_query = reel["theme"].split("/")[0].strip()
+        if not generate_pexels_video(pexels_query, tmp_video):
+            print("ERROR: Both Higgsfield and Pexels video generation failed")
+            sys.exit(1)
 
     # Step 2: Voiceover
     if not generate_voiceover(reel["voiceover"], tmp_audio):
@@ -199,7 +260,9 @@ def make_reel(reel_number: str):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Alpha Engineer Reel Generator")
     parser.add_argument("--reel", required=True, help="Reel number (e.g. 02, 03)")
+    parser.add_argument("--no-higgsfield", action="store_true",
+                        help="Skip Higgsfield and use Pexels stock video directly")
     args = parser.parse_args()
 
     reel_num = args.reel.zfill(2)
-    make_reel(reel_num)
+    make_reel(reel_num, no_higgsfield=args.no_higgsfield)
