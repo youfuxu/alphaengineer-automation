@@ -20,6 +20,7 @@ import sys
 import time
 from pathlib import Path
 
+import re
 import requests
 from dotenv import load_dotenv
 
@@ -32,6 +33,34 @@ ELEVENLABS_VOICE_ID = os.getenv("ELEVENLABS_VOICE_ID", "bIHbv24MWmeRgasZH58o")  
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY")
 
 _HF_CMD = shutil.which("higgsfield.cmd") or shutil.which("higgsfield") or "higgsfield"
+
+
+def _get_higgsfield_balance() -> float:
+    """Query current Higgsfield credit balance. Returns 0.0 on failure."""
+    try:
+        result = subprocess.run(
+            f'"{_HF_CMD}" balance', capture_output=True, text=True, timeout=30, shell=True
+        )
+        output = result.stdout + result.stderr
+        match = re.search(r'(\d+(?:\.\d+)?)\s*credits?', output, re.IGNORECASE)
+        if match:
+            return float(match.group(1))
+    except Exception as e:
+        print(f"[CreditCheck] balance query failed: {e}")
+    return 0.0
+
+
+def _require_credits(needed: float):
+    """Exit with a clear message if Higgsfield balance is below needed."""
+    balance = _get_higgsfield_balance()
+    if balance == 0.0:
+        print("[CreditCheck] WARNING: could not read balance — proceeding anyway")
+        return
+    print(f"[CreditCheck] Balance: {balance} credits (need {needed})")
+    if balance < needed:
+        print(f"[CreditCheck] ABORT: only {balance} credits left, need {needed}.")
+        print("  Wait for the monthly reset (7/18) or top up before running.")
+        sys.exit(1)
 
 
 # ── Higgsfield video generation ───────────────────────────────────────────────
@@ -218,6 +247,9 @@ def make_reel(reel_number: str, no_higgsfield: bool = False):
         sys.exit(1)
 
     print(f"\n=== Making Reel {reel_number}: {reel['theme']} ===")
+
+    if not no_higgsfield:
+        _require_credits(90)  # 80 credits per reel + 10 buffer
 
     tmp_video = REELS_DIR / f"reel_{reel_number}_raw.mp4"
     tmp_audio = REELS_DIR / f"reel_{reel_number}_voiceover.mp3"

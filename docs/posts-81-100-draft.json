@@ -1,0 +1,282 @@
+[
+  {
+    "id": 81,
+    "pillar": "ai-tools",
+    "caption": "Claude Sonnet 4.5 vs Sonnet 4 vs Haiku — which one should engineers actually pay for? 🧠\n\n→ Haiku: fastest & cheapest — perfect for high-volume, simple tasks\n→ Sonnet 4: the sweet spot — strong reasoning, API-friendly pricing\n→ Sonnet 4.5: sharpest code generation & long-context understanding\n→ Rule of thumb: prototype with Haiku, ship with Sonnet, push limits with 4.5\n\nFollow @alphaengineer.ai for weekly AI tools breakdowns built for engineers.\n\n#Claude #AnthropicAI #AITools #LLM #SoftwareEngineer #AIEngineer #BuildWithAI #DeveloperTools #AIProductivity #CodingWithAI #TechTools #PromptEngineering",
+    "images": [
+      "assets/post-81/01.png",
+      "assets/post-81/02.png",
+      "assets/post-81/03.png",
+      "assets/post-81/04.png",
+      "assets/post-81/05.png",
+      "assets/post-81/06.png",
+      "assets/post-81/07.png"
+    ]
+  },
+  {
+    "id": 82,
+    "pillar": "passive-income",
+    "caption": "Engineers are sitting on a goldmine: your own API wrapper 🔌\n\n→ Pick any public API that's painful to use raw (weather, finance, maps)\n→ Wrap it with clean endpoints, auth, and rate-limit handling\n→ Charge $9-29/mo on RapidAPI — recurring revenue with zero support overhead\n→ One wrapper used by 200 devs = $2K+/mo while you sleep\n\nFollow @alphaengineer.ai for passive income blueprints designed for engineers.\n\n#APIBusiness #PassiveIncome #SideHustle #RapidAPI #IndieHacker #SoloFounder #EngineerLife #BuildInPublic #RecurringRevenue #TechEntrepreneur #SideProject #MicroSaaS",
+    "images": [
+      "assets/post-82/01.png",
+      "assets/post-82/02.png",
+      "assets/post-82/03.png",
+      "assets/post-82/04.png",
+      "assets/post-82/05.png",
+      "assets/post-82/06.png",
+      "assets/post-82/07.png"
+    ]
+  },
+  {
+    "id": 83,
+    "pillar": "ai-tools",
+    "caption": "Cursor vs Copilot vs Windsurf in 2026 — I used all three for 90 days 🖥️\n\n→ Copilot: best GitHub integration, weakest multi-file reasoning\n→ Cursor: most polished UX, composer mode changes how you think about coding\n→ Windsurf: Cascade agent edits your whole repo from one prompt — no other tool does this yet\n→ Verdict: Cursor for solo work, Windsurf for complex refactors, Copilot for teams already on GitHub\n\nFollow @alphaengineer.ai for honest AI tools reviews that save you money and time.\n\n#Cursor #GitHubCopilot #Windsurf #AIEditor #DeveloperTools #AICoding #SoftwareEngineer #BuildWithAI #CodingProductivity #AIAgents #TechTools #ShipFaster",
+    "images": [
+      "assets/post-83/01.png",
+      "assets/post-83/02.png",
+      "assets/post-83/03.png",
+      "assets/post-83/04.png",
+      "assets/post-83/05.png",
+      "assets/post-83/06.png",
+      "assets/post-83/07.png"
+    ]
+  },
+  {
+    "id": 84,
+    "pillar": "wealth-mindset",
+    "caption": "Your skills compound just like money — most engineers never realize this 📈\n\n→ Learning one tool deeply makes the next tool 40% faster to pick up\n→ T-shaped skills (1 deep + 5 wide) command the highest consulting rates\n→ Spend 5% of income on learning — the ROI beats the S&P 500\n→ The engineer who learns in public builds leverage no salary can match\n\nFollow @alphaengineer.ai for wealth-building principles built for engineers.\n\n#SkillCompounding #CareerGrowth #EngineerMindset #WealthMindset #LearningInPublic #TechCareer #BuildInPublic #FinancialFreedom #CareerDevelopment #SoftwareEngineer",
+    "images": [
+      "assets/post-84/01.png",
+      "assets/post-84/02.png",
+      "assets/post-84/03.png",
+      "assets/post-84/04.png",
+      "assets/post-84/05.png",
+      "assets/post-84/06.png",
+      "assets/post-84/07.png"
+    ]
+  },
+  {
+    "id": 85,
+    "pillar": "passive-income",
+    "caption": "Your first $100 on Gumroad is closer than you think 💰\n\n→ Pick one Notion template you already built for yourself\n→ Add a cover page, table of contents, and a one-paragraph README\n→ Price it at $9 — low enough to impulse buy, high enough to signal value\n→ One tweet + one Reddit post in a niche community = your first sale this week\n\nFollow @alphaengineer.ai for passive income blueprints designed for engineers.\n\n#Gumroad #NotionTemplates #PassiveIncome #DigitalProducts #SideHustle #IndieHacker #BuildInPublic #SoloFounder #EngineerLife #MakeMoneyOnline #SideProject #CreatorEconomy",
+    "images": [
+      "assets/post-85/01.png",
+      "assets/post-85/02.png",
+      "assets/post-85/03.png",
+      "assets/post-85/04.png",
+      "assets/post-85/05.png",
+      "assets/post-85/06.png",
+      "assets/post-85/07.png"
+    ]
+  },
+  {
+    "id": 86,
+    "pillar": "ai-tools",
+    "caption": "I built my own AI book summarizer with Claude API in one weekend 📚\n\n→ Upload PDF → Claude chunks it → structured summary with key insights extracted\n→ Add a Telegram bot frontend — your library is now queryable in plain English\n→ Total cost: ~$0.02 per book summary at Haiku pricing\n→ One weekend of code = a personal research tool you'll use for years\n\nFollow @alphaengineer.ai for AI side-project tutorials engineers can actually ship.\n\n#ClaudeAPI #AnthropicAI #AITools #SideProject #BuildWithAI #PromptEngineering #AIEngineer #WeekendProject #SoftwareEngineer #LLM #DeveloperTools #ShipIt",
+    "images": [
+      "assets/post-86/01.png",
+      "assets/post-86/02.png",
+      "assets/post-86/03.png",
+      "assets/post-86/04.png",
+      "assets/post-86/05.png",
+      "assets/post-86/06.png",
+      "assets/post-86/07.png"
+    ]
+  },
+  {
+    "id": 87,
+    "pillar": "bts",
+    "caption": "Here's exactly how I use Claude Projects to run this account 🛠️\n\n→ One project = brand voice doc + 80 post archive + content pillars in the context\n→ Claude drafts captions in my voice — I edit, never start from blank\n→ Separate project for analytics: paste metrics, get priority list for next week\n→ The system took 3 hours to build; it saves 5+ hours every single week\n\nFollow @alphaengineer.ai for behind-the-scenes AI workflows you can steal.\n\n#ClaudeProjects #BehindTheScenes #ContentCreation #AIWorkflow #BuildInPublic #ContentStrategy #AITools #CreatorEconomy #SystemsThinking #Automation #AnthropicAI #SoloFounder",
+    "images": [
+      "assets/post-87/01.png",
+      "assets/post-87/02.png",
+      "assets/post-87/03.png",
+      "assets/post-87/04.png",
+      "assets/post-87/05.png",
+      "assets/post-87/06.png",
+      "assets/post-87/07.png"
+    ]
+  },
+  {
+    "id": 88,
+    "pillar": "ai-tools",
+    "caption": "Perplexity is replacing Google for my engineering research — here's my workflow 🔍\n\n→ Ask Perplexity first for any new library, API, or architecture question\n→ It cites sources — you can verify instead of trusting one hallucinated answer\n→ Pro tip: use \"Focus: Academic\" for deep-dives, \"Focus: Tech\" for code questions\n→ Pair with Claude for reasoning; use Perplexity for up-to-date facts\n\nFollow @alphaengineer.ai for AI productivity workflows that make engineers faster.\n\n#Perplexity #AISearch #DeveloperTools #AIProductivity #SoftwareEngineer #ResearchTools #BuildWithAI #TechWorkflow #EngineerLife #AITools #CodingProductivity #SearchEngineAlternative",
+    "images": [
+      "assets/post-88/01.png",
+      "assets/post-88/02.png",
+      "assets/post-88/03.png",
+      "assets/post-88/04.png",
+      "assets/post-88/05.png",
+      "assets/post-88/06.png",
+      "assets/post-88/07.png"
+    ]
+  },
+  {
+    "id": 89,
+    "pillar": "wealth-mindset",
+    "caption": "Engineers rarely talk about money — and it's costing us six figures 💬\n\n→ Salary transparency data shows engineers who discuss pay earn 18% more on average\n→ Not negotiating one offer costs you $500K+ over a 20-year career\n→ Talking about rates with peers is how you find out you're underpaid\n→ Money is just a score — ignoring the score doesn't mean you're winning\n\nFollow @alphaengineer.ai for wealth-building principles built for engineers.\n\n#SalaryTransparency #NegotiateYourSalary #EngineerMindset #WealthMindset #TechSalary #CareerGrowth #FinancialFreedom #SoftwareEngineer #MoneyTalk #BuildWealth #TechCareer #FinancialIndependence",
+    "images": [
+      "assets/post-89/01.png",
+      "assets/post-89/02.png",
+      "assets/post-89/03.png",
+      "assets/post-89/04.png",
+      "assets/post-89/05.png",
+      "assets/post-89/06.png",
+      "assets/post-89/07.png"
+    ]
+  },
+  {
+    "id": 90,
+    "pillar": "passive-income",
+    "caption": "Open source is a business model — GitHub Sponsors is just the beginning 💚\n\n→ A repo with 500+ stars is a warm audience that already trusts your work\n→ Sponsors tier: $5 thank-you, $25 priority issues, $100 logo in README\n→ Pair with a paid Pro version or hosted service — open core is a proven model\n→ Your open source footprint is a resume and a sales funnel at the same time\n\nFollow @alphaengineer.ai for passive income strategies designed for engineers.\n\n#GitHubSponsors #OpenSource #PassiveIncome #IndieHacker #SideHustle #SoloFounder #BuildInPublic #OpenCore #SoftwareEngineer #MicroSaaS #RecurringRevenue #TechEntrepreneur",
+    "images": [
+      "assets/post-90/01.png",
+      "assets/post-90/02.png",
+      "assets/post-90/03.png",
+      "assets/post-90/04.png",
+      "assets/post-90/05.png",
+      "assets/post-90/06.png",
+      "assets/post-90/07.png"
+    ]
+  },
+  {
+    "id": 91,
+    "pillar": "ai-tools",
+    "caption": "n8n vs Make.com vs Zapier — which automation tool wins for engineers in 2026? ⚙️\n\n→ Zapier: easiest to start, most expensive to scale — best for non-technical teammates\n→ Make.com: visual and powerful, great middle ground for moderate complexity\n→ n8n: self-hostable, code-friendly, unlimited runs — engineers' clear winner\n→ Start with n8n Cloud free tier, self-host when you hit limits\n\nFollow @alphaengineer.ai for AI tools that multiply your output as an engineer.\n\n#n8n #Automation #MakeCom #Zapier #NoCode #LowCode #AITools #WorkflowAutomation #SideProject #DeveloperTools #BuildWithAI #SoftwareEngineer",
+    "images": [
+      "assets/post-91/01.png",
+      "assets/post-91/02.png",
+      "assets/post-91/03.png",
+      "assets/post-91/04.png",
+      "assets/post-91/05.png",
+      "assets/post-91/06.png",
+      "assets/post-91/07.png"
+    ]
+  },
+  {
+    "id": 92,
+    "pillar": "passive-income",
+    "caption": "Freelance pricing: most engineers lowball themselves by 3x 💸\n\n→ Your rate floor = annual salary ÷ 1,000 (the quick freelance math rule)\n→ Price the project, not the hours — clients pay for outcomes, not time\n→ Anchor high on the first call; you can come down but never go up\n→ One premium client at $150/hr beats five cheap ones at $50/hr every time\n\nFollow @alphaengineer.ai for freelance and income strategies built for engineers.\n\n#FreelancePricing #FreelanceEngineer #SideHustle #ConsultingLife #PassiveIncome #TechCareer #SoloFounder #EngineerLife #BuildInPublic #PricingStrategy #ExtraIncome #IndieHacker",
+    "images": [
+      "assets/post-92/01.png",
+      "assets/post-92/02.png",
+      "assets/post-92/03.png",
+      "assets/post-92/04.png",
+      "assets/post-92/05.png",
+      "assets/post-92/06.png",
+      "assets/post-92/07.png"
+    ]
+  },
+  {
+    "id": 93,
+    "pillar": "ai-tools",
+    "caption": "NotebookLM is the fastest way engineers can learn a new tech stack 📖\n\n→ Drop in docs, papers, and blog posts — it builds a private knowledge base\n→ Ask it to explain any concept as if you already know Python and distributed systems\n→ Audio Overview turns dense docs into a 10-min podcast you can learn on a walk\n→ One NotebookLM per project = zero context switching between browser tabs\n\nFollow @alphaengineer.ai for AI tools that make engineers dangerously productive.\n\n#NotebookLM #GoogleAI #AITools #LearningTools #DeveloperTools #AIProductivity #EngineerLife #SoftwareEngineer #BuildWithAI #KnowledgeManagement #TechLearning #CodingProductivity",
+    "images": [
+      "assets/post-93/01.png",
+      "assets/post-93/02.png",
+      "assets/post-93/03.png",
+      "assets/post-93/04.png",
+      "assets/post-93/05.png",
+      "assets/post-93/06.png",
+      "assets/post-93/07.png"
+    ]
+  },
+  {
+    "id": 94,
+    "pillar": "wealth-mindset",
+    "caption": "Index funds vs individual stocks — an engineer's cold, rational take 📊\n\n→ 90% of active fund managers underperform the S&P 500 over 15 years — data, not opinion\n→ Stock picking is a second job; your engineering time is worth more than alpha-chasing\n→ Simple beats clever: VTI + VXUS + BND covers the entire world in 3 ETFs\n→ Add individual stocks only with money you can afford to lose entirely\n\nFollow @alphaengineer.ai for data-driven wealth principles built for engineers.\n\n#IndexFunds #ETF #InvestingForEngineers #WealthMindset #FinancialIndependence #FIRE #StockMarket #VTI #PassiveInvesting #BuildWealth #PersonalFinance #EngineerMindset",
+    "images": [
+      "assets/post-94/01.png",
+      "assets/post-94/02.png",
+      "assets/post-94/03.png",
+      "assets/post-94/04.png",
+      "assets/post-94/05.png",
+      "assets/post-94/06.png",
+      "assets/post-94/07.png"
+    ]
+  },
+  {
+    "id": 95,
+    "pillar": "ai-tools",
+    "caption": "AI-generated unit tests just cut my testing time by 80% — here's the exact workflow 🧪\n\n→ Paste function + docstring into Claude: \"Write pytest unit tests, include edge cases\"\n→ Ask for property-based tests with Hypothesis for complex business logic\n→ Use Cursor's inline compose to generate tests file-by-file without context switching\n→ Review the tests, don't just run them — AI misses domain-specific failure modes\n\nFollow @alphaengineer.ai for AI workflows that make engineers ship faster and safer.\n\n#UnitTesting #AITesting #ClaudeAI #Cursor #SoftwareEngineering #TestDrivenDevelopment #DeveloperTools #AIProductivity #BuildWithAI #ShipFaster #CodingWithAI #TechTools",
+    "images": [
+      "assets/post-95/01.png",
+      "assets/post-95/02.png",
+      "assets/post-95/03.png",
+      "assets/post-95/04.png",
+      "assets/post-95/05.png",
+      "assets/post-95/06.png",
+      "assets/post-95/07.png"
+    ]
+  },
+  {
+    "id": 96,
+    "pillar": "passive-income",
+    "caption": "A newsletter is the highest-leverage side business an engineer can build ✉️\n\n→ Email beats every social algorithm — you own the list, no platform can take it\n→ 1,000 true subscribers at $10/mo = $10K/mo before you build a single product\n→ Engineers have an unfair advantage: technical depth most creators can't fake\n→ Write one honest insight per week — consistency beats brilliance every time\n\nFollow @alphaengineer.ai for creator-economy blueprints designed for engineers.\n\n#NewsletterBusiness #PassiveIncome #CreatorEconomy #EmailMarketing #SideHustle #IndieHacker #BuildInPublic #SoloFounder #EngineerLife #1000TrueFans #Substack #ContentCreation",
+    "images": [
+      "assets/post-96/01.png",
+      "assets/post-96/02.png",
+      "assets/post-96/03.png",
+      "assets/post-96/04.png",
+      "assets/post-96/05.png",
+      "assets/post-96/06.png",
+      "assets/post-96/07.png"
+    ]
+  },
+  {
+    "id": 97,
+    "pillar": "ai-tools",
+    "caption": "Claude Projects is the closest thing to having an AI chief of staff 🗂️\n\n→ Upload your style guide, codebase conventions, and past decisions as context\n→ Claude remembers across every conversation in that project — no re-prompting\n→ One project per client = an AI assistant that knows their stack and preferences\n→ Stack Projects with custom instructions to turn Claude into a domain expert\n\nFollow @alphaengineer.ai for AI productivity workflows that give engineers leverage.\n\n#ClaudeProjects #AnthropicAI #AIProductivity #AITools #DeveloperTools #AIWorkflow #PromptEngineering #BuildWithAI #SoftwareEngineer #AIAssistant #TechTools #EngineerLife",
+    "images": [
+      "assets/post-97/01.png",
+      "assets/post-97/02.png",
+      "assets/post-97/03.png",
+      "assets/post-97/04.png",
+      "assets/post-97/05.png",
+      "assets/post-97/06.png",
+      "assets/post-97/07.png"
+    ]
+  },
+  {
+    "id": 98,
+    "pillar": "passive-income",
+    "caption": "AI-assisted course creation cut my production time from 3 months to 3 weeks 🎓\n\n→ Use Claude to generate a full curriculum outline from a single topic prompt\n→ Record one lesson at a time — Claude writes the script, you add your voice\n→ Repurpose each lesson: short clip → social post → newsletter section → course module\n→ $197 course × 100 students = $19,700 you collect while you're at your day job\n\nFollow @alphaengineer.ai for AI-powered income strategies built for engineers.\n\n#OnlineCourse #CourseCreation #PassiveIncome #AITools #SideHustle #TeachOnline #IndieHacker #SoloFounder #CreatorEconomy #BuildInPublic #DigitalProducts #EngineerLife",
+    "images": [
+      "assets/post-98/01.png",
+      "assets/post-98/02.png",
+      "assets/post-98/03.png",
+      "assets/post-98/04.png",
+      "assets/post-98/05.png",
+      "assets/post-98/06.png",
+      "assets/post-98/07.png"
+    ]
+  },
+  {
+    "id": 99,
+    "pillar": "wealth-mindset",
+    "caption": "Career capital and financial capital — most engineers only build one ⚖️\n\n→ Career capital: skills, reputation, network — it compounds but can't be sold\n→ Financial capital: investments, equity, assets — it works while you sleep\n→ The trap: optimizing only for TC ignores career capital that multiplies future earning\n→ Allocate 20% of your work-week to building career capital, 20% of income to financial\n\nFollow @alphaengineer.ai for wealth-building principles that go beyond the salary band.\n\n#CareerCapital #WealthMindset #FinancialFreedom #EngineerMindset #TechCareer #BuildWealth #FinancialIndependence #PersonalFinance #SoftwareEngineer #CareerDevelopment #FIRE #Investing",
+    "images": [
+      "assets/post-99/01.png",
+      "assets/post-99/02.png",
+      "assets/post-99/03.png",
+      "assets/post-99/04.png",
+      "assets/post-99/05.png",
+      "assets/post-99/06.png",
+      "assets/post-99/07.png"
+    ]
+  },
+  {
+    "id": 100,
+    "pillar": "bts",
+    "caption": "6 months, 100 posts, real numbers — here's the honest data 📊\n\n→ Followers: 0 → 4,200 — slowest month was month 2, fastest was month 5\n→ Best-performing pillar: ai-tools (3.2% avg engagement) vs wealth-mindset (1.8%)\n→ What flopped: stock-photo-style carousels; what worked: raw data + clear takeaways\n→ Revenue at 6 months: $340/mo from affiliate links — small, but it's compounding\n\nFollow @alphaengineer.ai for the unfiltered engineer creator journey — wins and all.\n\n#BuildInPublic #CreatorEconomy #BehindTheScenes #ContentCreation #GrowthData #InstagramGrowth #SoloFounder #EngineerLife #Transparency #ContentStrategy #AITools #RealNumbers",
+    "images": [
+      "assets/post-100/01.png",
+      "assets/post-100/02.png",
+      "assets/post-100/03.png",
+      "assets/post-100/04.png",
+      "assets/post-100/05.png",
+      "assets/post-100/06.png",
+      "assets/post-100/07.png"
+    ]
+  }
+]
