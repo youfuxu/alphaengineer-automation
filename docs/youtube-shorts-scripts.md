@@ -1755,6 +1755,610 @@ Follow for real passive income data, the good and the ugly.
 
 ---
 
+# Alpha Engineer — YouTube Shorts 腳本批次 #46-60
+建立：2026-06-23（Claude Agent 自動生成）
+主題分配：#46-50 AI Tools / #51-55 Passive Income / #56-60 Wealth Mindset
+
+---
+
+## Shorts #46 — Replit Agent built and shipped my app
+**Pillar:** AI Tools
+**Pexels keyword:** developer cloud coding screen
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I described an app to Replit Agent and it didn't just code it — it deployed it to a live URL.
+
+[BODY - 45秒]
+Most AI coding tools stop at the code. Replit Agent goes all the way to shipped.
+
+Here's what actually happened.
+I typed: "Build me an expense tracker with categories and a monthly chart."
+The Agent planned the files, wrote the front end and back end, set up the database, and installed every dependency itself.
+
+Then the part that's different.
+It ran the app, caught its own errors, and fixed them in a loop — no copy-pasting stack traces.
+When it was done, it gave me a live link. Hosted. Public. Working.
+
+The whole thing happened in the browser. No local setup. No terminal. No deploy config.
+
+The honest limit: it's best for small tools and MVPs, and the bill climbs if you let it grind on a hard bug.
+But for going from idea to a real URL you can share? Nothing closes that gap faster.
+
+Most tools write code. This one ships products.
+
+[OUTRO - 5秒]
+Follow for the AI tools that take you from idea to live in one sitting.
+```
+
+**Thumbnail text:** `IDEA → LIVE URL`
+**Tags:** replit agent,ai coding,ai tools,deploy app,full stack,engineer productivity
+
+---
+
+## Shorts #47 — v0.dev turns a screenshot into real code
+**Pillar:** AI Tools
+**Pexels keyword:** UI design wireframe screen
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I pasted a screenshot of a website I liked. v0 gave me the working React code for it.
+
+[BODY - 45秒]
+v0 by Vercel is the fastest way I've found to go from "I want it to look like that" to real code.
+
+Here's the workflow.
+You describe a UI in plain English — or paste an image of one.
+v0 generates a clean, responsive component using React, Tailwind, and shadcn.
+Not a picture. Actual code you can drop into a real project.
+
+The magic is the iteration.
+"Make the buttons rounded." "Add a dark mode toggle." "Make it mobile-first."
+It rewrites the component live, every time.
+
+And it gives you the code two ways — copy it straight in, or open it in the browser to tweak.
+
+Where this saves an engineer real hours:
+The front end you always dread. Landing pages, dashboards, settings screens.
+The boring, pixel-pushing layout work — done in minutes, in your real stack.
+
+You stop fighting CSS and start shipping the actual feature.
+
+The honest catch: you still own the logic and the polish. v0 gets you 80% there, fast.
+
+[OUTRO - 5秒]
+Follow for the AI tools that delete the front-end grind.
+```
+
+**Thumbnail text:** `SCREENSHOT → CODE`
+**Tags:** v0 dev,vercel,ai coding,react,frontend,ai tools
+
+---
+
+## Shorts #48 — Bolt.new: a real case, start to ship
+**Pillar:** AI Tools
+**Pexels keyword:** startup laptop building app
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+A friend validated a startup idea over a weekend using Bolt.new — without writing a single line first.
+
+[BODY - 45秒]
+Here's the real case, step by step, because the "AI builds apps" hype usually skips the how.
+
+The idea: a simple tool that turns a long article into a tweet thread.
+
+Friday night, he opened Bolt.new and typed the whole spec in one paragraph.
+"Build a web app where I paste an article, it calls an AI to summarize it into a numbered tweet thread, with a copy button."
+
+Bolt built it full-stack, live in the browser. Front end, the API call wiring, the UI — all running in minutes.
+
+Saturday, he iterated by talking.
+"Add a character counter per tweet." "Let me edit each tweet before copying." Each request, rewritten instantly.
+
+Sunday, he deployed it and posted the link in two communities to see if anyone cared.
+
+Twelve signups and three "shut up and take my money" replies later — validated.
+
+Total cost before he knew it was worth building: a weekend and a subscription.
+
+The lesson: you don't build first and hope. You ship a real thing fast, then let the market tell you.
+
+[OUTRO - 5秒]
+Follow for real build breakdowns, not just hype.
+```
+
+**Thumbnail text:** `IDEA → VALIDATED`
+**Tags:** bolt new,ai coding,build in public,validate idea,full stack,indie hacker
+
+---
+
+## Shorts #49 — How to actually debug with AI
+**Pillar:** AI Tools
+**Pexels keyword:** error code terminal screen
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Most engineers paste an error into AI and get useless answers. Here's how to debug with AI properly.
+
+[BODY - 45秒]
+The mistake is pasting just the error message. The AI is guessing in the dark.
+
+Here's the system that actually works.
+
+Tip one: give it the full context, not the symptom.
+Paste the error, the function it happened in, AND what you expected to happen.
+"This should return a user object, but it throws null on line 12. Here's the function."
+
+Tip two: make it explain before it fixes.
+Add: "First explain why this is happening, then suggest a fix."
+You learn the root cause instead of blindly pasting a patch that breaks something else.
+
+Tip three: rubber-duck the hard ones.
+For a bug you can't even reproduce, describe the whole flow out loud to the AI.
+Half the time you spot it yourself while explaining. The other half, it asks the question you missed.
+
+Tip four: ask for the test.
+"Write a failing test that reproduces this bug." Now you fix with proof, not vibes.
+
+The shift: stop using AI as a magic answer box. Use it as a debugging partner that thinks with you.
+
+[OUTRO - 5秒]
+Follow for the prompts that turn AI into a real engineering partner.
+```
+
+**Thumbnail text:** `DEBUG WITH AI RIGHT`
+**Tags:** ai debugging,claude ai,ai coding,debugging tips,developer tools,engineer productivity
+
+---
+
+## Shorts #50 — AI code review before your teammates see it
+**Pillar:** AI Tools
+**Pexels keyword:** code review pull request screen
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I run every pull request through an AI review before a human sees it. My PR comments dropped by half.
+
+[BODY - 45秒]
+Think of it as a senior engineer who reviews your code at 2am without complaining.
+
+Here's the workflow.
+
+Step one: before you open the PR, paste your diff into Claude.
+The prompt: "Review this like a senior engineer. Flag bugs, edge cases, security issues, and anything unclear. Be blunt."
+
+Step two: it catches the stuff humans nitpick.
+The unhandled null. The off-by-one. The function that's doing three things. The missing error case.
+You fix it quietly, before your teammate ever sees it.
+
+Step three: ask the questions you'd be embarrassed to ask in review.
+"Is there a cleaner pattern for this?" "Did I miss an obvious edge case?"
+No ego, no waiting, instant feedback.
+
+The real payoff isn't just cleaner PRs.
+It's that your human reviews become about architecture and design — not catching your typos.
+You look sharper, you ship faster, and you actually learn from every review.
+
+It's a free senior engineer on call. Use it.
+
+[OUTRO - 5秒]
+Follow for the AI workflows that make you look like the best engineer on the team.
+```
+
+**Thumbnail text:** `AI REVIEWS FIRST`
+**Tags:** ai code review,claude ai,pull request,ai coding,developer tools,engineer productivity
+
+---
+
+## Shorts #51 — Gumroad SEO: get found, not just listed
+**Pillar:** Passive Income
+**Pexels keyword:** search engine laptop online
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Most Gumroad products never sell because nobody finds them. Here's the SEO that fixes that.
+
+[BODY - 45秒]
+A great product with zero traffic makes zero dollars. Discovery is the whole game.
+
+Here's how to get found.
+
+First — Gumroad's own Discover marketplace.
+Pick the right category and load your tags with the exact words buyers search.
+Not "productivity tool." Try "notion finance tracker template." Specific beats clever.
+
+Second — write the listing like a search result.
+Put the keyword in your title and the first line of the description.
+"Notion Budget Template for Freelancers" tells both Gumroad and Google exactly what this is.
+
+Third — the move most people skip: rank on Google, not just Gumroad.
+Write one blog post or YouTube video that solves the problem your product solves.
+Link to the product. Now Google sends you free buyers for years.
+
+Fourth — collect ratings fast.
+Email every buyer asking for a review. Gumroad ranks higher-rated products in Discover.
+
+The shift: stop treating your product page like a receipt. Treat it like a landing page that has to win a search.
+
+Get found first. The selling is the easy part.
+
+[OUTRO - 5秒]
+Comment "GUMROAD" and I'll send you my listing SEO checklist.
+```
+
+**Thumbnail text:** `GET FOUND, GET PAID`
+**Tags:** gumroad,seo,passive income,digital products,product seo,side hustle
+
+---
+
+## Shorts #52 — A Ko-fi page is the easiest income switch
+**Pillar:** Passive Income
+**Pexels keyword:** coffee support creator desk
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+The easiest income stream for an engineer takes 10 minutes to set up and costs zero percent in fees.
+
+[BODY - 45秒]
+It's a Ko-fi page, and most developers sleep on how flexible it is.
+
+The basics first.
+Ko-fi lets people support you with one-off tips — "buy me a coffee" for 3 to 5 dollars.
+And here's the kicker: on the free plan, Ko-fi takes 0% of donations. You keep it all.
+
+But tips are just the entry point. The real money is the other three features.
+
+One — sell digital downloads right on the page. Your template, your prompt pack, your config. No separate store.
+
+Two — turn on memberships. A few dollars a month for supporters who want more from you. That's recurring income.
+
+Three — open commissions. "I'll review your code" or "I'll build you a small script" — take requests with a built-in queue.
+
+The whole thing lives at one simple link you drop in your bio, your README, your video description.
+
+Why engineers love it: zero setup friction, no monthly fee, and it bundles tips, products, memberships, and services in one place.
+
+Start with the tip jar today. Add the products when you're ready.
+
+[OUTRO - 5秒]
+Follow for the simplest income tools that actually pay.
+```
+
+**Thumbnail text:** `0% FEE INCOME`
+**Tags:** ko-fi,passive income,creator income,digital products,memberships,side hustle
+
+---
+
+## Shorts #53 — Turn a newsletter into real money
+**Pillar:** Passive Income
+**Pexels keyword:** email newsletter laptop reading
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+A newsletter with 1,000 readers can out-earn one with 50,000. Here's how you actually monetize it.
+
+[BODY - 45秒]
+The number of subscribers is a vanity metric. How you make money from them is the real one.
+
+Here are the four ways, from easiest to most lucrative.
+
+One — sponsorships. The classic. Brands pay to reach your readers.
+A focused engineering newsletter charges 25 to 50 dollars per thousand opens. A small, niche list beats a huge generic one.
+
+Two — affiliate links. You already recommend tools. Add tracked links in the body. Recurring commissions on every signup.
+
+Three — your own products. This is the big one. A newsletter is a warm audience that trusts you.
+Drop your template, course, or tool to people already primed to buy. Conversion rates dwarf cold traffic.
+
+Four — paid tier. Free issue weekly, premium issue for paying subscribers. Beehiiv and Substack make this one toggle.
+
+Here's the order that works: build trust with free value first, plug affiliates early, then launch your own product to the warm list.
+
+The newsletter isn't the product. It's the most valuable asset you own — a direct line to people who chose to hear from you.
+
+[OUTRO - 5秒]
+Follow for the newsletter income playbook built for engineers.
+```
+
+**Thumbnail text:** `1K READERS = $$$`
+**Tags:** newsletter,passive income,sponsorships,affiliate marketing,creator income,monetization
+
+---
+
+## Shorts #54 — Technical writing pays $0.20–1 a word
+**Pillar:** Passive Income
+**Pexels keyword:** writing keyboard documentation
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Companies pay engineers 200 to 1,000 dollars to write a single blog post. And demand is exploding.
+
+[BODY - 45秒]
+It's freelance technical writing, and your engineering background is the unfair advantage.
+
+Here's why it pays so well.
+Companies that sell to developers — every dev tool, every API, every cloud platform — desperately need content.
+Tutorials, docs, comparison guides. But it has to be written by someone who actually understands the tech.
+A marketer can't write a Kubernetes tutorial. You can.
+
+The rates are real.
+Beginner technical writers earn 0.10 to 0.20 a word.
+Experienced engineers who write well hit 0.50 to 1 dollar a word.
+A 1,500-word tutorial at the high end is 1,500 dollars. For a weekend of work you'd half-enjoy anyway.
+
+Where the work lives.
+Programs that pay for content: DigitalOcean's, Draft.dev, Hashnode bounties, and dozens of dev-tool company blogs hiring directly.
+
+How to start with zero clients.
+Publish three solid technical posts on your own blog or Dev.to. That's your portfolio.
+Then pitch companies: "I write tutorials for developers. Here's my work."
+
+You already explain technical things every day. Now get paid premium rates for it.
+
+[OUTRO - 5秒]
+Comment "WRITE" and I'll send you the list of programs that pay engineers to write.
+```
+
+**Thumbnail text:** `$1/WORD TO WRITE`
+**Tags:** technical writing,freelance,passive income,developer income,side hustle,engineer money
+
+---
+
+## Shorts #55 — API reselling: the quiet money model
+**Pillar:** Passive Income
+**Pexels keyword:** server api network technology
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Some engineers make money by reselling an API they don't even own. Here's exactly how it works.
+
+[BODY - 45秒]
+It sounds shady. It's not. It's one of the cleanest software business models out there.
+
+Here's the core idea.
+A powerful raw API exists — AI models, data, image processing, whatever.
+But it's hard to use. The docs are dense, there's no nice interface, you need to write code to touch it.
+
+You wrap it. You build a simple product on top — a clean UI, a no-code interface, a smart workflow.
+People pay you for the easy version. You pay the underlying API for the raw calls. You keep the spread.
+
+A real example.
+The OpenAI API is raw. But "an app that turns your meeting notes into action items" is a product.
+Same API underneath. You added the interface, the workflow, the niche focus. That's the value.
+
+The margin is the magic.
+You charge 19 dollars a month. The API calls cost you maybe 2 dollars per user.
+That gap, times every subscriber, is your business.
+
+The smart play for an engineer:
+Find a raw API that's powerful but painful. Wrap it for one specific audience. Charge for the convenience.
+
+You're not selling the API. You're selling not having to deal with it.
+
+[OUTRO - 5秒]
+Follow for the software business models engineers can start solo.
+```
+
+**Thumbnail text:** `RESELL THE API`
+**Tags:** api reselling,saas,passive income,indie hacker,openai api,software business
+
+---
+
+## Shorts #56 — Why engineers are bad investors
+**Pillar:** Wealth Mindset
+**Pexels keyword:** stock market chart thinking
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+The same brain that makes you a great engineer can make you a terrible investor. Here's the trap.
+
+[BODY - 45秒]
+Engineers are trained to optimize. To find the best solution. To outsmart the problem.
+Investing punishes exactly that instinct.
+
+Trap one: you think you can beat the market.
+You read the 10-K, you model the cash flows, you're smarter than average. So you stock-pick.
+But 90% of full-time professionals fail to beat a simple index fund. Your spare-time edge is an illusion.
+
+Trap two: you over-optimize and over-trade.
+You tweak. You rebalance. You chase the perfect allocation.
+Every trade is a chance to be wrong and a tax bill. The boring buy-and-hold investor quietly wins.
+
+Trap three: you confuse complexity with sophistication.
+Options, crypto plays, leveraged ETFs — they feel like advanced engineering. They're mostly advanced ways to lose money.
+
+The fix is humbling.
+The winning move is to do less. Buy a broad index fund. Automate it. Never touch it.
+Let compounding — not cleverness — do the work over 20 years.
+
+The hardest thing for an engineer to accept: in investing, simple and boring beats smart and active. Almost every time.
+
+[OUTRO - 5秒]
+Follow for the wealth mindset shifts engineers need most.
+```
+
+**Thumbnail text:** `SMART ≠ RICH`
+**Tags:** investing psychology,wealth mindset,index funds,personal finance,engineer finance,behavioral finance
+
+---
+
+## Shorts #57 — Why a raise can't beat compound interest
+**Pillar:** Wealth Mindset
+**Pexels keyword:** growth chart coins finance
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+You're chasing the next raise. Meanwhile compound interest is quietly winning the race you're not even running.
+
+[BODY - 45秒]
+Let's put the two head to head, because they're not the same kind of growth.
+
+A salary grows linearly. A raise adds a fixed chunk, once.
+3 to 5% a year, taxed, and it stops the day you stop working. It's a bigger bucket you have to keep refilling by hand.
+
+Compound interest grows exponentially. Your returns earn returns. It works while you sleep, on vacation, forever.
+
+Here's the comparison that reframes everything.
+Engineer A grinds for a 10,000 dollar raise. After tax, maybe 6,500 more a year. Real, but linear.
+Engineer B takes that same effort and invests an extra 6,500 a year into index funds.
+
+Year one, they look identical.
+But by year 20, Engineer B's invested money — compounding at 10% — has snowballed into hundreds of thousands.
+Engineer A still has to show up every single day to keep earning that raise.
+
+The point isn't "don't get the raise." Get it.
+The point is what you do with it. A raise you spend is linear. A raise you invest goes exponential.
+
+You're optimizing the slow variable. Compounding is the fast one. Feed it.
+
+[OUTRO - 5秒]
+Follow for the money math that changes how you think about your career.
+```
+
+**Thumbnail text:** `RAISE VS COMPOUND`
+**Tags:** compound interest,salary,wealth mindset,investing,personal finance,engineer finance
+
+---
+
+## Shorts #58 — The retirement risk nobody warns you about
+**Pillar:** Wealth Mindset
+**Pexels keyword:** retirement planning finance document
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+You can save the right amount, hit the right number, and still run out of money. It's called sequence of returns risk.
+
+[BODY - 45秒]
+This is the retirement risk that hides in plain sight, and almost no one explains it.
+
+Here's the idea.
+The average return over 30 years doesn't tell the whole story. The ORDER of those returns matters enormously — once you start withdrawing.
+
+Picture two retirees. Same savings. Same average return over their retirement.
+Retiree A hits a market crash in their first two years of retirement.
+Retiree B hits the exact same crash, but 15 years in.
+
+Same average. Wildly different outcomes.
+
+Why? Retiree A is selling investments to live on while prices are down.
+They're locking in losses AND draining the pot, right when it's smallest. The portfolio may never recover.
+Retiree B had 15 good years to grow the pot first. The crash barely dents them.
+
+The bad luck of WHEN a crash hits can be the difference between comfort and running out.
+
+How you defend against it.
+Keep one to two years of expenses in cash, so you never sell stocks in a crash.
+Hold some bonds near retirement to cushion the early years.
+And stay a little flexible — spend less in down years.
+
+You can't control the market's timing. You can control whether it can force you to sell at the bottom.
+
+[OUTRO - 5秒]
+Follow for the retirement risks they never teach engineers.
+```
+
+**Thumbnail text:** `THE HIDDEN RISK`
+**Tags:** sequence of returns risk,retirement,wealth mindset,investing,personal finance,financial planning
+
+---
+
+## Shorts #59 — Coast FIRE: the number that frees you
+**Pillar:** Wealth Mindset
+**Pexels keyword:** beach freedom relax laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+There's a savings number where you can stop investing forever and still retire rich. It's called Coast FIRE.
+
+[BODY - 45秒]
+Most people think you have to grind savings until the day you retire. Coast FIRE breaks that rule.
+
+Here's the idea.
+Coast FIRE is the point where you've invested ENOUGH early that compounding alone will carry you to a full retirement — without adding another dollar.
+
+You still work. But only to cover today's bills. Your retirement is already handled, on autopilot.
+
+Let's run the math.
+Say you want 1.5 million dollars at 65, assuming a 7% real return.
+If you're 30, you don't need 1.5 million now.
+You need about 140,000 dollars invested today. That's it.
+Left alone for 35 years at 7%, that 140K compounds into your 1.5 million.
+
+Once you hit your Coast number, everything changes.
+You can take the lower-stress job. Go part-time. Start the risky side business.
+Take a pay cut for work you love — because your future self is already funded.
+
+The formula: your retirement target, divided by 1.07 to the power of years until retirement. That's your Coast number today.
+
+Coast FIRE isn't about retiring early. It's about buying back your freedom decades early.
+
+[OUTRO - 5秒]
+Comment "COAST" and I'll send you the calculator to find your number.
+```
+
+**Thumbnail text:** `STOP SAVING, RETIRE RICH`
+**Tags:** coast fire,fire movement,wealth mindset,investing,financial independence,engineer finance
+
+---
+
+## Shorts #60 — The engineer's salary negotiation playbook
+**Pillar:** Wealth Mindset
+**Pexels keyword:** business meeting negotiation handshake
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+One conversation can be worth more than a year of grinding for a promotion. Here's the full negotiation playbook.
+
+[BODY - 45秒]
+Engineers will spend 100 hours optimizing code and zero minutes preparing for the one talk that pays the most. Let's fix that.
+
+Phase one — before the conversation. Know your number.
+Pull real data from Levels.fyi, Blind, and Glassdoor for your exact role, level, and city.
+Walk in with a target range, not a vague hope.
+
+Phase two — never anchor yourself low.
+When they ask "what are you looking for?" flip it: "What's the budgeted range for this role?"
+Whoever says a number first usually loses. Make them go first.
+
+Phase three — anchor high, then use silence.
+State a number 15 to 20% above your target. Then stop talking.
+The silence feels brutal. Let it sit. People rush to fill it — usually in your favor.
+
+Phase four — negotiate the whole package, not just base.
+Sign-on bonus. Equity. Refresh grants. Start date. Title.
+If base is capped, there are five other levers. Pull them.
+
+Phase five — always have leverage.
+The strongest position is a competing offer, or the genuine willingness to walk.
+You negotiate best when you don't need it.
+
+One prepared conversation. Fifteen thousand dollars on average. Compounded over a career? Life-changing.
+
+[OUTRO - 5秒]
+Follow for the career and money playbooks they skip in CS class.
+```
+
+**Thumbnail text:** `THE RAISE PLAYBOOK`
+**Tags:** salary negotiation,engineer salary,wealth mindset,career tips,tech career,negotiation
+
+---
+
 ## 製作說明（當 YouTube secrets 設定好後）
 
 1. 每支 Shorts 使用對應 carousel 的 7 張 PNG 做 slideshow（每張 6-8 秒）
