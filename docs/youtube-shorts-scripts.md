@@ -1141,6 +1141,620 @@ Follow for weekly AI income blueprints built for engineers.
 
 ---
 
+# Alpha Engineer — YouTube Shorts 腳本批次 #31-45
+建立：2026-06-23（Claude Agent 自動生成）
+主題對應 #31-45 規劃列表（AI Tools / Passive Income / Wealth Mindset / BTS）
+
+---
+
+## Shorts #31 — Bolt.new builds a full app from one prompt
+**Pillar:** AI Tools
+**Pexels keyword:** developer coding laptop screen
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I described an app in one sentence. Bolt.new built the whole thing, live, in the browser.
+
+[BODY - 45秒]
+Here's what actually happened.
+
+I typed: "Build a habit tracker with a streak counter and dark mode."
+That's it. No setup. No boilerplate.
+
+Bolt.new spun up a full-stack app in front of me.
+React front end. A working database. Styling already done.
+And it runs right there in the browser — I could click through it instantly.
+
+The part that blew my mind: I said "add a chart of my weekly progress."
+It rewrote the code, added the chart, and refreshed. Thirty seconds.
+
+This used to be a weekend of work. Project setup, dependencies, wiring the database.
+Now it's a conversation.
+
+The honest limit: it's best for prototypes and MVPs, not a 50-file production app.
+But for validating an idea before you commit? Nothing's faster.
+
+Idea to clickable product, in the time it takes to explain it.
+
+[OUTRO - 5秒]
+Follow for the AI build tools that collapse weeks into minutes.
+```
+
+**Thumbnail text:** `1 PROMPT = FULL APP`
+**Tags:** bolt new,ai coding,ai tools,full stack,no code,engineer productivity
+
+---
+
+## Shorts #32 — LemonSqueezy vs Gumroad: which earns more
+**Pillar:** Passive Income
+**Pexels keyword:** online payment checkout
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I sold the same product on Gumroad and LemonSqueezy. One kept noticeably more of my money.
+
+[BODY - 45秒]
+Both let you sell digital products with zero inventory. The difference is in the details.
+
+Gumroad: dead simple. List a file, share a link, done in 10 minutes.
+The catch — its flat fee runs around 10% plus payment processing. That adds up fast.
+
+LemonSqueezy: takes 5% plus processing. Cheaper per sale.
+But the real edge is that it acts as merchant of record.
+Translation: it handles sales tax and VAT for you, worldwide. That's a huge headache gone.
+
+So here's the call.
+If you just want the fastest possible launch today, Gumroad wins on speed.
+If you're selling globally and want lower fees plus zero tax paperwork, LemonSqueezy wins on math.
+
+On a thousand dollars in sales, that fee gap is real money — every single month.
+
+Pick the lower fee once. It compounds on every future sale.
+
+[OUTRO - 5秒]
+Follow for the passive income stack engineers actually use.
+```
+
+**Thumbnail text:** `5% VS 10% FEES`
+**Tags:** lemonsqueezy,gumroad,passive income,digital products,merchant of record,side hustle
+
+---
+
+## Shorts #33 — Your real hourly rate will shock you
+**Pillar:** Wealth Mindset
+**Pexels keyword:** clock time money
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Most engineers have no idea what they actually earn per hour. The real number is brutal.
+
+[BODY - 45秒]
+You think you make 150K a year? Let's find your real rate.
+
+Start with the salary: 150,000.
+Now add the hidden hours nobody counts.
+The 50-minute commute each way. Slack on the couch at 9pm. The "quick" weekend deploy.
+Your real workweek isn't 40 hours. It's closer to 55.
+
+55 hours times 50 weeks is 2,750 hours a year.
+150,000 divided by 2,750 is about 54 dollars an hour.
+
+Now subtract taxes. Your take-home rate drops near 38 dollars an hour.
+That's your actual number. Not the one on the offer letter.
+
+Here's why this matters.
+When you know your real rate, every decision gets sharper.
+A 200-dollar tool that saves 10 hours a month? That's a no-brainer.
+A side project earning 38 an hour? Not worth it — just work overtime.
+One earning 200 an hour? Drop everything.
+
+Your time has a price. Most people never calculate it. Now you can.
+
+[OUTRO - 5秒]
+Follow for the money math they never taught you in CS.
+```
+
+**Thumbnail text:** `YOUR REAL $/HOUR`
+**Tags:** hourly rate,wealth mindset,personal finance,engineer salary,time value,money math
+
+---
+
+## Shorts #34 — Ideogram 2.0 makes AI images with readable text
+**Pillar:** AI Tools
+**Pexels keyword:** graphic design typography
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Every AI image tool butchers text. Ideogram 2.0 is the first one that actually spells words right.
+
+[BODY - 45秒]
+If you've ever generated a logo or poster with AI, you know the pain.
+You ask for a sign that says "OPEN" and you get "OPNE" or random alien symbols.
+
+Ideogram 2.0 fixed that. It renders clean, readable, correctly-spelled text inside images.
+
+Suddenly a whole category of work opens up for free.
+
+Logos and brand marks for your side project. Type the name, get a real wordmark.
+Social media graphics with the headline baked right in.
+Poster and flyer designs. Quote cards. Meme templates with actual readable captions.
+
+Here's the money angle.
+Designers charge 50 to 200 dollars for a simple logo.
+Etsy sellers move printable quote art with text all day.
+You can now generate that in 30 seconds instead of fighting Photoshop.
+
+The prompt trick: put the exact words in quotes.
+"A minimalist coffee shop logo with the text 'DAILY GRIND'."
+Specific text in quotes equals clean output.
+
+Text in AI images was the last broken thing. Now it works.
+
+[OUTRO - 5秒]
+Follow for the AI design tools that replace a freelancer.
+```
+
+**Thumbnail text:** `AI TEXT THAT WORKS`
+**Tags:** ideogram,ai images,ai design,ai tools,logo design,text to image
+
+---
+
+## Shorts #35 — GitHub Sponsors: your open source already earns
+**Pillar:** Passive Income
+**Pexels keyword:** open source code github
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Your old GitHub repos could be quietly paying you every month. Most engineers never turn it on.
+
+[BODY - 45秒]
+It's GitHub Sponsors, and it's the most overlooked income source for developers.
+
+Here's the idea.
+Companies and devs depend on open source code. Sponsors lets them pay the people who maintain it.
+Recurring monthly support, straight to your account. GitHub takes zero cut.
+
+You don't need a famous project.
+A useful library. A popular config. A tool other people fork. A tutorial repo with stars.
+If anyone relies on your code, someone is a candidate to sponsor it.
+
+The setup takes 20 minutes.
+Enable Sponsors on your profile. Set tiers — 5, 15, 50 dollars a month.
+Add a clear FUNDING file so the sponsor button shows on every repo.
+Write one honest paragraph: what you maintain and why support helps.
+
+The compounding part: this is work you already did.
+That code is sitting there regardless. Sponsors just lets it generate income on its own.
+
+Old work. New revenue. Zero extra effort.
+
+[OUTRO - 5秒]
+Follow for passive income hiding in stuff you already built.
+```
+
+**Thumbnail text:** `OLD CODE PAYS YOU`
+**Tags:** github sponsors,open source,passive income,developer income,side hustle,engineer money
+
+---
+
+## Shorts #36 — Descript: edit video by editing the transcript
+**Pillar:** AI Tools
+**Pexels keyword:** video editing workspace
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I edit videos by deleting words in a document. No timeline, no scrubbing. Here's how.
+
+[BODY - 45秒]
+The tool is Descript, and it flips video editing on its head.
+
+Normally, editing means dragging clips on a timeline, hunting for the exact frame.
+For engineers who'd rather not learn Premiere, it's a wall.
+
+Descript turns your video into a transcript.
+You edit the text, and the video edits itself.
+
+Delete a sentence in the document? That part is cut from the video.
+Said "um" forty times? One click removes every filler word at once.
+Want to remove a tangent? Highlight the paragraph, hit delete. Gone.
+
+The killer feature for content: it's instant repurposing.
+Record one talk. Pull the best 60 seconds by highlighting the text.
+You've got a Short, with captions auto-generated, in two minutes.
+
+There's even a feature to fix a misspoken word by retyping it — it patches your audio.
+
+If you think in words, not frames, this is the editor for you.
+Faceless content, course videos, podcast clips — all of it, just by typing.
+
+[OUTRO - 5秒]
+Follow for the content tools that make video feel like writing.
+```
+
+**Thumbnail text:** `EDIT VIDEO = EDIT TEXT`
+**Tags:** descript,video editing,content creation,ai tools,faceless,podcast editing
+
+---
+
+## Shorts #37 — My 20-minute content pipeline
+**Pillar:** BTS
+**Pexels keyword:** workflow desk laptop coffee
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I create a week of content in 20 minutes. Here's the exact pipeline, no fluff.
+
+[BODY - 45秒]
+This is the actual system behind this account. Steal all of it.
+
+Minute 0 to 5 — the idea.
+I keep a running note of hooks. I pick one, drop it into Claude, and say
+"expand this into a 50-second script with a hook, body, and a follow CTA."
+
+Minute 5 to 10 — the voice.
+The script goes into a text-to-speech tool. edge-tts, free, sounds clean.
+Out comes a finished voiceover. No mic, no re-recording.
+
+Minute 10 to 15 — the visuals.
+I pull stock footage by keyword, or reuse a carousel I already made.
+Slideshow, six seconds a slide, drop the audio over it.
+
+Minute 15 to 20 — ship it.
+A script uploads it to YouTube, Shorts, and TikTok at once.
+Title, tags, thumbnail text — all templated.
+
+The whole secret isn't speed. It's that every step is a template I never rebuild.
+I'm not creating from scratch. I'm filling in slots.
+
+Build the pipeline once. After that, content is just 20 minutes of assembly.
+
+[OUTRO - 5秒]
+Follow and I'll break down each tool in this stack.
+```
+
+**Thumbnail text:** `1 WEEK IN 20 MIN`
+**Tags:** content pipeline,build in public,content automation,bts,workflow,creator tools
+
+---
+
+## Shorts #38 — CodeCanyon: $500–3K/month from code you wrote once
+**Pillar:** Passive Income
+**Pexels keyword:** programmer marketplace laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Engineers are making 500 to 3,000 dollars a month selling code they wrote one time. The marketplace is CodeCanyon.
+
+[BODY - 45秒]
+CodeCanyon is a marketplace where developers sell ready-made code to other developers.
+
+The buyers are businesses and freelancers who'd rather pay 30 dollars than build it themselves.
+
+What actually sells?
+Website templates and admin dashboards. WordPress plugins. Scripts that do one annoying job well.
+Booking systems, invoice generators, scrapers, API wrappers. Boring, useful tools.
+
+Here's the model.
+You build it once. You list it once. It sells over and over.
+A solid plugin at 30 dollars selling 20 copies a month is 600 dollars, passive.
+The top sellers move hundreds of copies.
+
+The smart play for an engineer:
+take a tool you already built for a past project, clean it up, document it, and list it.
+You're not inventing — you're packaging.
+
+One catch: it's competitive. The winners nail the demo, the screenshots, and the docs.
+Treat the listing like a product, not a code dump.
+
+Write it once. Get paid while it sits in a marketplace doing nothing.
+
+[OUTRO - 5秒]
+Follow for the marketplaces where engineers quietly sell code.
+```
+
+**Thumbnail text:** `CODE ONCE, SELL FOREVER`
+**Tags:** codecanyon,passive income,sell code,developer income,wordpress plugins,side hustle
+
+---
+
+## Shorts #39 — Pay yourself first at $150K+
+**Pillar:** Wealth Mindset
+**Pexels keyword:** savings jar coins money
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+There's one money rule that works at any salary. At 150K, it's the difference between rich and just well-paid.
+
+[BODY - 45秒]
+The rule is "pay yourself first." And almost everyone does it backwards.
+
+Here's the backwards way — how most engineers run their money.
+Paycheck hits. You pay rent, bills, subscriptions, dinners out.
+Whatever's left at the end of the month, you save.
+
+The problem? There's never anything left. The month always finds a way to spend it.
+
+Pay yourself first flips the order completely.
+The moment your paycheck lands, the investment comes out automatically — before you can touch it.
+You save first, then you live on the rest.
+
+And here's why it matters more at 150K, not less.
+High earners have the most dangerous trap: lifestyle creep.
+The bigger the paycheck, the bigger the "I deserve it" spending.
+Automating the investment first is the only thing that beats it.
+
+The setup is one afternoon.
+Auto-transfer to your brokerage the day after payday.
+Max the 401k match. Auto-fund the Roth.
+Make wealth-building invisible and automatic.
+
+You'll adjust your spending to what's left. You always do. Just make sure "what's left" comes second.
+
+[OUTRO - 5秒]
+Follow for the automated money system high earners use.
+```
+
+**Thumbnail text:** `PAY YOURSELF FIRST`
+**Tags:** pay yourself first,wealth mindset,personal finance,investing,lifestyle creep,engineer finance
+
+---
+
+## Shorts #40 — Gamma.app: full presentation in 30 seconds
+**Pillar:** AI Tools
+**Pexels keyword:** presentation slides meeting
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I made a full, designed presentation in 30 seconds. I didn't touch a single slide.
+
+[BODY - 45秒]
+The tool is Gamma, and it killed the slide deck grind for me.
+
+You know the pain. A deck for work, a pitch, a tutorial.
+Hours of dragging text boxes, fixing alignment, hunting for the right layout.
+
+Gamma does this instead.
+You type a topic or paste an outline: "10-slide pitch for an AI habit-tracking app."
+It generates the entire deck. Designed. Formatted. With images and clean layouts.
+
+Thirty seconds, and you have something that looks like a designer made it.
+
+Then you just refine in plain English.
+"Make slide 3 a comparison table." "Add a chart here." "Change the theme to dark."
+It restructures instantly.
+
+For engineers this is huge.
+Work presentations, side-project pitches, even paid client decks.
+People sell Gamma-built decks as a service.
+
+And the export is clean — to PDF, to web, or a live link you can share.
+
+Stop fighting PowerPoint. Describe the deck, and let it build itself.
+
+[OUTRO - 5秒]
+Follow for AI tools that delete your most tedious work.
+```
+
+**Thumbnail text:** `DECK IN 30 SECONDS`
+**Tags:** gamma app,ai presentations,ai tools,productivity,slides,engineer tools
+
+---
+
+## Shorts #41 — Claude vs GPT-4o for side hustle posts
+**Pillar:** AI Tools
+**Pexels keyword:** writing laptop notebook
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I ran Claude and GPT-4o head to head on the exact same content prompt. The results weren't close.
+
+[BODY - 45秒]
+Same prompt, same topic, same audience. Here's what each one is actually better at.
+
+GPT-4o's strengths:
+Fast. Punchy. Great at short hooks and snappy social copy.
+It also handles images and voice in one place. A solid all-rounder.
+
+Claude's strengths:
+It writes longer-form content that sounds genuinely human, not robotic.
+It follows a detailed brand voice more faithfully.
+And it's stronger at nuance — the kind of post that reads like a real person wrote it.
+
+My honest test for side hustle content:
+For a quick tweet or a one-line hook, GPT-4o was faster and just as good.
+For a full carousel, a newsletter, or a thread that needs to sound like me?
+Claude won almost every time. Less "AI smell."
+
+The real answer most pros land on: use both.
+GPT-4o to brainstorm 20 hooks fast.
+Claude to write the actual post in your voice.
+
+Don't pick a side. Pick the right tool per job.
+
+[OUTRO - 5秒]
+Follow for the exact AI writing stack creators use.
+```
+
+**Thumbnail text:** `CLAUDE VS GPT-4o`
+**Tags:** claude ai,gpt-4o,ai writing,content creation,ai tools,side hustle
+
+---
+
+## Shorts #42 — The engineer retainer model: $3K–10K/month
+**Pillar:** Passive Income
+**Pexels keyword:** contract handshake business
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Stop charging per project. The retainer model is how engineers lock in 3 to 10K a month.
+
+[BODY - 45秒]
+Project work has a brutal flaw. You finish, you get paid once, and you're back to hunting.
+Feast or famine, forever.
+
+The retainer fixes it. A client pays you a fixed amount every month for ongoing access.
+Predictable income. No re-selling. No constant pipeline panic.
+
+Here's what engineers actually sell on retainer.
+"Fractional engineering" — a few hours a week keeping their systems alive.
+Ongoing automation and maintenance. A monthly block of dev hours on call.
+Technical advisory for a non-technical founder.
+
+The pitch that lands isn't "hire me for a project."
+It's "for 3K a month, your tech never breaks and you never wait."
+You're selling peace of mind, not hours.
+
+The math gets good fast.
+Three clients at 3K is 9K a month. Recurring. With work you could do part-time.
+
+And it's not fully passive — but it's the bridge.
+Stable retainer income is what funds the truly passive stuff you build on the side.
+
+Sell access, not just deliverables. That's the shift.
+
+[OUTRO - 5秒]
+Follow for the income models that free engineers from project hell.
+```
+
+**Thumbnail text:** `$3K-10K RETAINER`
+**Tags:** retainer model,freelance engineer,recurring income,consulting,side income,engineer money
+
+---
+
+## Shorts #43 — Runway ML vs CapCut for side hustles
+**Pillar:** AI Tools
+**Pexels keyword:** video creator editing phone
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Runway and CapCut both edit video, but using the wrong one for your side hustle wastes hours.
+
+[BODY - 45秒]
+They're not really competitors. They solve different problems. Here's how to pick.
+
+CapCut is your fast, free workhorse.
+Trim clips, add captions, hit trending templates, drop in music.
+For high-volume short-form — Shorts, TikToks, Reels — it's perfect.
+You can edit a clip on your phone in minutes. That's your daily driver.
+
+Runway ML is the AI generator.
+It creates video from a text prompt. It removes backgrounds with no green screen.
+It does effects that used to need a VFX studio.
+This is for unique B-roll, surreal visuals, and stuff you literally can't film.
+
+So the play for a side hustle:
+Generate the impossible shots in Runway.
+Assemble and caption everything in CapCut.
+
+The mistake people make is trying to do high-volume daily editing in Runway — too slow and pricey.
+Or expecting CapCut to generate footage from nothing — it can't.
+
+Right tool, right step. Speed in CapCut, magic in Runway.
+
+[OUTRO - 5秒]
+Follow for the video stack faceless creators run.
+```
+
+**Thumbnail text:** `RUNWAY VS CAPCUT`
+**Tags:** runway ml,capcut,video editing,ai video,content creation,faceless
+
+---
+
+## Shorts #44 — Debt payoff vs invest: what the math says
+**Pillar:** Wealth Mindset
+**Pexels keyword:** calculator finance planning
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Pay off debt or invest? Most people guess. There's an actual number that decides it.
+
+[BODY - 45秒]
+The whole decision comes down to one comparison: your interest rate versus your expected return.
+
+Here's the framework. Three buckets.
+
+Bucket one — high-interest debt. Credit cards, anything over 7 to 8%.
+Pay this off first, aggressively. Always.
+Crushing 22% credit card debt is a guaranteed 22% return. The market can't promise that.
+
+Bucket two — the middle zone. Student loans, car loans around 4 to 6%.
+This is the real toss-up. The S&P historically returns about 10%.
+So mathematically, investing usually wins here — but only if you'll actually stay invested.
+
+Bucket three — low-interest debt. A mortgage under 4%.
+Don't rush it. That money works harder invested. Pay the minimum, invest the rest.
+
+The one exception to the math: peace of mind.
+If debt keeps you up at night, paying it off has a real, non-financial return.
+A guaranteed feeling beats a probable percent for some people.
+
+But know the number first. Compare the rate to 10%. Then decide on purpose, not on fear.
+
+[OUTRO - 5秒]
+Follow for the money decisions they never taught you.
+```
+
+**Thumbnail text:** `DEBT OR INVEST?`
+**Tags:** debt payoff,investing,wealth mindset,personal finance,interest rates,money math
+
+---
+
+## Shorts #45 — AI art on Etsy: 3-month raw data
+**Pillar:** Passive Income
+**Pexels keyword:** printable art wall frame
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I sold AI art on Etsy for 3 months. Here's the raw data — the wins and the parts nobody posts.
+
+[BODY - 45秒]
+No hype. Just what actually happened with a real printable art shop.
+
+The setup.
+I generated printable wall art with AI. Listed each as a digital download.
+Buyer pays, downloads the file, prints it themselves. Zero shipping, zero inventory.
+
+Month one: brutal. Three sales. I almost quit.
+Turns out random pretty images don't sell. Nobody's searching for "cool abstract art."
+
+Month two: I got specific.
+I targeted exact searches — "boho neutral line art set," "mid-century kitchen prints."
+Bundled 5 prints per listing. Sales jumped to 40 that month.
+
+Month three: the compounding kicked in.
+The listings that worked kept selling with zero new effort.
+I hit 90 sales. Most from listings I'd made weeks earlier.
+
+The honest numbers across 3 months:
+Roughly 130 sales, average around 6 dollars. Etsy fees took their cut.
+Net? A few hundred dollars — from files that now sell on autopilot.
+
+The lesson: it's not "make art." It's "match a specific buyer's search." Niche wins.
+
+[OUTRO - 5秒]
+Follow for real passive income data, the good and the ugly.
+```
+
+**Thumbnail text:** `3 MONTHS OF ETSY DATA`
+**Tags:** etsy,ai art,passive income,printable art,digital products,build in public
+
+---
+
 ## 製作說明（當 YouTube secrets 設定好後）
 
 1. 每支 Shorts 使用對應 carousel 的 7 張 PNG 做 slideshow（每張 6-8 秒）
