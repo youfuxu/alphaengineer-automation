@@ -563,6 +563,584 @@ Comment "ETSY" and I'll send you my best-selling prompt formulas.
 
 ---
 
+# Alpha Engineer — YouTube Shorts 腳本批次 #16-30
+建立：2026-06-23（Claude Agent 自動生成）
+對應 posts #56-70 主題
+
+---
+
+## Shorts #16 — $300/month from affiliate links
+**搭配 Post #56**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+The only thing between your content and $300 a month is one tracked link.
+
+[BODY - 45秒]
+It's affiliate marketing, and it's the easiest passive income for engineers.
+
+Here's how it works. You mention a tool you already use.
+Someone clicks your link. They subscribe.
+You earn every single month they stay.
+No inventory. No shipping. No customer service.
+
+The four programs I'd apply to this week:
+ElevenLabs — 22% recurring for 12 months.
+Synthesia — 25% recurring.
+Jasper AI — 30% recurring.
+HeyGen — 35% for the first 3 months.
+
+The best part? None of them require a follower minimum.
+You can apply today with zero audience.
+
+The content that converts isn't a hard sell.
+It's a real review. "Here's the tool I use and exactly why."
+Show the workflow, drop the link, let the value sell it.
+
+You'd make that content anyway. Now it pays you monthly.
+
+[OUTRO - 5秒]
+Follow for the affiliate programs engineers are quietly cashing in on.
+```
+
+**Thumbnail text:** `1 LINK = $300/MO`
+**Tags:** affiliate marketing,passive income,recurring income,ai tools,side hustle,engineer income
+
+---
+
+## Shorts #17 — Copilot + Claude: the real workflow
+**搭配 Post #57**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Copilot versus Claude is the wrong question. The best engineers run both. Here's how.
+
+[BODY - 45秒]
+They're not competing. They're complementary. And most people miss why.
+
+The core difference:
+Copilot is IDE-native autocomplete. It thinks in lines and functions. It sees your current file.
+Claude is long-context reasoning. It thinks in architecture and tradeoffs. It sees your whole problem.
+
+So Copilot wins for boilerplate, test stubs, and fast autocomplete when the next line is obvious.
+
+Claude wins for architecture decisions, debugging the gnarly bugs, code review, and writing your docs.
+
+My actual workflow:
+Step one — open Claude. "Design the architecture for this feature."
+Step two — drop into the editor and let Copilot fill the obvious lines.
+Step three — paste the hard parts back into Claude for review.
+
+One tool plans. One tool types. You ship twice as fast.
+
+[OUTRO - 5秒]
+Follow for the exact AI stack engineers use to ship faster.
+```
+
+**Thumbnail text:** `PLAN + TYPE = 2X`
+**Tags:** github copilot,claude ai,ai coding,developer tools,ai workflow,engineer productivity
+
+---
+
+## Shorts #18 — Print on demand, zero inventory
+**搭配 Post #58**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I sell physical products and I've never touched one. AI designs them, a robot ships them.
+
+[BODY - 45秒]
+It's print on demand, and for engineers it's almost unfair.
+
+Here's the flow.
+You design it. A customer buys it. Printful or Printify prints and ships it.
+You collect the margin. The product only gets made when someone orders.
+Zero inventory. Zero upfront cost.
+
+And you don't even design it yourself anymore.
+AI generates the artwork in 20 minutes.
+
+The products that actually sell for engineers?
+T-shirts with coding jokes — "it works on my machine."
+Mugs and posters — circuit board art, algorithm prints.
+Stickers and pins — low price, pure impulse buy.
+
+You set up Etsy or Shopify once.
+After that, the whole system runs without you.
+
+The work is front-loaded. The income isn't.
+
+[OUTRO - 5秒]
+Comment "POD" and I'll send you the exact setup checklist.
+```
+
+**Thumbnail text:** `ZERO INVENTORY`
+**Tags:** print on demand,passive income,printful,etsy,ai design,side hustle
+
+---
+
+## Shorts #19 — Stop checking your bank balance
+**搭配 Post #59**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Stop checking your bank balance. It's lying to you about how rich you are.
+
+[BODY - 45秒]
+One number tells the whole story. The other tells you almost nothing.
+
+Your bank balance is just the cash you have right now.
+It resets every month. It hides your investments, your debt, your real direction.
+
+Net worth is the truth. All your assets, minus all your liabilities.
+It compounds. It shows whether you're actually getting wealthier — or just earning and spending at a fancier level.
+
+Picture two engineers on the same salary.
+One has $150,000 net worth at 35. The other has $15,000.
+Their bank balance on payday looks identical. The truth is wildly different.
+
+The 10-minute setup:
+List your assets — checking, savings, 401k, Roth, brokerage.
+List your liabilities — loans, credit cards.
+Subtract. That one number is your real scoreboard.
+
+Track it monthly. Watch the trend, not the balance.
+
+[OUTRO - 5秒]
+Follow for the net worth tracker engineers actually use.
+```
+
+**Thumbnail text:** `NET WORTH > BALANCE`
+**Tags:** net worth,personal finance,wealth mindset,investing,money tracking,engineer finance
+
+---
+
+## Shorts #20 — 6 months of automated content data
+**搭配 Post #60**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I automated 6 months of content on 3 hours a month. Here's what the data actually showed.
+
+[BODY - 45秒]
+No highlight reel. Just honest numbers from a real account.
+
+The setup: 60-plus carousel posts, all defined in one JSON file.
+GitHub Actions fires every Wednesday at 11am Eastern.
+It posts to Instagram and Threads at the same time.
+Monthly cost: 20 dollars. Active time: about 3 hours.
+
+Now the part you came for. What actually performed?
+
+One — specific numbers win. "Saved 3 hours" beats "saves time" every time.
+Two — real stories beat comparisons. "I switched to Cursor" beats "tools compared."
+Three — a clear command wins. "Do this today" beats "here's something interesting."
+Four — Wednesday mornings outperformed every other slot.
+
+The lesson isn't "automate everything."
+It's automate the boring part, and pour your energy into the hook.
+
+[OUTRO - 5秒]
+Follow for the full automated content system, broken down step by step.
+```
+
+**Thumbnail text:** `6 MONTHS, 3 HRS/MO`
+**Tags:** content automation,build in public,github actions,passive income,content strategy,engineer
+
+---
+
+## Shorts #21 — Claude Projects as your side hustle brain
+**搭配 Post #61**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I stopped re-explaining my business to AI every day. This one feature saves me 5 hours a week.
+
+[BODY - 45秒]
+It's Claude Projects, and it's the most slept-on tool for a side hustle.
+
+Here's the problem it kills.
+Every time you open a fresh chat, the AI forgets everything.
+Your brand. Your voice. Your audience. Your goals.
+So you waste the first 10 minutes re-explaining yourself. Every. Single. Time.
+
+A Project fixes that permanently.
+You upload your brand docs once. Claude never forgets your context again.
+You write one killer system prompt — who you are, who you serve, how you sound.
+
+Now every chat starts fully briefed.
+Content calendars, gap analyses, cold emails — all on-brand, instantly.
+
+The math is almost funny.
+Claude Pro is 20 dollars a month.
+One good on-brand output pays for six months.
+
+Set up the brain once. Run your whole hustle through it.
+
+[OUTRO - 5秒]
+Comment "BRAIN" and I'll send you my exact system prompt template.
+```
+
+**Thumbnail text:** `SAVE 5 HRS/WEEK`
+**Tags:** claude ai,claude projects,ai tools,side hustle,productivity,solopreneur
+
+---
+
+## Shorts #22 — Notion templates to $1,800/month
+**搭配 Post #62**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Here's how a Notion template library turns into $1,800 a month — fully passive.
+
+[BODY - 45秒]
+Build it once. Sell it unlimited times. Zero fulfillment cost.
+
+Here's the three-step ladder.
+
+Step one — the free hook.
+List a few solid templates on Notion's gallery for free.
+This is your top of funnel. It pulls in strangers who already trust the format.
+
+Step two — the bundle.
+Package your best templates together. Sell them on Gumroad for 49 to 97 dollars.
+One-time sales, real revenue, but it still has a ceiling.
+
+Step three — the recurring engine.
+Turn buyers into a 9-dollar-a-month membership.
+A monthly template vault: new drops, updates, premium versions.
+
+Now run the numbers.
+200 members times 9 dollars is 1,800 dollars a month.
+Recurring. While you sleep.
+
+You built the templates for yourself anyway.
+The library just sells the byproduct on repeat.
+
+[OUTRO - 5秒]
+Follow for a new passive income system every single week.
+```
+
+**Thumbnail text:** `$1,800 MRR`
+**Tags:** notion templates,passive income,recurring revenue,gumroad,digital products,mrr
+
+---
+
+## Shorts #23 — Midjourney vs DALL-E for money
+**搭配 Post #63**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Picking the wrong AI image tool can cost you months. Here's how to choose in 30 seconds.
+
+[BODY - 45秒]
+Midjourney versus DALL-E 3. The answer depends entirely on how you plan to make money.
+
+Use Midjourney if your model is creative.
+It produces the most striking, gallery-quality images.
+That's your tool for Etsy prints, print on demand, and stock photo passive income.
+You're selling the look.
+
+Use DALL-E 3 if your model is technical.
+It has a clean API at about 4 cents an image.
+That's your tool for SaaS builds and automated pipelines.
+You're generating images by the thousand, inside a product.
+
+The mistake that burns people:
+trying to build an automated pipeline on a tool with no real API,
+or hand-crafting art one prompt at a time when you needed scale.
+
+Pick one lane. Validate it in 30 days. Then scale what works.
+
+Beauty for humans, or volume for machines. Choose on purpose.
+
+[OUTRO - 5秒]
+Follow for more AI income breakdowns every week.
+```
+
+**Thumbnail text:** `PICK THE RIGHT LANE`
+**Tags:** midjourney,dalle 3,ai art,ai tools,passive income,ai images
+
+---
+
+## Shorts #24 — The 50/30/20 rule is broken
+**搭配 Post #64**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+The 50/30/20 budget rule is broken for engineers. Here's the version that actually builds wealth.
+
+[BODY - 45秒]
+The old rule — 50% needs, 30% wants, 20% savings — was built for median income.
+On a 150K engineering salary, it leaves a fortune on the table.
+
+Here's the upgrade: 40/10/30/20.
+
+40% to your needs. Rent, food, the basics. On your income, that's plenty.
+10% to guilt-free wants. Spend it, enjoy it, no tracking.
+30% straight into wealth assets — index funds, Roth, brokerage.
+20% into building. An AI income stack. Tools, products, your own thing.
+
+That last bucket is the cheat code engineers ignore.
+
+And the windfall rule:
+every bonus, every RSU vest — 70% into assets, 20% into building, 10% to enjoy.
+
+Here's the compounding part.
+150 dollars a month in AI tools, used right,
+can become a 2 to 10K monthly income stream inside a year.
+
+Budget like you earn like an engineer. Because you do.
+
+[OUTRO - 5秒]
+Follow for more AI wealth systems built for engineers.
+```
+
+**Thumbnail text:** `40/10/30/20`
+**Tags:** budgeting,wealth mindset,personal finance,investing,engineer finance,money rules
+
+---
+
+## Shorts #25 — Turn idle code into a SaaS
+**搭配 Post #65**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Your code is sitting idle on your laptop. Here's how to make it earn money 24 hours a day.
+
+[BODY - 45秒]
+Turn it into a SaaS. And no, you don't need a year and a co-founder.
+
+Step one — validate before you build.
+Spend 72 hours, not 72 days. Post the idea. DM 20 people. Pre-sell it.
+If nobody bites, you just saved yourself months.
+
+Step two — ship on a weekend stack.
+Next.js for the front end. Supabase for auth and database.
+Stripe for payments. OpenAI for the smart part.
+That's a complete product in a weekend.
+
+Step three — price it right.
+9, 29, and 79 dollars a month.
+Here's the trick: 80% of users pick the middle tier.
+So design your middle tier to be the obvious choice.
+
+Step four — automate the rest.
+Onboarding, support, churn emails.
+Set it up once so it runs while you sleep.
+
+Idle code earns nothing. Shipped code earns rent.
+
+[OUTRO - 5秒]
+Follow for weekly blueprints on AI-powered passive income.
+```
+
+**Thumbnail text:** `IDLE CODE → SAAS`
+**Tags:** saas,passive income,indie hacker,nextjs,stripe,build in public
+
+---
+
+## Shorts #26 — I built a Chrome extension with AI
+**搭配 Post #66**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I built a Chrome extension that made $612 in 30 days. Total cost to build it? Zero dollars.
+
+[BODY - 45秒]
+And most of it was written in plain English.
+
+Here's exactly what I did.
+
+I used Claude and Cursor to write 90% of the code.
+I described what I wanted in normal sentences. The AI wrote the JavaScript.
+I just steered.
+
+For the smart part, I connected the OpenAI API directly.
+Live analysis, right in the browser. No backend. No server bill.
+
+I launched it on Gumroad at 9 dollars.
+In 30 days it made 612 dollars. Fully passive after launch.
+
+The numbers that matter:
+Total cost: zero.
+Total time: 18 hours, spread across 6 days.
+
+The lesson isn't "extensions are a goldmine."
+It's that the cost of building a small product just collapsed to nothing.
+The only barrier left is shipping.
+
+[OUTRO - 5秒]
+Follow for weekly AI build breakdowns, start to finish.
+```
+
+**Thumbnail text:** `$612 IN 30 DAYS`
+**Tags:** chrome extension,ai coding,passive income,build in public,cursor ai,side project
+
+---
+
+## Shorts #27 — AI images outsell stock photos
+**搭配 Post #67**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+AI stock sellers are earning 5 times faster than photographers. Here's why, and how to start.
+
+[BODY - 45秒]
+Stock photos versus AI-generated images. The math isn't close anymore.
+
+A photographer needs six months and a lot of travel to build a 500-image portfolio.
+With Midjourney, you build that same portfolio in two weeks. From your desk.
+
+That speed is the whole game.
+AI stock sellers on Adobe Stock are earning 3 to 5 times faster than traditional shooters,
+simply because they can flood high-demand niches fast.
+
+And niche is everything.
+Don't shoot another sunset. Target biotech, semiconductors, abstract tech.
+Those payouts hit 1.50 to 4 dollars and up per download, because supply is thin.
+
+One catch: Getty bans AI images.
+But Adobe Stock and Pond5 are wide open. So go where the door is unlocked.
+
+Build the portfolio once. Get paid per download forever.
+
+[OUTRO - 5秒]
+Follow for AI passive income strategies every week.
+```
+
+**Thumbnail text:** `5X FASTER INCOME`
+**Tags:** stock photography,ai images,midjourney,adobe stock,passive income,ai art
+
+---
+
+## Shorts #28 — AI video tools, zero budget
+**搭配 Post #68**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Engineers are hitting 10x follower growth in 90 days — with no camera and no editor.
+
+[BODY - 45秒]
+AI video tools handed creators with zero budget a complete content superpower.
+
+Here's the stack.
+Tools like HeyGen and Pictory let you make real videos with no camera, no editor, for under 50 dollars a month.
+You type a script. It produces a talking, edited video.
+
+The workflow is the unlock.
+A single 60-minute session each week produces 3 platform-ready videos.
+One hour. Three videos. Every week.
+
+But here's the multiplier most people miss.
+One video, repurposed, becomes 5 formats across 5 platforms.
+The long version on YouTube. Clips on Shorts, TikTok, Reels. Stills for a carousel.
+Five times the reach from one hour of work.
+
+That's how engineers are hitting 10x growth in 90 days,
+then converting that audience into passive income.
+
+You don't need to be on camera. You need a system.
+
+[OUTRO - 5秒]
+Follow for AI tools and income strategies built for engineers.
+```
+
+**Thumbnail text:** `NO CAMERA, 10X`
+**Tags:** ai video,heygen,pictory,content creation,faceless,passive income
+
+---
+
+## Shorts #29 — Optimize for equity, not salary
+**搭配 Post #69**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+A $50,000 raise nets you $28,000. A $50,000-a-month SaaS is worth 3 million. Same effort.
+
+[BODY - 45秒]
+I stopped optimizing for salary. I started optimizing for equity. Here's the math that flipped me.
+
+Take a 50,000 dollar raise. Feels great.
+After tax, it's about 28,000 in your pocket. And it stops the day you stop working.
+
+Now take a SaaS doing 50,000 dollars a month in revenue.
+At a normal multiple, that business is worth 2.4 to 3.6 million dollars.
+Same income on paper. Wildly different outcome.
+
+A salary is rented income. Equity is owned income.
+
+And here's what changed everything:
+AI dropped the cost to build a real product from around 200,000 dollars to under 5,000.
+The thing that used to need a funded team, you can now ship alone, on a weekend.
+
+So the divide is forming right now.
+Engineers who ship own the future.
+Engineers who only code rent it.
+
+Trade some salary optimization for ownership. That's where the real wealth lives.
+
+[OUTRO - 5秒]
+Follow for AI passive income blueprints every week.
+```
+
+**Thumbnail text:** `EQUITY > SALARY`
+**Tags:** equity,wealth mindset,saas,build in public,startup,engineer finance
+
+---
+
+## Shorts #30 — AI newsletter in under 2 hours
+**搭配 Post #70**
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+You can build a money-making AI newsletter in under 2 hours a week. Here's the whole system.
+
+[BODY - 45秒]
+Newsletters are the most underrated income asset for engineers. AI makes them almost effortless.
+
+First, the stack. Under 50 dollars a month, total.
+Beehiiv to host and monetize. GPT-4o to write. Perplexity to research. Make.com to automate.
+
+Now the repeatable 2-hour workflow.
+Source — Perplexity pulls the week's best material with citations.
+Draft — GPT-4o writes the first version.
+Edit — you sharpen it in 20 minutes.
+Design and schedule — templated, so it's the same every week.
+
+The secret weapon is a smart prompt system.
+Feed it samples of your writing once.
+Now it drafts in your voice automatically. Not robotic. You.
+
+And the growth engine: referral loops plus newsletter swaps.
+Readers bring readers. Swaps borrow other audiences. That's how you hit 10K subs.
+
+Two hours a week. An asset that compounds.
+
+[OUTRO - 5秒]
+Follow for weekly AI income blueprints built for engineers.
+```
+
+**Thumbnail text:** `NEWSLETTER IN 2 HRS`
+**Tags:** ai newsletter,beehiiv,passive income,ai tools,content automation,newsletter growth
+
+---
+
 ## 製作說明（當 YouTube secrets 設定好後）
 
 1. 每支 Shorts 使用對應 carousel 的 7 張 PNG 做 slideshow（每張 6-8 秒）
