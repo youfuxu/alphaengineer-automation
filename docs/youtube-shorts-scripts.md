@@ -2359,6 +2359,643 @@ Follow for the career and money playbooks they skip in CS class.
 
 ---
 
+## Shorts #61 — Midjourney v6 workflow for non-designers
+**Pillar:** AI Tools
+**Pexels keyword:** digital art design studio screen
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I'm not a designer. Midjourney v6 made me look like one in 10 minutes.
+
+[BODY - 45秒]
+Here's the exact workflow I use to generate professional-grade images for any project.
+
+Step one: ditch the one-liner prompt.
+Bad: "a futuristic city." Good: "a futuristic city at golden hour, wide shot, cinematic lighting, Sony A7R IV, sharp focus, photorealistic."
+The camera details and lighting are the secret sauce. They tell Midjourney to aim for photo quality.
+
+Step two: use aspect ratios from the start.
+Adding --ar 16:9 for YouTube thumbnails, --ar 9:16 for Shorts covers, --ar 1:1 for social posts.
+Getting the crop right in generation saves time in editing.
+
+Step three: lock your style with a reference.
+Paste an image URL after your prompt with --iw 0.5 to blend your photo with the style.
+Now every output feels like a cohesive brand.
+
+Step four: iterate, don't regenerate.
+Hit V on any image to vary from that specific version. You're not starting over — you're converging.
+
+The output: social covers, thumbnail backgrounds, product mockups. All without a design subscription.
+
+[OUTRO - 5秒]
+Follow for the AI creative toolkit that replaces your design stack.
+```
+
+**Thumbnail text:** `ENGINEER ≠ DESIGNER`
+**Tags:** midjourney,ai image,ai tools,digital design,creative ai,productivity
+
+---
+
+## Shorts #62 — Notion AI templates that run your week
+**Pillar:** AI Tools
+**Pexels keyword:** notion productivity workspace laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I stopped manually planning my week in 2024. A Notion AI template does it in under 60 seconds.
+
+[BODY - 45秒]
+Here are the four Notion AI templates that actually move the needle — not just look good.
+
+Template one: the weekly debrief generator.
+Dump your tasks, wins, and blockers into a table. Tell Notion AI: "Summarize this week and suggest three priorities for next week."
+Monday planning: 60 seconds flat.
+
+Template two: the project SOP builder.
+Pick any recurring project you do. Describe it in plain English to the AI.
+It generates a step-by-step SOP you can run or hand off. Stops you from reinventing wheels.
+
+Template three: the decision journal.
+Log every major decision with the context and your reasoning. Ask AI to flag contradictions.
+Future you will thank current you.
+
+Template four: the reading notes to action converter.
+Paste any article or chapter you read. Prompt: "Extract the three most actionable ideas."
+Reading turns into a to-do list automatically.
+
+The real value isn't one template. It's removing the manual thinking that fills space between real work.
+
+[OUTRO - 5秒]
+Comment "NOTION" and I'll share the template bundle.
+```
+
+**Thumbnail text:** `60 SEC WEEKLY PLAN`
+**Tags:** notion ai,productivity,ai tools,notion templates,weekly planning,engineer productivity
+
+---
+
+## Shorts #63 — GitHub Copilot features most engineers ignore
+**Pillar:** AI Tools
+**Pexels keyword:** github coding developer screen
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+GitHub Copilot does way more than autocomplete. Most engineers use 20% of what they're paying for.
+
+[BODY - 45秒]
+Here are the four Copilot features I turned on and never looked back.
+
+Feature one: Copilot Chat in the sidebar.
+Stop switching to a browser tab. Highlight code, open chat, ask "what does this do" or "how do I test this."
+Context is already loaded — no copy-pasting.
+
+Feature two: slash commands in the chat.
+/explain — gives you a plain English breakdown of any selected code.
+/tests — generates a test suite for the function.
+/fix — reads the error and applies the patch.
+These aren't suggestions. They're one command away from done.
+
+Feature three: the terminal assistant.
+Press Ctrl+I in the terminal. Type what you want in English. It writes the shell command.
+I stopped googling "how to find files modified in the last 24 hours" forever.
+
+Feature four: Copilot review on PRs.
+In GitHub itself, ask Copilot to review your pull request before you assign reviewers.
+It catches the obvious issues quietly. Your real review gets to the interesting questions faster.
+
+One subscription. Way more leverage than you're currently getting.
+
+[OUTRO - 5秒]
+Follow for the AI coding features that separate fast engineers from the rest.
+```
+
+**Thumbnail text:** `COPILOT HIDDEN FEATURES`
+**Tags:** github copilot,ai coding,developer tools,coding productivity,ai tools,engineer
+
+---
+
+## Shorts #64 — AI for productivity: the 5-prompt daily system
+**Pillar:** AI Tools
+**Pexels keyword:** productivity morning routine laptop coffee
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Five prompts. Every morning. I get back two hours a day.
+
+[BODY - 45秒]
+Here's the exact daily AI system — no app switching, no complicated setup.
+
+Prompt one: the daily brief.
+"Here are my tasks for today: [list]. Rank them by impact. Flag anything I might be overthinking."
+Clarity before the first meeting.
+
+Prompt two: the email accelerator.
+"Draft a professional reply to this email. Be direct, friendly, under 80 words: [paste email]."
+No more staring at blank reply boxes.
+
+Prompt three: the blocker-unsticker.
+"I'm stuck on [technical problem]. Ask me three questions to help me think through it."
+Forces you to clarify before you spiral.
+
+Prompt four: the meeting prep pack.
+"I have a meeting about [topic] with [audience]. Give me three smart questions and two things to watch out for."
+You walk in prepared every time.
+
+Prompt five: the day-end review.
+"Here's what I did today: [list]. What should I capture as a system or template for next time?"
+You stop losing knowledge in the noise.
+
+Repeat daily. This isn't magic — it's compounding clarity.
+
+[OUTRO - 5秒]
+Follow for more daily AI systems that engineers actually stick with.
+```
+
+**Thumbnail text:** `5 PROMPTS = 2 HRS BACK`
+**Tags:** ai productivity,claude ai,productivity system,morning routine,ai tools,engineer workflow
+
+---
+
+## Shorts #65 — Voice cloning in 2025: what's actually possible
+**Pillar:** AI Tools
+**Pexels keyword:** microphone recording studio audio
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+You can clone your own voice in under 3 minutes. Here's what's possible now — and what to build with it.
+
+[BODY - 45秒]
+Voice cloning used to cost $10,000 in studio time. ElevenLabs changed everything.
+
+Here's what's actually possible in 2025.
+
+First: the clone.
+Record 30 to 60 seconds of clean audio — just your voice, no background noise.
+ElevenLabs processes it and gives you a voice model. That's your clone.
+
+Second: what you generate from it.
+Narrate any text at any length. Your voice. Your accent. Your delivery.
+Generate a 10-minute tutorial voiceover from a script in seconds.
+
+Third: where engineers are making money with this.
+YouTube automation channels — publish faceless videos in your own voice without recording each one.
+Course voiceovers — record the course once, update sections with text changes later.
+Shorts narration — write the script, clone does the talking, post daily without daily recording.
+
+The cost: $22 a month on ElevenLabs Creator plan. One tool covers it all.
+
+The catch everyone should hear: only clone your own voice. The technology is powerful. The ethics matter.
+
+[OUTRO - 5秒]
+Follow for the voice AI toolkit that scales your content without scaling your time.
+```
+
+**Thumbnail text:** `CLONE YOUR VOICE`
+**Tags:** elevenlabs,voice cloning,ai tools,youtube automation,content creation,ai audio
+
+---
+
+## Shorts #66 — Micro SaaS validation before writing a line of code
+**Pillar:** Passive Income
+**Pexels keyword:** startup idea whiteboard planning
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I see engineers build for three months, then discover nobody wanted it. Here's the 48-hour validation that stops that.
+
+[BODY - 45秒]
+Validation before code is the single biggest ROI move in solo software.
+
+Here's the 48-hour process.
+
+Hour one: the idea test.
+Post a single tweet or LinkedIn: "Would you pay $X/month for a tool that does [one thing]?"
+Don't pitch. Don't explain. Ask. If you get five genuine "yes, I'd pay for that" replies — you have signal.
+
+Hour two to four: the landing page.
+Build it with Carrd or v0.dev in under an hour.
+One sentence describing what it does. One price. One email capture button. That's it.
+No demo. No screenshots. Just the promise.
+
+Hour five to twelve: drive traffic cheaply.
+Post to one subreddit where your target user lives.
+Comment genuinely on five related posts with your link.
+Post to one relevant Slack or Discord community.
+
+Hour thirteen to forty-eight: watch the emails.
+If ten people sign up and three email you asking when it launches — you build it.
+If nobody signs up — you saved three months of nights and weekends.
+
+The lesson: the market votes with email addresses before it votes with money. Get the email first.
+
+[OUTRO - 5秒]
+Follow for the solo software playbook that skips the graveyard projects.
+```
+
+**Thumbnail text:** `VALIDATE IN 48 HRS`
+**Tags:** micro saas,validation,passive income,indie hacker,startup,side hustle
+
+---
+
+## Shorts #67 — Newsletter monetization: the affiliate stack
+**Pillar:** Passive Income
+**Pexels keyword:** email newsletter affiliate marketing laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+One newsletter. Four affiliate programs. $800 a month in passive income. Here's the exact stack.
+
+[BODY - 45秒]
+Affiliate income in a newsletter compounds quietly. Here's how to build the stack right.
+
+The rule first: only plug tools you actually use. Your readers can tell the difference. Once they can't trust your rec, the whole list loses value.
+
+The four-layer stack for an engineer newsletter.
+
+Layer one: the daily driver tool.
+Whatever AI or productivity tool you mention most — get the affiliate link. Every mention earns.
+Claude, Notion, Perplexity — all have programs.
+
+Layer two: the hosting or infrastructure pick.
+Every reader building something needs hosting. Cloudflare, DigitalOcean, and Vercel all pay recurring commissions when readers sign up.
+
+Layer three: the course or learning platform.
+Link one relevant course per month. Udemy and Coursera pay 25 to 45% per sale.
+A single issue mentioning a $99 course that converts 3 readers pays $100+.
+
+Layer four: the finance app.
+Your audience has money and invests it. A single Robinhood, IBKR, or Revolut referral link earns more than three SaaS signups.
+
+The setup takes two hours. The income runs every issue after that. That's the definition of passive.
+
+[OUTRO - 5秒]
+Comment "STACK" and I'll share the full affiliate program list for engineering newsletters.
+```
+
+**Thumbnail text:** `$800/MO 4-LAYER STACK`
+**Tags:** newsletter affiliate,passive income,affiliate marketing,newsletter monetization,creator income,side hustle
+
+---
+
+## Shorts #68 — Etsy AI art: the engineer's honest take
+**Pillar:** Passive Income
+**Pexels keyword:** etsy digital art print store
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Engineers are making $2,000 a month on Etsy selling AI art prints. Here's the honest breakdown — including what doesn't work.
+
+[BODY - 45秒]
+I researched this properly. Here's what's real and what's hype.
+
+What actually works on Etsy AI art right now.
+Not generic AI art — everyone's selling that. What sells is niche + system.
+
+The niches with real search volume: minimalist city map prints, custom pet portraits generated from photos, astronomical art of specific birthdate star maps, and quote posters in specific visual styles.
+
+The system behind it.
+You use Midjourney to generate art in a consistent style for one niche.
+You upload to Printful or Printify — they print and ship on demand. You never touch inventory.
+You list on Etsy. Your margin is the gap between your sale price and the print cost.
+A $35 print with $12 print cost is $23 per sale. Passive.
+
+What doesn't work.
+Listing 50 generic AI artworks and waiting. That graveyard is full.
+You need one specific niche, 20 well-listed products, and ongoing SEO on the titles.
+
+The math if you do it right.
+50 products, 2 sales per day each at $23 margin: $2,300 a month from a phone.
+
+Worth building? If you treat it like a store, not a passive lottery — yes.
+
+[OUTRO - 5秒]
+Follow for the digital product models that actually pay in 2025.
+```
+
+**Thumbnail text:** `$2K/MO ETSY AI ART`
+**Tags:** etsy,ai art,passive income,midjourney,print on demand,digital products
+
+---
+
+## Shorts #69 — Consulting retainers: how engineers package recurring income
+**Pillar:** Passive Income
+**Pexels keyword:** consulting meeting professional laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Most engineers freelance by the hour. A retainer model means the income arrives whether you work this week or not.
+
+[BODY - 45秒]
+The shift from hourly to retainer is the difference between trading time and owning income.
+
+Here's how to package it.
+
+What a retainer is.
+A monthly fee for a defined scope of access or output. Not hours — deliverables or availability.
+The client buys predictability. You sell stability. Both win.
+
+The four retainer models that work for engineers.
+
+Model one: the on-call advisor.
+"For $800 a month, I'm available for up to 4 hours of questions, code reviews, and architecture calls."
+Clients love this for steady technical guidance without headcount.
+
+Model two: the monthly audit.
+"I review your system performance, infrastructure costs, and tech debt each month and deliver a report."
+Fixed scope. Fixed time. Clean boundary.
+
+Model three: the automation maintainer.
+Build a client an automation system, then charge $300-500 a month to maintain, update, and improve it.
+You built it once. You invoice forever.
+
+Model four: the fractional CTO lite.
+For early-stage companies without a technical lead. One hour a week. Strategic guidance only.
+$1,500 to $3,000 a month for one client. One meeting.
+
+Land one retainer client. That's predictable income on top of your salary.
+
+[OUTRO - 5秒]
+Follow for the consulting models engineers can build on the side.
+```
+
+**Thumbnail text:** `RETAINER = PREDICTABLE $`
+**Tags:** consulting,retainer,passive income,freelance engineer,engineer income,side hustle
+
+---
+
+## Shorts #70 — The affiliate stack that pays engineers every month
+**Pillar:** Passive Income
+**Pexels keyword:** affiliate marketing laptop income streams
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I have 6 affiliate programs running right now. Three of them pay me whether I post this week or not.
+
+[BODY - 45秒]
+Affiliate income is only passive if you pick programs with recurring commissions. Here's the distinction that matters.
+
+One-time versus recurring.
+A one-time commission pays when someone buys. Done.
+A recurring commission pays every month the user keeps their subscription. That's the one you want.
+
+The six categories worth building for an engineering audience.
+
+One: AI tools. ElevenLabs, Jasper, and MidJourney all have programs. Your audience is already using AI.
+Two: developer tools. GitHub, Vercel, DigitalOcean — infrastructure that every builder needs.
+Three: productivity apps. Notion, Linear, and Todoist have referral programs. Low barrier, low ticket, high volume.
+Four: course platforms. Udemy and LinkedIn Learning. One course mention per month compounds over time.
+Five: financial apps. Highest per-lead payouts. IBKR pays up to $200 per funded account.
+Six: hardware or equipment. Amazon Associates for the exact tools in your videos. Set it once, earns forever.
+
+The honest math.
+Six programs. Average $100-300 per month each at scale.
+That's $600 to $1,800 a month from links you placed months ago.
+
+Place the links once. Let them compound.
+
+[OUTRO - 5秒]
+Follow for the full affiliate program list with payouts for engineers.
+```
+
+**Thumbnail text:** `6 AFFILIATES RUNNING`
+**Tags:** affiliate marketing,passive income,recurring commissions,creator income,engineer income,side hustle
+
+---
+
+## Shorts #71 — Net worth tracking: the number that changes behavior
+**Pillar:** Wealth Mindset
+**Pexels keyword:** net worth finance spreadsheet chart
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I started tracking my net worth monthly and made better money decisions without trying to. Here's why it works.
+
+[BODY - 45秒]
+Net worth is the only financial number that captures the full picture. Not income, not savings rate — net worth.
+
+What it is.
+Everything you own minus everything you owe. Assets minus liabilities. One number. Once a month.
+
+Why it changes behavior.
+When you see a single number go up or down, your brain treats money differently.
+You stop seeing a purchase as "I can afford this." You start seeing it as "this number goes down by that much."
+The math is the same. The psychology is different.
+
+The simple tracker system.
+One spreadsheet. Four columns. Date, assets total, liabilities total, net worth.
+Assets: brokerage accounts, 401k, Roth IRA, cash, property value.
+Liabilities: mortgage, student loans, car loan, credit card balances.
+
+Update it the first of every month. Takes 10 minutes.
+
+The insight that hits hardest.
+Seeing six months of data shows you whether you're actually building wealth — or just earning and spending at the same scale.
+High income with no net worth growth is the most common engineering money trap.
+
+Track the number. The number tracks you back.
+
+[OUTRO - 5秒]
+Comment "TRACKER" and I'll send you the net worth spreadsheet template.
+```
+
+**Thumbnail text:** `1 NUMBER CHANGES EVERYTHING`
+**Tags:** net worth,personal finance,wealth mindset,financial tracking,engineer finance,money habits
+
+---
+
+## Shorts #72 — Emergency fund math every engineer gets wrong
+**Pillar:** Wealth Mindset
+**Pexels keyword:** savings jar coins emergency fund
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+The "3 to 6 months emergency fund" rule is too vague. Here's the actual math for engineers.
+
+[BODY - 45秒]
+The standard advice is 3 to 6 months of expenses in cash. But that range is too wide to be useful. Let's get specific.
+
+The variables that change your number.
+
+Variable one: job stability.
+Big tech with strong severance packages — 3 months is probably fine.
+Startup with no safety net — go to 6.
+Contractor or freelancer with no employment protections — 9 months minimum.
+
+Variable two: dependents.
+Single, no dependents — 3 months.
+Partner who doesn't work, kids, aging parents — 6 to 9.
+Every dependent adds complexity to an emergency.
+
+Variable three: debt.
+High-interest debt means your emergency fund competes with 20%+ interest.
+If you have credit card debt, a smaller emergency fund plus aggressive payoff often wins the math.
+
+Variable four: how long your job search actually takes.
+For a senior engineer in 2025? Median is 3 to 5 months for a good fit. Plan for that, not best case.
+
+The formula.
+Take your monthly expenses. Multiply by your personal months number based on the variables above. Put that exact amount in a high-yield savings account. Not investing — liquid and stable.
+
+One more thing. Calculate it in actual dollars, not months. "6 months" is abstract. "$18,400 exactly" drives action.
+
+[OUTRO - 5秒]
+Follow for the personal finance math built specifically for engineers.
+```
+
+**Thumbnail text:** `YOUR EXACT FUND NUMBER`
+**Tags:** emergency fund,personal finance,wealth mindset,financial planning,engineer finance,savings
+
+---
+
+## Shorts #73 — Your financial independence number: the one formula
+**Pillar:** Wealth Mindset
+**Pexels keyword:** financial freedom calculator laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+There is one formula that tells you exactly how much money you need to never work again. Most people never calculate it.
+
+[BODY - 45秒]
+It's called the FIRE number, and it's simpler than it looks.
+
+The formula.
+Annual expenses times 25. That's it.
+
+If you spend $60,000 a year, your FIRE number is $1.5 million.
+At $1.5 million invested in broad index funds, a 4% withdrawal rate covers $60,000 a year — indefinitely.
+Adjusted for inflation. Backed by decades of historical data. The Trinity Study, if you want to look it up.
+
+The part that surprises most engineers.
+Your income barely affects the timeline. Your savings rate does.
+Save 10% of your income: 40+ years to FIRE.
+Save 30%: about 28 years.
+Save 50%: 17 years.
+Save 70%: under 9 years.
+
+The number is in your control. Not because you earn more — because you spend less.
+
+How to calculate yours in 5 minutes.
+Step one: add up last year's actual spending. Subtract one-time costs.
+Step two: multiply by 25. That's your target.
+Step three: go to a compound interest calculator. Enter your current investments and monthly contribution.
+Step four: see the date.
+
+That date changes how you think about every decision between now and then.
+
+[OUTRO - 5秒]
+Comment "FI" and I'll send you the calculator spreadsheet.
+```
+
+**Thumbnail text:** `YOUR # TO NEVER WORK`
+**Tags:** fire number,financial independence,wealth mindset,fire movement,invest,engineer finance
+
+---
+
+## Shorts #74 — Behind the automation pipeline that runs this channel
+**Pillar:** BTS
+**Pexels keyword:** content creator automation workflow laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+This channel posts consistently every week. I do less than 30 minutes of work per post. Here's the whole pipeline.
+
+[BODY - 45秒]
+Let me show you the system behind the content — because building the automation was more interesting than most posts.
+
+The pipeline has five stages.
+
+Stage one: the idea bank.
+A JSON file with 100+ post ideas, each with a topic, pillar, and draft hook.
+Claude batch-generated the whole bank in one session. I just review and approve.
+
+Stage two: script generation.
+Each idea goes into a prompt template. Claude writes the full carousel script, caption, and hashtags.
+Output goes straight into a Markdown file with structured frontmatter.
+
+Stage three: the visual layer.
+Carousel PNGs are generated from HTML templates using Puppeteer.
+One template per content pillar. Consistent branding, zero design work per post.
+
+Stage four: voice and Shorts.
+edge-tts reads the script in my voice model. Slides plus audio become a 45-second Short.
+Automated. One script in, one video out.
+
+Stage five: the publisher.
+A Node.js script reads the file queue and publishes to Instagram, Facebook, YouTube Shorts, and Threads on schedule.
+
+What I actually do: approve ideas, spot-check outputs, and watch the analytics.
+The machine does the posting.
+
+This is what I mean by engineering your content — not creating it.
+
+[OUTRO - 5秒]
+Follow to see every part of this system as I build it in public.
+```
+
+**Thumbnail text:** `30 MIN/WEEK PIPELINE`
+**Tags:** content automation,build in public,ai content,youtube automation,content creator,engineer content
+
+---
+
+## Shorts #75 — AI that writes code, generates images, and voices it — free
+**Pillar:** AI Tools
+**Pexels keyword:** ai tools multiple screens workflow
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+There are now free AI tools for code, images, and voice that match what paid tools did 18 months ago. Here's the stack.
+
+[BODY - 45秒]
+This is the no-subscription AI toolkit I'd build today if I was starting from zero.
+
+For code: Claude.ai free tier.
+Handles real engineering problems — debugging, code generation, architecture questions.
+The free tier is genuinely powerful. Most days it's all you need.
+
+For images: Microsoft Designer (powered by DALL-E 3).
+Free inside Microsoft accounts. Generates clean, realistic images from text.
+For thumbnails, social covers, and mockups — this competes with paid tools.
+
+For voice: ElevenLabs free tier.
+10,000 characters a month. That's a 10-minute video voiceover at no cost.
+More than enough to test a content format or produce your first few videos.
+
+For video clips: CapCut's AI features.
+Free auto-captions, AI B-roll suggestions, background removal.
+The most underrated free tool in the stack.
+
+For research: Perplexity AI free tier.
+Summarizes the internet with citations. Replaces most Google searches for research tasks.
+
+The total monthly cost: zero dollars.
+
+You don't need to pay for tools until you've maxed out the free versions. Most people never do.
+Start free, validate the workflow, then upgrade exactly what's worth paying for.
+
+[OUTRO - 5秒]
+Follow for the complete free AI toolkit breakdown — link in bio.
+```
+
+**Thumbnail text:** `FREE AI STACK 2025`
+**Tags:** free ai tools,ai tools,claude ai,midjourney alternative,no cost ai,engineer tools
+
+---
+
 ## 製作說明（當 YouTube secrets 設定好後）
 
 1. 每支 Shorts 使用對應 carousel 的 7 張 PNG 做 slideshow（每張 6-8 秒）
