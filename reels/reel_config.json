@@ -188,5 +188,55 @@
     "paired_post": 14,
     "affiliate_link": null,
     "caption": "$300/month, starting at 25, at 10% return:\n\nBy 65 → ~$1.9 MILLION\n\nYou contributed only ~$144K of your own money.\nThe other ~$1.7M? Compounding doing the work.\n\nThe cruel part:\nStart at 35 instead → only ~$680K.\n\nA 10-year delay costs you over $1M.\n\nThe best day was 10 years ago. The second best is today.\n\n#AlphaEngineer #CompoundInterest #WealthBuilding #Investing #FinancialFreedom #EngineerLife #StartNow"
+  },
+  {
+    "number": "21",
+    "theme": "Pay yourself first — automate savings before you spend",
+    "higgsfield_prompt": "Cinematic close-up of a banking app automating a savings transfer the moment a paycheck deposits, clean dark OLED screen with soft green confirmation glow, hands resting still beside the phone, minimal desk background, shallow depth of field, ultra-realistic, 4K quality",
+    "voiceover": "Most people save whatever is left at the end of the month. There is never anything left. The system that works is simple: the moment your paycheck hits, a fixed amount moves automatically into a separate account. You never see it. You never spend it. Wealth is built on autopilot.",
+    "genre": "finance",
+    "paired_post": 18,
+    "affiliate_link": null,
+    "caption": "Most people save whatever is left at the end of the month.\n\nThere is never anything left.\n\nThe fix is automatic:\n1. Paycheck hits → auto-transfer fires\n2. Bills account, investments account, emergency account — all funded before you touch a dollar\n3. You spend what's left without guilt\n\nPay yourself first. Automate it. Never touch it.\n\nWhich account do you auto-fund first? 👇\n\n#AlphaEngineer #WealthMindset #PayYourselfFirst #PersonalFinance #FinancialFreedom #AutomateSavings #EngineerLife #WealthBuilding"
+  },
+  {
+    "number": "22",
+    "theme": "5 Claude prompts that save engineers 10+ hours every week",
+    "higgsfield_prompt": "Dynamic overhead shot of multiple chat interfaces generating text and code simultaneously on dark monitors, cyan and white text streaming in real-time, engineer hands moving efficiently between keyboard and screens, electric blue ambient glow, cinematic tech aesthetic, 4K quality",
+    "voiceover": "Engineers spend more than ten hours every week on tasks that language models can do in seconds. Documentation. Status reports. Code review summaries. Meeting prep. Test case generation. Five prompts. Ten hours back. Every week.",
+    "genre": "tech",
+    "paired_post": 87,
+    "affiliate_link": null,
+    "caption": "5 Claude prompts saving engineers 10+ hours every week:\n\n1. \"Summarize this code diff as a PR description\"\n2. \"Write a weekly status update from these bullet points\"\n3. \"Generate edge case tests for this function\"\n4. \"Explain this error and suggest the top 3 fixes\"\n5. \"Turn these meeting notes into action items with owners\"\n\n10 hours/week × 50 weeks = 500 hours back per year.\n\nSave this post. Start using them Monday.\n\n#AlphaEngineer #AITools #ClaudeAI #EngineerProductivity #AIAutomation #SoftwareEngineering #EngineerLife #WorkSmarter"
+  },
+  {
+    "number": "23",
+    "theme": "From $0 to $500/mo with affiliate marketing — the exact blueprint",
+    "higgsfield_prompt": "Cinematic pull-back shot from a laptop screen showing an affiliate dashboard with growing commission bars in deep green, clean minimal desk setup, warm studio light, open notebook beside the keyboard with handwritten income targets, professional creator atmosphere, 4K quality",
+    "voiceover": "Zero to five hundred dollars a month with affiliate marketing. No product. No team. No upfront cost. Step one: pick one tool you already use and love. Step two: join its affiliate program. Step three: mention it where you already talk. Step four: add the link. That is the entire blueprint.",
+    "genre": "business",
+    "paired_post": 56,
+    "affiliate_link": "https://try.elevenlabs.io/alphaengineer-ig",
+    "caption": "The $0 → $500/mo affiliate blueprint — no product, no team, no upfront cost:\n\nStep 1: Pick 1 tool you already use\nStep 2: Join its affiliate program (most are free in 5 min)\nStep 3: Talk about it where you already talk\nStep 4: Drop your link\n\nRepeatable formula:\n• 1 mention/week × 12 months = compounding audience\n• ElevenLabs pays 22% recurring for 12 months\n• $500/mo = ~15 sign-ups with the right audience\n\nThe tool I use daily and earn from → https://try.elevenlabs.io/alphaengineer-ig\n\n#AlphaEngineer #AffiliateMarketing #PassiveIncome #SideHustle #EngineerLife #FinancialFreedom #MakeMoneyOnline #AITools"
+  },
+  {
+    "number": "24",
+    "theme": "Stop calculating salary per year — calculate per hour of freedom",
+    "higgsfield_prompt": "Cinematic extreme close-up of a calendar with most days crossed out in red except a few glowing white ones, camera slowly pulling back to reveal the calendar pinned to an office wall beside a large window overlooking a city, dramatic natural light, film grain, 4K quality",
+    "voiceover": "Your company tells you your salary in years. That hides the real number. Divide it by two thousand working hours. Now look at how many of those hours you actually control. That gap between your hourly rate and the hours you own is the metric that matters. Close that gap.",
+    "genre": "documentary",
+    "paired_post": 11,
+    "affiliate_link": null,
+    "caption": "Stop thinking about your salary in years.\n\nThink in hours of freedom.\n\nThe real calculation:\n$100K salary ÷ 2,000 hrs = $50/hr\n\nNow ask: how many of those 2,000 hours do you actually control?\n\nMeeting you didn't need: -1 hr\nCommute: -2 hrs/day\nAdmin work an AI could do: -3 hrs/day\n\nYou're not selling $50/hr. You're selling way more — for far less than you think.\n\nThe goal: close the gap between your rate and your freedom hours.\n\n#AlphaEngineer #WealthMindset #FinancialFreedom #EngineerLife #TimeIsMoney #WorkSmarter #SalaryNegotiation #AITools"
+  },
+  {
+    "number": "25",
+    "theme": "BTS: I built this entire content pipeline with AI",
+    "higgsfield_prompt": "Behind-the-scenes documentary style shot of a single laptop on a minimal desk, terminal windows and AI interfaces open side by side, scripts auto-generating and content cards appearing in real-time, warm ambient home office lighting, slow camera push-in, authentic creator atmosphere, 4K quality",
+    "voiceover": "Here is exactly how this content pipeline works. One Claude prompt generates a week of posts. A Python script turns them into carousels. GitHub Actions publishes automatically. Higgsfield renders the reels. The entire system cost zero dollars and runs itself. You can steal every part of it.",
+    "genre": "tech",
+    "paired_post": 87,
+    "affiliate_link": "https://try.elevenlabs.io/alphaengineer-ig",
+    "caption": "I built this entire content pipeline with AI. Here's the BTS:\n\n🔧 The full stack:\n1. Claude → writes all posts from one weekly prompt\n2. Python + Playwright → renders carousels automatically\n3. GitHub Actions → publishes on schedule, every platform\n4. Higgsfield → generates the reels from a single voiceover\n5. ElevenLabs → AI voice for every reel audio\n\nTotal weekly time: ~15 minutes.\nTotal cost: near zero.\n\nYou don't need a team. You need a system.\n\nThe AI voice tool that powers the audio → https://try.elevenlabs.io/alphaengineer-ig\n\n#AlphaEngineer #BuildInPublic #AIAutomation #ContentCreation #AITools #SideHustle #EngineerLife #BehindTheScenes"
   }
 ]
