@@ -238,5 +238,55 @@
     "paired_post": 87,
     "affiliate_link": "https://try.elevenlabs.io/alphaengineer-ig",
     "caption": "I built this entire content pipeline with AI. Here's the BTS:\n\n🔧 The full stack:\n1. Claude → writes all posts from one weekly prompt\n2. Python + Playwright → renders carousels automatically\n3. GitHub Actions → publishes on schedule, every platform\n4. Higgsfield → generates the reels from a single voiceover\n5. ElevenLabs → AI voice for every reel audio\n\nTotal weekly time: ~15 minutes.\nTotal cost: near zero.\n\nYou don't need a team. You need a system.\n\nThe AI voice tool that powers the audio → https://try.elevenlabs.io/alphaengineer-ig\n\n#AlphaEngineer #BuildInPublic #AIAutomation #ContentCreation #AITools #SideHustle #EngineerLife #BehindTheScenes"
+  },
+  {
+    "number": "26",
+    "theme": "The algorithm rewards consistency, not perfection",
+    "higgsfield_prompt": "Cinematic time-lapse of a content calendar filling in day by day on a dark monitor, small consistent green checkmarks appearing one after another, soft cyan ambient glow, minimal home office desk, slow camera push-in, ultra-clean aesthetic, 4K quality",
+    "voiceover": "Most creators quit because their best post flopped. Here is what they miss. The algorithm does not reward your best post. It rewards your hundredth post. Consistency beats perfection every single time, because the system learns from volume, not from one viral moment. Show up. Keep showing up. The reach compounds.",
+    "genre": "drama",
+    "paired_post": 87,
+    "affiliate_link": null,
+    "caption": "The algorithm doesn't reward your best post.\n\nIt rewards your 100th post.\n\nMost creators quit after one flop. They're optimizing for the wrong thing:\n• Perfection → 1 post, then burnout\n• Consistency → 100 posts, then compounding reach\n\nThe platform learns from volume, not from a single viral moment.\n\nShow up. Keep showing up. The reach compounds.\n\nWhat's stopping you from posting daily? 👇\n\n#AlphaEngineer #BuildInPublic #ContentCreation #CreatorMindset #Consistency #EngineerLife #SideHustle #GrowthMindset"
+  },
+  {
+    "number": "27",
+    "theme": "I replaced 3 paid tools with one free AI workflow",
+    "higgsfield_prompt": "Cinematic shot of three glowing subscription icons fading out on a dark screen while a single clean AI workflow node lights up brighter in their place, electric blue and cyan accents, minimal desk, dramatic transition, ultra-realistic, 4K quality",
+    "voiceover": "I was paying for three separate tools every month. A writer, a designer, a scheduler. Then I built one free AI workflow that does all three. Claude writes the content. A script renders the visuals. A free scheduler publishes it. Three subscriptions gone. The whole thing runs for zero dollars a month.",
+    "genre": "tech",
+    "paired_post": 87,
+    "affiliate_link": null,
+    "caption": "I replaced 3 paid tools with one free AI workflow.\n\nWhat I was paying for:\n💸 Copywriting tool\n💸 Design tool\n💸 Scheduling tool\n\nWhat I use now:\n1. Claude → writes everything\n2. Python + Playwright → renders the visuals\n3. A free scheduler → publishes automatically\n\nSame output. $0/month.\n\nThe trick isn't fewer tools. It's chaining free ones into a system.\n\nWhich subscription would you cut first? 👇\n\n#AlphaEngineer #AITools #AIAutomation #BuildInPublic #FreeTools #EngineerLife #SideHustle #WorkSmarter"
+  },
+  {
+    "number": "28",
+    "theme": "This compound interest chart changed how I spend money",
+    "higgsfield_prompt": "Cinematic extreme close-up of a compound interest chart on a tablet, a single small coffee-sized expense morphing into a towering exponential green curve climbing off the screen, dark background with soft emerald glow, dramatic shallow depth of field, ultra-realistic, 4K quality",
+    "voiceover": "This one chart changed how I spend money. A five dollar daily expense feels like nothing. But invested instead at ten percent, that same five dollars a day becomes over three hundred thousand dollars in thirty years. I am not telling you to never buy coffee. I am telling you to know what each dollar could become before you spend it.",
+    "genre": "finance",
+    "paired_post": 50,
+    "affiliate_link": null,
+    "caption": "This compound interest chart changed how I spend money.\n\n$5/day feels like nothing.\n\nBut invested at 10% instead:\n• 10 years → ~$31K\n• 20 years → ~$114K\n• 30 years → ~$339K\n\nThat's one small daily expense.\n\nI'm not saying never buy coffee.\n\nI'm saying: know what each dollar could become before you spend it.\n\nThe mindset shift isn't restriction. It's awareness.\n\nWhat's your $5/day habit? 👇\n\n#AlphaEngineer #CompoundInterest #WealthMindset #PersonalFinance #FinancialFreedom #Investing #EngineerLife #MoneyHabits"
+  },
+  {
+    "number": "29",
+    "theme": "Engineers who freelance make 2x their salary — here's how",
+    "higgsfield_prompt": "Cinematic split scene: left side an engineer at a single corporate monitor under cold light, right side the same engineer at a dual-screen setup with a freelance dashboard showing incoming project payments in warm light, seamless transition, professional film quality, 4K",
+    "voiceover": "Engineers who freelance on the side often make double their salary. Here is how. Your employer pays you for forty hours, but charges clients three times your rate for the same work. When you freelance, you capture that markup directly. Ten focused hours a week at your real market rate adds up fast. You already have the skill. You are just letting someone else sell it.",
+    "genre": "business",
+    "paired_post": 65,
+    "affiliate_link": null,
+    "caption": "Engineers who freelance make 2x their salary. Here's the math:\n\nYour employer pays you $50/hr.\nThey bill clients $150/hr for your work.\n\nThat 3x markup? It goes to the company, not you.\n\nWhen you freelance, you capture it directly:\n• 10 hrs/week at your real market rate\n• No middleman taking the spread\n• Skills you already have, sold at full value\n\nYou're not learning anything new. You're just keeping the markup.\n\nWould you freelance on the side? 👇\n\n#AlphaEngineer #Freelance #SideHustle #EngineerLife #PassiveIncome #FinancialFreedom #SoftwareEngineer #MakeMoreMoney"
+  },
+  {
+    "number": "30",
+    "theme": "I built a passive income stream in a weekend using AI",
+    "higgsfield_prompt": "Cinematic documentary-style shot of a single laptop on a minimal weekend desk by a sunlit window, AI interfaces and a product landing page open side by side, a phone showing the first incoming sale notification, warm natural light, authentic creator atmosphere, slow camera push-in, 4K quality",
+    "voiceover": "I built a passive income stream in one weekend using AI. Saturday morning, I picked a problem engineers actually have. By the afternoon, Claude helped me build the tool. Sunday, I wrote the landing page and set up payments. By Sunday night, it was live. It is not millions. But it earns while I sleep, and it took a weekend, not a year.",
+    "genre": "tech",
+    "paired_post": 23,
+    "affiliate_link": "https://try.elevenlabs.io/alphaengineer-ig",
+    "caption": "I built a passive income stream in one weekend using AI.\n\nThe weekend breakdown:\n\n🗓️ Saturday AM → Picked a real problem engineers have\n🗓️ Saturday PM → Claude helped me build the tool\n🗓️ Sunday AM → Wrote the landing page\n🗓️ Sunday PM → Set up payments, went live\n\nBy Sunday night: it was earning.\n\nIt's not millions. But it runs while I sleep — and it took a weekend, not a year.\n\nThe AI voice tool in my build stack → https://try.elevenlabs.io/alphaengineer-ig\n\nWhat would you build in a weekend? 👇\n\n#AlphaEngineer #PassiveIncome #BuildInPublic #AITools #SideHustle #EngineerLife #IndieHacker #FinancialFreedom"
   }
 ]
