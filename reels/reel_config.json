@@ -288,5 +288,105 @@
     "paired_post": 23,
     "affiliate_link": "https://try.elevenlabs.io/alphaengineer-ig",
     "caption": "I built a passive income stream in one weekend using AI.\n\nThe weekend breakdown:\n\n🗓️ Saturday AM → Picked a real problem engineers have\n🗓️ Saturday PM → Claude helped me build the tool\n🗓️ Sunday AM → Wrote the landing page\n🗓️ Sunday PM → Set up payments, went live\n\nBy Sunday night: it was earning.\n\nIt's not millions. But it runs while I sleep — and it took a weekend, not a year.\n\nThe AI voice tool in my build stack → https://try.elevenlabs.io/alphaengineer-ig\n\nWhat would you build in a weekend? 👇\n\n#AlphaEngineer #PassiveIncome #BuildInPublic #AITools #SideHustle #EngineerLife #IndieHacker #FinancialFreedom"
+  },
+  {
+    "number": "31",
+    "theme": "Claude Projects: the AI workspace that remembers everything",
+    "higgsfield_prompt": "Cinematic top-down shot of an engineer's desk with multiple browser windows open showing Claude AI project interface, organized sticky notes and documents surrounding the laptop, cool blue ambient lighting, minimal aesthetic, slow crane-down shot, 4K",
+    "voiceover": "Claude Projects is the AI workspace most engineers are missing. You upload your codebase, your style guide, your notes — and every conversation builds on the last one. No re-explaining. No re-uploading. Just context that compounds.",
+    "genre": "tech",
+    "paired_post": 76,
+    "affiliate_link": null,
+    "caption": "The AI feature most engineers ignore: Claude Projects.\n\nInstead of starting every conversation from scratch:\n\n📁 Project 1 → My codebase context (architecture, constraints, conventions)\n📁 Project 2 → My content system (brand voice, post formats, analytics)\n📁 Project 3 → My learning log (books, papers, courses I've covered)\n\nEvery session picks up where the last one ended.\n\nThis is the difference between using AI as a search engine vs using it as a persistent collaborator.\n\nWhich AI tool are you using for persistent context? 👇\n\n#AlphaEngineer #ClaudeAI #AITools #BuildInPublic #EngineerLife #AIProductivity #SideHustle #FinancialFreedom"
+  },
+  {
+    "number": "32",
+    "theme": "The dividend reinvestment snowball — visualized",
+    "higgsfield_prompt": "Cinematic macro shot of a single coin dropping into a glass jar already filled with coins, then cutting to a wide shot of a growing pile of coins forming a snowball shape on a minimalist surface, warm golden lighting, smooth slow motion, financial editorial style, 4K",
+    "voiceover": "Dividend reinvestment is a snowball. The first year, dividends are small. You reinvest them. They buy more shares. Those shares pay more dividends. You reinvest those. Twenty years later, the snowball is doing most of the work for you.",
+    "genre": "drama",
+    "paired_post": 48,
+    "affiliate_link": null,
+    "caption": "The dividend reinvestment snowball — visualized.\n\nYear 1: invest $10,000 at 4% yield → $400 dividends\nYear 2: $10,400 invested → $416 dividends\nYear 5: $12,167 invested → $487 dividends\nYear 10: $14,802 invested → $592 dividends\nYear 20: $21,911 invested → $876 dividends\n\nSame initial $10,000. Zero additional contributions.\n\nThe snowball isn't impressive early. It's overwhelming late.\n\nAnd engineers who start their DRIP at 25 instead of 35 end up with dramatically different outcomes.\n\nAre you reinvesting dividends automatically? 👇\n\n#AlphaEngineer #DividendInvesting #DRIP #PassiveIncome #WealthBuilding #EngineerFinance #FinancialFreedom #CompoundInterest"
+  },
+  {
+    "number": "33",
+    "theme": "Selling AI prompts — the highest margin digital product",
+    "higgsfield_prompt": "Cinematic close-up of fingers typing a prompt into a minimalist AI interface on a laptop, then cutting to a phone showing a payment notification with dollar amount, clean white desk aesthetic, soft morning light, product photography style, 4K",
+    "voiceover": "The highest margin product you can sell is a text file. A well-engineered AI prompt that consistently produces valuable output costs nothing to replicate and can be sold indefinitely. Engineers who think in inputs and outputs already have the mental model to build this.",
+    "genre": "tech",
+    "paired_post": 77,
+    "affiliate_link": "https://try.elevenlabs.io/alphaengineer-ig",
+    "caption": "The highest-margin digital product: a text file.\n\nAI prompts that sell:\n• Resume rewrite template → $10-25\n• LinkedIn bio prompt → $12-20\n• Code review framework → $15-30\n• YouTube script structure → $10-18\n\nMath: 10 sales/month × $15 = $150 passive\nStack 5 prompt packs = $750/month\n\nEngineers already think in inputs and outputs.\nBuilding a prompt is just spec writing.\n\nCreate one. Document it. List it. Earn on every sale.\n\nAI voice tool I use to demo products → https://try.elevenlabs.io/alphaengineer-ig\n\n#AlphaEngineer #PassiveIncome #DigitalProducts #AIPrompts #SideHustle #EngineerLife #Gumroad #AITools"
+  },
+  {
+    "number": "34",
+    "theme": "How I automated my content pipeline — the real workflow",
+    "higgsfield_prompt": "Cinematic overhead shot of a laptop showing a GitHub Actions workflow running successfully with green checkmarks, surrounded by notebooks and sticky notes mapping out a content automation diagram, cool blue office light at night, documentary editorial style, 4K",
+    "voiceover": "My content pipeline runs on GitHub Actions. A JSON file holds every post idea. A script generates the visuals. Another script publishes to Instagram, Threads, and YouTube Shorts on schedule. My weekly input: thirty minutes reviewing outputs. The system does the posting.",
+    "genre": "tech",
+    "paired_post": 87,
+    "affiliate_link": null,
+    "caption": "My content pipeline is a GitHub Actions workflow.\n\nHere's what runs automatically:\n\n⚙️ posts.json → 100 post ideas queued\n⚙️ Playwright → renders carousel PNGs from HTML templates\n⚙️ publishers/ → posts to IG + Threads + YouTube Shorts\n⚙️ Scheduler → runs every Wednesday at 11am ET\n\nMy weekly input: 30 minutes reviewing outputs.\n\nThe machine does the posting. I do the strategy.\n\nThis is what I mean by engineering your content system — not grinding it.\n\nWhat does your content workflow look like? 👇\n\n#AlphaEngineer #ContentAutomation #BuildInPublic #GitHubActions #AITools #EngineerLife #SideHustle #CreatorEconomy"
+  },
+  {
+    "number": "35",
+    "theme": "Beehiiv newsletter: $500/month at 1,000 subscribers",
+    "higgsfield_prompt": "Cinematic shot of a phone on a desk showing a newsletter analytics dashboard with subscriber count climbing, a MacBook in background with Beehiiv editor open, warm morning coffee shop atmosphere, editorial documentary style, shallow depth of field, 4K",
+    "voiceover": "A Beehiiv newsletter at one thousand paid subscribers generates five hundred dollars a month. That is not the dream outcome. That is the realistic early milestone. Engineers who write about real problems they have solved build the fastest-growing technical newsletters right now.",
+    "genre": "drama",
+    "paired_post": 88,
+    "affiliate_link": null,
+    "caption": "Beehiiv newsletter math at 1,000 paid subscribers:\n\n1,000 × $5/month = $5,000/month\n1,000 × $10/month = $10,000/month\n\nRealistic early milestone (500 paid):\n500 × $8/month = $4,000/month\n\nEngineers who write about:\n• Systems they actually built\n• Tools they honestly tested\n• Decisions that went wrong\n\n...build the highest-converting technical newsletters.\n\nYou already know things that professionals pay to learn.\n\nBeehiiv has zero revenue cut (unlike Substack's 10%).\n\nWhat would your newsletter be about? 👇\n\n#AlphaEngineer #Newsletter #Beehiiv #PassiveIncome #EngineerLife #WritingOnline #SideHustle #ContentCreator"
+  },
+  {
+    "number": "36",
+    "theme": "Suno AI: royalty-free music for your content in 30 seconds",
+    "higgsfield_prompt": "Cinematic macro shot of audio waveforms visualizing on a laptop screen in a dark recording studio atmosphere, headphones beside the keyboard, a phone playing back the generated audio, deep blue and purple ambient lighting, music production editorial style, 4K",
+    "voiceover": "Suno AI generates full original songs from a text prompt in under sixty seconds. No licensing. No copyright strikes. No monthly music subscription. Describe the mood, the tempo, the genre — and it builds you a track that fits your content exactly.",
+    "genre": "tech",
+    "paired_post": 73,
+    "affiliate_link": null,
+    "caption": "Suno AI solves the content creator music problem permanently.\n\nText prompt → original track in 60 seconds:\n\n🎵 \"Lo-fi instrumental, 120 BPM, uplifting, no lyrics\" → YouTube background music\n🎵 \"60-second electronic build, tech feel, energetic\" → YouTube Shorts intro\n🎵 \"Cinematic ambient, minimal, professional\" → Instagram Reel bed\n\nFree tier: 50 credits/day (10 songs)\nPro ($8/month): 2,500 credits + commercial use rights\n\nIf your content earns money, the $8 is non-negotiable.\nEverything else is free.\n\nNo more Content ID strikes. No more muted Reels.\n\n#AlphaEngineer #SunoAI #ContentCreator #AITools #RoyaltyFreeMusic #YouTubeShorts #InstagramReels #CreatorTools"
+  },
+  {
+    "number": "37",
+    "theme": "Real estate vs index funds: the engineer's framework",
+    "higgsfield_prompt": "Cinematic split-screen: left side a modern apartment building exterior at golden hour, right side a brokerage app showing index fund portfolio in green, both sides converge into a single image of a thoughtful engineer reviewing data on a laptop, professional financial documentary style, 4K",
+    "voiceover": "Real estate versus index funds is a false choice. Engineers who understand risk-adjusted returns recognize they serve different roles in a portfolio. Real estate is concentrated leverage. Index funds are diversified compounding. The question is not which one — it is which one to start with given your current capital and risk tolerance.",
+    "genre": "business",
+    "paired_post": 75,
+    "affiliate_link": null,
+    "caption": "Real estate vs index funds — the engineer's framework:\n\n📊 Index Funds:\n✅ Low friction (start with $1)\n✅ Automatic diversification\n✅ 7-10% historical annual return\n❌ No leverage\n❌ No tax depreciation\n\n🏠 Real Estate:\n✅ Leverage (control $400K with $80K)\n✅ Tax advantages (depreciation, 1031)\n✅ Cash flow potential\n❌ High friction (capital, credit, management)\n❌ Concentrated risk\n\nThe answer most engineers miss:\nBoth. In sequence.\n\nBuild the index fund base first. Use it as financial stability to take on real estate risk later.\n\nWhich one are you building right now? 👇\n\n#AlphaEngineer #IndexFunds #RealEstate #WealthBuilding #EngineerFinance #Investing #FinancialFreedom #FIRE"
+  },
+  {
+    "number": "38",
+    "theme": "Zapier vs Make.com: which automation tool engineers should actually use",
+    "higgsfield_prompt": "Cinematic shot of two browser windows side by side on a widescreen monitor — one showing Zapier's step-by-step interface, the other showing Make.com's visual canvas — an engineer's hand moving a mouse between them in decision mode, cool office lighting, tech editorial style, 4K",
+    "voiceover": "Zapier and Make.com automate the same workflows, at very different price points. Zapier is simpler and more expensive. Make.com is more powerful and costs a fraction. Engineers who think in logic flows will find Make.com builds exactly the kind of conditional, branching automations that Zapier cannot.",
+    "genre": "tech",
+    "paired_post": 47,
+    "affiliate_link": null,
+    "caption": "Zapier vs Make.com — the honest breakdown:\n\n⚡ Zapier:\n• Simpler interface, linear steps\n• 5,000+ integrations\n• Free: 100 tasks/month, 5 Zaps\n• Paid: from $19.99/month\n• Best for: non-technical teams, quick setups\n\n⚙️ Make.com:\n• Visual canvas, drag-and-drop modules\n• Advanced logic: loops, iterators, error handlers\n• Core plan: $9/month for 10,000 operations\n• Same tools, 1/3 the price at scale\n• Best for: engineers who want control\n\nMy content pipeline runs on Make.com.\nConditional routing: IG vs Threads vs YouTube Shorts based on content type.\nZapier couldn't build this workflow cleanly.\n\nFor engineers: Make.com wins.\nFor non-technical teams: Zapier is safer.\n\nWhich automation tool do you use? 👇\n\n#AlphaEngineer #Zapier #MakeCom #Automation #NoCode #EngineerTools #AITools #WorkflowAutomation"
+  },
+  {
+    "number": "39",
+    "theme": "ChatGPT o3: the reasoning model for hard engineering problems",
+    "higgsfield_prompt": "Cinematic close-up of an engineer's face illuminated by laptop screen glow showing a complex problem being analyzed step-by-step in a chat interface, thought-process visualization with branching logic diagrams overlaid, dark room with single light source, deep focus, 4K",
+    "voiceover": "o3 pauses before answering. It breaks the problem down. It considers alternatives. Then it responds. For hard engineering decisions — architecture tradeoffs, debugging complex logic, algorithm design — that pause produces dramatically better output than any model that answers immediately.",
+    "genre": "tech",
+    "paired_post": 93,
+    "affiliate_link": null,
+    "caption": "ChatGPT o3 changes how you use AI for hard problems.\n\nMost models: question in → answer out instantly.\no3: question in → internal reasoning → structured answer.\n\nWhere the pause matters:\n\n🏗️ Architecture decisions → considers edge cases before recommending\n🐛 Complex debugging → traces execution paths systematically\n📐 Algorithm design → evaluates multiple approaches with tradeoffs\n📊 Math-heavy analysis → shows reasoning you can audit and correct\n\nWhere it's overkill:\n• Code autocomplete → use Copilot\n• Boilerplate generation → use standard Claude/GPT\n• Quick lookups → use search\n\no3-mini: free in ChatGPT\nFull o3: ChatGPT Plus ($20/month)\n\nFor high-stakes engineering decisions: the wait is worth it.\n\n#AlphaEngineer #ChatGPT #OpenAI #o3 #AITools #EngineerLife #AIReasoning #AIProductivity"
+  },
+  {
+    "number": "40",
+    "theme": "Faceless YouTube: what the income actually looks like at 12 months",
+    "higgsfield_prompt": "Cinematic shot of a laptop showing a YouTube Studio dashboard with a growing subscriber count graph and RPM analytics visible, no face or identifying features visible, home office setting at night, phone showing notification of new subscriber, documentary style, 4K",
+    "voiceover": "A faceless YouTube channel at twelve months looks like this. The first three months: nothing. Month four: the first subscriber push. Month six: YPP approved, first ad revenue check. Month twelve: ad revenue plus affiliate income plus email list conversions. Not life-changing numbers. But a real second income stream that runs without showing your face.",
+    "genre": "drama",
+    "paired_post": 46,
+    "affiliate_link": "https://try.elevenlabs.io/alphaengineer-ig",
+    "caption": "Faceless YouTube at 12 months — the real timeline:\n\nMonth 1-3: 0 subscribers. Post consistently anyway.\nMonth 4: algorithm picks up one video. Subscriber spike.\nMonth 5: 500 subs. First email list signups from description.\nMonth 6: 1,000 subs + 4,000 watch hours → YPP approved.\nMonth 7: first ad revenue. ($50-200/month depending on niche)\nMonth 9: first affiliate commission. ($100-400/month)\nMonth 12: $300-800/month total. First sponsorship email.\n\nThe math isn't life-changing at month 12.\nIt's life-changing at month 36 when the compound effect kicks in.\n\nAI voice tool for faceless channels → https://try.elevenlabs.io/alphaengineer-ig\n\n#AlphaEngineer #FacelessYouTube #YouTubePassiveIncome #ContentCreator #SideHustle #PassiveIncome #EngineerLife #AITools"
   }
 ]

@@ -2996,6 +2996,1059 @@ Follow for the complete free AI toolkit breakdown — link in bio.
 
 ---
 
+## Shorts #76 — Claude Projects: the AI workspace most engineers ignore
+**Pillar:** AI Tools
+**Pexels keyword:** ai chat interface laptop workspace
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Claude Projects is probably the most underused feature in AI right now. Here's what it actually does.
+
+[BODY - 45秒]
+Most engineers use Claude like a search bar — one question in, one answer out, then start fresh.
+
+Projects changes that completely.
+
+You create a Project and Claude remembers everything inside it. Your codebase context. Your writing style. Your technical constraints. Every conversation builds on the last one.
+
+Here's how I use it:
+
+Project one: my content system.
+I've uploaded my brand guidelines, post formats, and audience notes. Every new post I generate stays on-brand automatically.
+
+Project two: my side project codebase.
+I paste in the key files once. Then I ask architecture questions, debug issues, and generate new features without re-explaining the setup every time.
+
+Project three: learning tracker.
+I'm studying distributed systems. Every paper I read, I paste the key points. Claude becomes a tutor that knows exactly what I've already covered.
+
+Three separate contexts. No information bleeding between them. And no repetitive setup every session.
+
+This is what AI-assisted engineering actually looks like — not chatting, building a persistent workspace.
+
+[OUTRO - 5秒]
+Follow for more AI workflow breakdowns that engineers actually use.
+```
+
+**Thumbnail text:** `CLAUDE PROJECTS TRICK`
+**Tags:** claude ai,claude projects,ai tools,ai workspace,engineer tools,llm tips,ai productivity
+
+---
+
+## Shorts #77 — Selling AI prompts: the lowest-effort digital product
+**Pillar:** Passive Income
+**Pexels keyword:** digital product online store laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+You can sell a text file for $10. AI prompts are the most underpriced digital product right now.
+
+[BODY - 45秒]
+Here's the business model: engineer a prompt that consistently produces high-value output, document it, and sell it on Gumroad or Etsy.
+
+That's it. No inventory. No shipping. No customer service beyond a PDF.
+
+What actually sells:
+Resume templates with ChatGPT prompts. Job seekers pay $10-30 to get a resume that actually passes ATS filters.
+LinkedIn profile rewrite prompts. Professionals pay $15-25 for a prompt that sounds like a copywriter wrote their bio.
+Code review templates. Junior devs pay $20 to get systematic feedback on their pull requests.
+YouTube script frameworks. Content creators pay $12-20 for a prompt that structures viral scripts.
+
+The math:
+10 sales per month × $15 average = $150 passive income.
+Stack 5 prompt packs = $750/month.
+
+The engineering angle: you already think systematically. You understand inputs and outputs better than most people.
+Building a good prompt is just spec writing.
+
+Start with one problem you've already solved with AI. Document the prompt. List it.
+
+[OUTRO - 5秒]
+Follow for the full breakdown on building a prompt product from scratch.
+```
+
+**Thumbnail text:** `SELL AI PROMPTS $150/MO`
+**Tags:** sell ai prompts,gumroad,digital products,passive income,ai monetization,side hustle,engineer income
+
+---
+
+## Shorts #78 — Kling AI vs Runway ML: which one is actually worth it
+**Pillar:** AI Tools
+**Pexels keyword:** video editing timeline professional studio
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Kling AI and Runway ML both generate video from text. One of them is dramatically better value right now.
+
+[BODY - 45秒]
+Here's the honest comparison after using both for content production.
+
+Runway Gen-3 Alpha:
+High-quality cinematic output. Great for short clips — 10 seconds maximum on standard plan.
+Credits run out fast. $15/month gets you about 25 clips if you're efficient.
+The consistency between clips is mediocre. Matching scenes across shots is a manual process.
+
+Kling AI 1.6:
+5-second and 10-second modes. Quality is genuinely close to Runway — sometimes better on motion.
+The pricing model is credits-based but more transparent. You know exactly what you're buying.
+Text-to-video accuracy is stronger. It follows complex prompts more reliably.
+Professional plan gives you 660 credits per month — enough for a real production workflow.
+
+What I use each for:
+Runway: establishing shots, cinematic product reveals, anything that needs a "premium" look.
+Kling: fast B-roll, demonstration clips, anything requiring accurate motion or scene transitions.
+
+The verdict: Kling gives more usable clips per dollar right now.
+
+If you're building a faceless YouTube channel or social content pipeline — start with Kling.
+
+[OUTRO - 5秒]
+Follow for the full AI video production stack breakdown.
+```
+
+**Thumbnail text:** `KLING vs RUNWAY: VERDICT`
+**Tags:** kling ai,runway ml,ai video,ai tools,faceless youtube,video generation,content creator
+
+---
+
+## Shorts #79 — YouTube Shorts monetization: the real timeline
+**Pillar:** Passive Income
+**Pexels keyword:** youtube studio phone recording setup
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+YouTube Shorts pays almost nothing per view. Here's how you actually make money with Shorts anyway.
+
+[BODY - 45秒]
+The Shorts ad revenue split will disappoint you. $0.03 to $0.05 per 1,000 views on most niches.
+
+But that's not why you build a Shorts channel.
+
+Shorts is a discovery engine.
+
+Here's the funnel that actually generates income:
+
+A viewer finds your Short — maybe a million-view clip that cost you nothing to make with AI tools.
+They check your profile. They see your long-form content.
+They subscribe.
+They watch your long-form videos — which pay $3 to $12 per 1,000 views depending on niche.
+They click an affiliate link in your description.
+They sign up for your email list.
+
+One Shorts viewer who converts to a long-form subscriber is worth 50x a Shorts-only view.
+
+The real monetization timeline:
+Month 1-3: 0 to 1,000 subscribers (Shorts-driven discovery).
+Month 3-6: hit YPP at 4,000 long-form watch hours. Ad revenue starts.
+Month 6-12: affiliate income begins. $200-500/month from product links alone.
+Month 12+: sponsorship emails start coming in.
+
+Shorts is the top of the funnel. Not the business model.
+
+[OUTRO - 5秒]
+Follow for the full breakdown of building a YouTube channel with AI tools.
+```
+
+**Thumbnail text:** `SHORTS MONEY TRUTH`
+**Tags:** youtube shorts,youtube monetization,ypp,passive income,faceless channel,ai tools,content creator
+
+---
+
+## Shorts #80 — Gemini 2.0 Flash: the free model engineers should know about
+**Pillar:** AI Tools
+**Pexels keyword:** google ai interface multiple screens
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Gemini 2.0 Flash is free, fast, and handles tasks that would cost you money in Claude or GPT. Here's what it's actually good at.
+
+[BODY - 45秒]
+This is not a comparison video. I use both Claude and Gemini, and they're good at different things.
+
+Here's where Gemini 2.0 Flash specifically wins:
+
+Long document processing.
+Flash handles a million tokens. That means you can paste an entire codebase, a legal document, or a year of financial statements and ask structured questions across the whole thing.
+Claude Pro handles 200K. Still impressive — but Flash is free and goes further.
+
+Google Workspace integration.
+If your team runs on Google Docs, Sheets, and Gmail — Gemini builds natively into all of it.
+Summarizing meeting notes, drafting emails, analyzing spreadsheets — it's embedded, not pasted.
+
+Multimodal input.
+Upload images, PDFs, audio, video directly. Ask it to describe a diagram, transcribe a recording, or analyze a screenshot.
+All free with a Google account.
+
+Where it's weaker: complex reasoning, nuanced writing, and code architecture.
+That's still Claude territory.
+
+My workflow: use Flash for intake and summarization at scale. Use Claude for synthesis and output quality.
+
+Free tier. Real use cases. Add it to your stack.
+
+[OUTRO - 5秒]
+Follow for more honest AI tool breakdowns for engineers.
+```
+
+**Thumbnail text:** `GEMINI FREE TIER TRICK`
+**Tags:** gemini ai,gemini 2.0,google ai,free ai tools,ai tools,engineer tools,claude vs gemini
+
+---
+
+## Shorts #81 — The net worth milestone nobody talks about
+**Pillar:** Wealth Mindset
+**Pexels keyword:** financial planning spreadsheet wealth tracker
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Everyone talks about hitting $1 million. Nobody talks about the milestone that actually changes how you live — and it's much lower.
+
+[BODY - 45秒]
+The number that changes behavior isn't $1 million.
+
+It's 3 months of expenses in savings.
+
+Here's why: below this number, every financial decision is made from scarcity. One car repair derails your investment plan. One medical bill clears your account. You take the safe job, not the ambitious one, because you can't afford the risk.
+
+Above 3 months of expenses, something shifts.
+
+You negotiate your salary differently. You can walk away. You can wait.
+You take calculated risks. A failed side project doesn't threaten your rent.
+You invest consistently. Market dips become buying opportunities, not emergencies.
+
+The second milestone: 6 months of expenses.
+
+At 6 months, you can leave a bad job in 48 hours. You can take 2 months to find the right next role. You can start a business while employed without panic.
+
+The third milestone: annual expenses invested.
+
+When you have one year of expenses in the market — the psychological shift is permanent. You stop thinking like an employee and start thinking like an owner.
+
+Most engineers skip these milestones chasing the big number.
+
+Build the foundation first.
+
+[OUTRO - 5秒]
+Follow for the engineer's path to financial independence — one milestone at a time.
+```
+
+**Thumbnail text:** `MILESTONE BEFORE $1M`
+**Tags:** financial independence,net worth,wealth mindset,engineer finance,savings,financial freedom,fire movement
+
+---
+
+## Shorts #82 — NotebookLM: the research tool engineers aren't using
+**Pillar:** AI Tools
+**Pexels keyword:** research notes laptop library study
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+NotebookLM turns any document into a searchable, Q&A-able knowledge base. It's free and most engineers have never opened it.
+
+[BODY - 45秒]
+Google's NotebookLM is one of the most underused free AI tools available.
+
+Here's what it does: you upload sources — PDFs, Google Docs, URLs, audio — and it creates a private AI model trained only on those documents.
+
+Then you ask questions and it answers with exact citations from your sources.
+
+How engineers actually use it:
+
+Technical documentation research.
+Paste in 10 API docs and one internal spec. Ask "what's the recommended approach for rate limiting?" It pulls from all 10 documents simultaneously.
+
+Architecture decision records.
+Upload your team's past ADRs. Ask "why did we choose PostgreSQL over MongoDB?" instead of digging through Confluence.
+
+Job interview prep.
+Upload the company's blog posts, engineering talks, and public architecture diagrams. Ask what their technical challenges are before your interview.
+
+Due diligence.
+Upload a startup's pitch deck, financial projections, and founder backgrounds. Ask questions across all of it.
+
+The Audio Overview feature converts your entire notebook into a podcast-style discussion between two AI hosts summarizing the content.
+
+Free. Private. Tied to your Google account. No data used for training.
+
+[OUTRO - 5秒]
+Follow for the full free AI research toolkit for engineers.
+```
+
+**Thumbnail text:** `NOTEBOOKLM TRICK`
+**Tags:** notebooklm,google ai,research tools,ai tools,engineer tools,free ai,ai productivity
+
+---
+
+## Shorts #83 — Etsy for engineers: selling digital products without showing your face
+**Pillar:** Passive Income
+**Pexels keyword:** digital download shop laptop store
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Etsy isn't just for handmade goods. Engineers are selling digital products there with zero customer contact and zero inventory.
+
+[BODY - 45秒]
+The digital products that sell consistently on Etsy from an engineering background:
+
+Resume templates.
+ATS-optimized Word/Google Docs templates. Engineers pay $8-15 for layouts that actually get through automated screening.
+10 sales per month = $100+ on autopilot.
+
+Excel and Sheets financial templates.
+Budget trackers, investment calculators, net worth dashboards. People pay $5-20 for structured spreadsheets they don't want to build themselves.
+Best-performing price point: $9.
+
+Process documentation templates.
+SOPs, project charters, sprint retrospective frameworks. Small teams pay $10-30 for structure they don't have bandwidth to create.
+
+AI prompt packs.
+Same prompts I mentioned earlier — engineer them once, sell them indefinitely.
+
+The business model:
+Upfront: design the product once (2-6 hours with AI assistance).
+Ongoing: zero. Etsy handles payment, delivery, and file hosting.
+Income: passive once listed and ranked.
+
+The key is SEO inside Etsy. Your title and tags determine discoverability — treat it like a mini Google campaign.
+
+AI helps you write all of it. Product descriptions, bullet points, keyword research — one session in Claude or ChatGPT.
+
+[OUTRO - 5秒]
+Follow for the complete engineer's guide to digital product income.
+```
+
+**Thumbnail text:** `ETSY ENGINEER INCOME`
+**Tags:** etsy digital products,passive income,digital downloads,side hustle,engineer income,ai tools,online business
+
+---
+
+## Shorts #84 — GitHub Copilot: free tier vs Pro — what you're actually getting
+**Pillar:** AI Tools
+**Pexels keyword:** code editor screen developer dark theme
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+GitHub Copilot has a free tier now. Here's what it actually gives you and whether Pro is worth the upgrade.
+
+[BODY - 45秒]
+GitHub Copilot Free launched with VS Code integration. Here's the honest breakdown.
+
+What the free tier includes:
+2,000 code completions per month.
+50 chat messages per month.
+Access to both Claude 3.5 Sonnet and GPT-4o as the underlying model.
+Full integration with VS Code — not limited features, the actual IDE experience.
+
+Where you hit the ceiling:
+2,000 completions sounds like a lot. If you're in a production codebase writing 100+ lines a day, you'll hit it in 2-3 weeks.
+50 chat messages is tight if you use Copilot for code review and architecture discussions.
+
+What Copilot Pro adds:
+$10/month. Unlimited completions. Unlimited chat. Access to Claude Sonnet 3.7 and GPT-4o.
+Copilot Workspace — multi-file editing, PR generation, and issue-to-code pipelines.
+Priority access to newer models as they release.
+
+My recommendation:
+Start free. See if you actually use it daily. If you're hitting limits every month, Pro pays for itself in the time it saves.
+
+The free tier is genuinely useful — especially for engineers who want AI completion without committing to a subscription.
+
+[OUTRO - 5秒]
+Follow for honest reviews of every AI coding tool that matters for engineers.
+```
+
+**Thumbnail text:** `COPILOT FREE vs PRO`
+**Tags:** github copilot,copilot free tier,ai coding,developer tools,engineer tools,vs code,ai productivity
+
+---
+
+## Shorts #85 — Freelancing with AI: how the math changed in 2025
+**Pillar:** Passive Income
+**Pexels keyword:** freelancer laptop coffee shop work
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Freelancing used to mean trading hours for dollars at a fixed rate. AI changed the hourly math completely.
+
+[BODY - 45秒]
+Here's the shift that happened in 2025 for engineers who freelance.
+
+Old model: 10 hours of work. $100/hour. $1,000 delivered.
+
+New model: 3 hours of work. Same quality. Same $1,000 delivered.
+
+You're not working less — you're working smarter. The client pays for the output, not the hours.
+
+What AI actually compresses for engineer freelancers:
+
+Boilerplate generation: what used to take 4 hours of setup now takes 20 minutes with Claude or Copilot writing the scaffolding.
+
+Documentation: 1 hour of writing becomes 15 minutes with AI-assisted drafting and editing.
+
+Code review: instead of 2 hours manually reviewing a PR, 30 minutes with AI spotting the obvious issues first.
+
+Scope estimation: AI helps write detailed proposals faster, meaning you land clients faster too.
+
+The compound effect:
+At $100/hour and 3x productivity, your effective hourly rate is $300.
+Even if you discount your rate to compete on price — you're still winning.
+
+The engineers ignoring AI assistance are working 3x harder for the same income.
+
+[OUTRO - 5秒]
+Follow for more on how AI changes the engineer income equation.
+```
+
+**Thumbnail text:** `3X FREELANCE OUTPUT`
+**Tags:** freelancing,ai tools,engineer freelance,side hustle,passive income,ai productivity,remote work
+
+---
+
+## Shorts #86 — Why your salary has a ceiling — and how to break it
+**Pillar:** Wealth Mindset
+**Pexels keyword:** career growth ladder success professional
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Your salary is capped. Not by your manager. Not by your company. By math.
+
+[BODY - 45秒]
+Here's the ceiling that most engineers don't see until too late.
+
+Your salary is the lower limit of what you cost your company and the upper limit of what they're willing to pay. The space between those two numbers is your leverage. It's finite.
+
+No matter how good you get at your job, the company pays you a market rate plus some premium. That premium has a cap — usually 30-40% above market before they start questioning ROI.
+
+The math: if your market rate is $120K, the realistic ceiling without a title change is $155-160K. That's it.
+
+To break the ceiling, you need a structural change:
+Promotion (title changes the market rate)
+Company change (resets the negotiation baseline)
+Equity (part of the upside, not just salary)
+Income outside employment (no ceiling at all)
+
+The last one is what people miss. Employment income scales linearly. Side income — digital products, content, SaaS, affiliates — scales with systems.
+
+One viral post can earn what a 5% raise takes 6 months to negotiate.
+
+The salary ceiling is real. The question is whether you build above it or accept it.
+
+[OUTRO - 5秒]
+Follow for the engineering approach to breaking financial ceilings.
+```
+
+**Thumbnail text:** `YOUR SALARY CEILING`
+**Tags:** salary negotiation,wealth mindset,financial freedom,engineer income,passive income,career growth,financial independence
+
+---
+
+## Shorts #87 — Midjourney for thumbnails: the exact prompt structure that works
+**Pillar:** AI Tools
+**Pexels keyword:** youtube thumbnail design creative studio
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Midjourney thumbnails consistently outperform stock photos for YouTube CTR. Here's the prompt structure that generates usable thumbnails in one try.
+
+[BODY - 45秒]
+The formula that produces click-worthy YouTube thumbnails in Midjourney:
+
+Subject + emotion + context + style modifiers.
+
+Let me break it down.
+
+Subject: what's in the frame. Be specific.
+Wrong: "a person looking at a phone"
+Right: "a mid-30s male engineer, surprised expression, looking at a glowing smartphone screen"
+
+Emotion: facial expression drives click-through rate more than any other variable.
+Add: "shocked", "excited", "concentrated", "thoughtful" — one strong emotion per thumbnail.
+
+Context: environmental cues that set expectations.
+"in a modern home office", "dark background with gradient light", "neon blue ambient lighting"
+
+Style modifiers: what makes it look like a YouTube thumbnail, not a stock photo.
+"hyperrealistic, cinematic lighting, shallow depth of field, 8k, photography style"
+
+Final modifier: "--ar 16:9 --style raw"
+
+The 16:9 ratio matches YouTube. Style raw reduces Midjourney's default artistic interpretation.
+
+One more tip: generate 4 variations, upscale the best two, test both in YouTube Studio's A/B thumbnail test for 48 hours.
+
+Data beats opinion. Always.
+
+[OUTRO - 5秒]
+Follow for the full AI content production toolkit for engineers.
+```
+
+**Thumbnail text:** `MIDJOURNEY THUMBNAIL FORMULA`
+**Tags:** midjourney,youtube thumbnail,ai tools,content creator,youtube seo,thumbnail design,ai art
+
+---
+
+## Shorts #88 — Beehiiv vs Substack: which one builds a better engineer newsletter
+**Pillar:** Passive Income
+**Pexels keyword:** newsletter email writing laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Engineer newsletters are one of the highest-converting passive income models. The platform you pick matters. Here's the actual comparison.
+
+[BODY - 45秒]
+I've run newsletters on both. Here's the breakdown.
+
+Substack:
+Built-in discovery network. Your content gets recommended to other Substack readers automatically.
+Free to start. They take 10% of paid subscriptions.
+Clean writing experience. No custom domain on free plan.
+Best for: writers who want community and built-in audience discovery.
+
+Beehiiv:
+Zero revenue cut. They charge a flat monthly fee ($42/month at Scale tier) — you keep 100% of subscription income.
+Better analytics. Open rates, click rates, subscriber cohort analysis, revenue attribution.
+3D monetization: paid subscriptions, boosts (they pay you to recommend other newsletters), and ad network.
+Custom domain on all paid plans.
+Best for: engineers who want data, control, and multiple revenue streams.
+
+The math at scale:
+1,000 paid subscribers at $10/month = $10,000/month.
+Substack: you keep $9,000.
+Beehiiv at $42/month: you keep $9,958.
+The delta grows with scale.
+
+My recommendation: if you're treating this as a business, Beehiiv. The analytics alone justify the flat fee.
+
+Start with the free plan either way. Validate before paying.
+
+[OUTRO - 5秒]
+Follow for the full engineer newsletter income breakdown.
+```
+
+**Thumbnail text:** `BEEHIIV vs SUBSTACK`
+**Tags:** beehiiv,substack,newsletter,passive income,email marketing,side hustle,engineer income
+
+---
+
+## Shorts #89 — Suno AI for content creators: generate royalty-free music in 30 seconds
+**Pillar:** AI Tools
+**Pexels keyword:** music production studio recording equipment
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Suno AI generates full songs from a text prompt in under 60 seconds. As a content creator, this changes your licensing problem permanently.
+
+[BODY - 45秒]
+Background music is a persistent problem for content creators. Every platform has different copyright rules. YouTube Content ID flags your videos. Instagram mutes them.
+
+Suno solves this by letting you generate original music from a text description.
+
+Here's how I use it:
+
+For YouTube long-form: "corporate lo-fi instrumental, 120 BPM, uplifting but understated, no lyrics" generates a 2-minute track in 45 seconds.
+
+For YouTube Shorts: "60-second electronic intro, build up at 40 seconds, energetic, tech feel" — clean and usable immediately.
+
+For Reels and TikTok: trending-style audio that sounds like popular tracks without actually being them.
+
+The pricing model:
+Free tier: 50 credits per day. Each song costs 5 credits. That's 10 songs per day for free.
+Pro plan: $8/month for 2,500 credits/month and commercial use rights.
+
+The commercial use clause matters. On the free plan, you can use music for personal content but not for monetized work. If you're earning from your channel, the $8/month is non-negotiable.
+
+Result: unlimited royalty-free music that matches your content's tone exactly.
+
+[OUTRO - 5秒]
+Follow for the full free and low-cost tool stack for content creators.
+```
+
+**Thumbnail text:** `FREE MUSIC AI TRICK`
+**Tags:** suno ai,royalty free music,ai tools,content creator,youtube music,background music,ai music
+
+---
+
+## Shorts #90 — Compound interest visualized: the number that changes how you invest
+**Pillar:** Wealth Mindset
+**Pexels keyword:** compound interest graph financial growth chart
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+The compound interest chart everyone shows you is technically accurate and completely misleading. Here's the version that actually helps you invest.
+
+[BODY - 45秒]
+The standard chart: invest $500/month for 30 years at 7% average return. You end up with $567,000. You invested $180,000. The market added $387,000.
+
+That's real. But it misses the variable that actually matters: when you start.
+
+Here's the version with time as the key variable.
+
+Start at 25: $500/month, 40 years, 7%. Final value: $1.32 million.
+Start at 35: $500/month, 30 years, 7%. Final value: $567,000.
+Start at 45: $500/month, 20 years, 7%. Final value: $262,000.
+
+Same monthly investment. Same return. The 10-year difference between starting at 25 and 35 costs you $753,000.
+
+The engineering insight: compound interest is exponential, not linear. The last 10 years of a 40-year run contribute more than the first 20 years combined.
+
+This is why "I'll start investing when I earn more" is the most expensive decision most engineers make.
+
+The best time to start was 10 years ago. The second best time is this month.
+
+Even $100/month invested now is dramatically better than $500/month started in 10 years.
+
+[OUTRO - 5秒]
+Follow for the engineer's framework for building wealth systematically.
+```
+
+**Thumbnail text:** `COMPOUND INTEREST TRUTH`
+**Tags:** compound interest,investing,wealth mindset,financial independence,engineer finance,stock market,fire movement
+
+---
+
+## Shorts #91 — Zapier vs Make.com: the honest comparison for engineers
+**Pillar:** AI Tools
+**Pexels keyword:** workflow automation software interface
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Zapier and Make.com both automate workflows. They're not actually competing for the same user. Here's how to pick.
+
+[BODY - 45秒]
+After building automations on both platforms, here's the actual difference.
+
+Zapier:
+Simpler interface. Linear, step-by-step. You can build a useful Zap in under 10 minutes.
+5,000+ app integrations — more than any other platform.
+Free tier: 100 tasks per month, 5 Zaps maximum.
+Paid from $19.99/month.
+Best for: non-technical teams, quick integrations, standard business tools.
+
+Make.com (formerly Integromat):
+Visual canvas builder. You drag and drop modules and see the full data flow.
+Much cheaper for high task volumes. The Core plan is $9/month for 10,000 operations.
+Advanced logic: loops, iterators, aggregators, error handlers — things Zapier doesn't expose.
+Steeper learning curve but significantly more powerful.
+Best for: engineers who want control, complex branching logic, or high-volume automations.
+
+Real example: I run a content publishing pipeline with Make. Content generates, transforms, conditionally routes to IG vs Threads vs YouTube based on type. This workflow would cost 3-5x more on Zapier and be harder to debug.
+
+For an engineer: Make.com is almost always the better choice.
+For a business team without technical skills: Zapier is safer.
+
+[OUTRO - 5秒]
+Follow for more automation tool breakdowns for engineers.
+```
+
+**Thumbnail text:** `ZAPIER vs MAKE.COM`
+**Tags:** zapier,make.com,automation,workflow automation,no-code tools,engineer tools,ai automation
+
+---
+
+## Shorts #92 — Substack for engineers: how to build a paid technical newsletter
+**Pillar:** Passive Income
+**Pexels keyword:** writing newsletter tech blog laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Engineers who write about what they actually build are leaving serious money on the table by not charging for it.
+
+[BODY - 45秒]
+Technical newsletters convert better than almost any other content format. Here's why and how to build one.
+
+Why engineers specifically:
+Technical readers trust other practitioners. A newsletter by someone who actually codes beats generic content marketing every time.
+The niche is underserved. Most engineers don't write publicly. The ones who do have almost no competition.
+
+What to write about:
+Systems you've built and what broke.
+Tools you've tried and your honest verdict.
+Decision frameworks for common engineering choices.
+Behind-the-scenes of side projects — the real numbers.
+
+Pricing strategy:
+Free tier: build trust, demonstrate value, grow the list.
+$8-12/month paid tier: get exclusive deep dives, case studies, and source code.
+
+The math:
+500 paid subscribers × $10/month = $5,000/month.
+That's $60,000/year from a newsletter sent twice a month.
+
+Starting on Substack:
+Zero upfront cost. They take 10% of paid subscriptions — acceptable when starting.
+Post your first 5 issues for free. Ask for paid subscribers after you have 100+ free readers.
+
+Your first 3 issues: write about real problems you've already solved. Accuracy builds authority faster than volume.
+
+[OUTRO - 5秒]
+Follow for the full engineer content monetization roadmap.
+```
+
+**Thumbnail text:** `$5K/MO TECH NEWSLETTER`
+**Tags:** substack,technical newsletter,engineer income,passive income,writing,side hustle,content monetization
+
+---
+
+## Shorts #93 — ChatGPT o3 for engineering tasks: what it's actually better at
+**Pillar:** AI Tools
+**Pexels keyword:** ai reasoning problem solving math whiteboard
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+o3 is OpenAI's reasoning model. It thinks before it answers. Here's where that actually matters for engineering work.
+
+[BODY - 45秒]
+Most AI models answer immediately. o3 pauses, breaks the problem down internally, considers alternatives, then responds.
+
+This sounds slower. For certain tasks, it produces dramatically better output.
+
+Where o3 genuinely outperforms standard models:
+
+Algorithm design.
+Ask o3 to design a rate limiting system with specific constraints — it considers edge cases, failure modes, and tradeoffs before answering. Standard models jump to the first solution.
+
+Math-heavy analysis.
+Financial modeling, performance calculations, complexity analysis — o3 shows reasoning steps that you can actually audit and correct.
+
+Debugging complex logic.
+When the bug isn't obvious, o3 traces through execution paths systematically. It's slower than Copilot autocomplete — and far more accurate on hard problems.
+
+System design questions.
+Interview prep, architecture proposals, tradeoff documentation — o3's structured thinking matches how experienced engineers actually work through decisions.
+
+Where it's overkill:
+Boilerplate generation. Code autocomplete. Standard documentation. Use faster models for these.
+
+The model: o3-mini is free in ChatGPT. Full o3 requires ChatGPT Plus at $20/month.
+
+For complex, high-stakes technical decisions: o3 is worth the wait.
+
+[OUTRO - 5秒]
+Follow for honest AI tool comparisons from an engineering perspective.
+```
+
+**Thumbnail text:** `o3 REASONING TRICK`
+**Tags:** chatgpt o3,openai,ai tools,engineer tools,ai reasoning,chatgpt,ai coding
+
+---
+
+## Shorts #94 — The 10x salary rule most engineers get backwards
+**Pillar:** Wealth Mindset
+**Pexels keyword:** salary negotiation professional meeting
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Most engineers optimize to earn more. The engineers building real wealth optimize for a different number entirely.
+
+[BODY - 45秒]
+The rule everyone knows: earn more money.
+
+The rule that actually builds wealth: increase the gap between income and spending.
+
+Here's the math that changes how you think about salary:
+
+Engineer A: earns $120,000. Spends $100,000. Saves and invests $20,000 per year.
+Engineer B: earns $100,000. Spends $60,000. Saves and invests $40,000 per year.
+
+After 10 years at 8% average return:
+Engineer A: $290,000 invested.
+Engineer B: $580,000 invested.
+
+Engineer B earns less and is twice as wealthy.
+
+The leverage point isn't always income — it's often the spending rate.
+
+This doesn't mean live poorly. It means make intentional choices about what your money actually buys in life satisfaction vs what it buys in comfort you've normalized.
+
+The practical application:
+Before every major expense, ask: "What does this buy me, and what does the invested alternative buy me in 10 years?"
+$500/month in lifestyle inflation = approximately $91,000 in lost wealth over 10 years at 7% returns.
+
+The engineers who reach financial independence aren't always the highest earners. They're the ones who built the biggest gap.
+
+[OUTRO - 5秒]
+Follow for the engineer's framework for building lasting wealth.
+```
+
+**Thumbnail text:** `EARN MORE ≠ BUILD WEALTH`
+**Tags:** wealth mindset,financial independence,salary,engineer finance,investing,fire movement,financial freedom
+
+---
+
+## Shorts #95 — Print on demand with AI designs: the actual workflow
+**Pillar:** Passive Income
+**Pexels keyword:** print on demand tshirt product mockup
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Print on demand with AI-generated designs is one of the few truly zero-inventory side hustles. Here's the exact workflow.
+
+[BODY - 45秒]
+The model: design a product, list it, customer buys, third party prints and ships. You never touch inventory.
+
+The AI angle that changed this:
+
+Old workflow: hire a designer or spend hours in Illustrator.
+New workflow: generate designs in Midjourney in 10 minutes. Vectorize with Vectorizer.ai. Upload to Printful or Printify.
+
+The full pipeline:
+
+Step 1: Pick a niche. Engineer humor, systems thinking quotes, tech minimalism — niches with passionate buyers outperform generic.
+
+Step 2: Generate 20 design variations in Midjourney. Cost: $10/month subscription, unlimited generations.
+
+Step 3: Vectorize the best 5. Vectorizer.ai handles this in one click — free for basic use.
+
+Step 4: Upload to Printful. List on Etsy, Amazon Merch, or your own Shopify store. Printful integrates directly.
+
+Step 5: Optimize your Etsy titles and tags with AI — this is where most people give up time they shouldn't.
+
+The math:
+$25 t-shirt, $12 cost. $13 margin. 50 sales per month = $650 passive.
+Scale to 10 designs performing at 5 sales each = same result.
+
+Zero customer contact. Zero inventory. Minimum viable upfront time.
+
+[OUTRO - 5秒]
+Follow for more zero-inventory income models for engineers.
+```
+
+**Thumbnail text:** `AI PRINT ON DEMAND FLOW`
+**Tags:** print on demand,passive income,ai art,midjourney,etsy,side hustle,engineer income
+
+---
+
+## Shorts #96 — Cursor AI agent mode: what it can actually do unsupervised
+**Pillar:** AI Tools
+**Pexels keyword:** autonomous ai coding computer screen
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Cursor's agent mode runs autonomously in your codebase. Here's what it can actually complete without you watching.
+
+[BODY - 45秒]
+Standard AI coding tools autocomplete and suggest. Agent mode operates differently — it reads files, edits code, runs tests, and iterates based on results.
+
+Here's what I've tested with Cursor agent mode:
+
+Feature implementation from spec.
+I wrote a plain English description of a new API endpoint. Agent mode read the existing codebase structure, created the route file, added it to the router, wrote a test, and ran the test — all without me touching the keyboard.
+
+Bug fix from error output.
+Paste a stack trace into the agent. It reads the relevant files, identifies the root cause, applies the fix, and verifies the tests pass.
+
+Refactoring with constraints.
+"Refactor this module to reduce function length to under 30 lines, maintain the same interface." Agent mode splits the file, moves helpers, and keeps all tests green.
+
+What it can't do reliably:
+Complex architectural decisions that require business context.
+Tasks requiring external API access or credentials.
+Anything where the spec is ambiguous — it hallucinates confidently.
+
+The practical use: give it well-defined, contained tasks with clear success criteria (tests pass, linter clean).
+
+It frees you for the decisions that actually require engineering judgment.
+
+[OUTRO - 5秒]
+Follow for the full AI-assisted engineering workflow breakdown.
+```
+
+**Thumbnail text:** `CURSOR AGENT MODE`
+**Tags:** cursor ai,ai coding,agentic ai,developer tools,engineer tools,ai programming,copilot alternative
+
+---
+
+## Shorts #97 — What building this account for 6 months actually taught me
+**Pillar:** BTS
+**Pexels keyword:** creator analytics dashboard phone screen
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+6 months into building this account. Here's what the data actually showed — and what I got completely wrong.
+
+[BODY - 45秒]
+What I got wrong:
+
+Assumed production quality would drive growth.
+It didn't. The highest-performing posts were ideas explained simply, not polished carousels with perfect design.
+
+Assumed posting frequency was the main lever.
+It's not. Consistency matters but one strong post per week outperformed 5 mediocre ones every time.
+
+Assumed technical content was too niche.
+Wrong. Engineers are one of the highest-income demographic groups on Instagram. The audience is small but high-quality — affiliate link conversion rates were 4x higher than average.
+
+What actually worked:
+
+Specificity over generality. "3 AI tools for engineers" outperformed "top AI tools" consistently.
+Real numbers. Posts with actual dollar amounts and specific metrics drove 2-3x more saves than general advice.
+Honest failures. "What I tried that didn't work" posts generated more comments than success posts.
+
+The system insight:
+The account that started with a 100-post backlog and GitHub Actions automation never missed a week.
+Consistency compound just like interest. The algorithm rewards persistence, not perfection.
+
+The honest result: still early. But the systems are working.
+
+[OUTRO - 5秒]
+Follow to see this experiment continue in public.
+```
+
+**Thumbnail text:** `6 MONTHS: HONEST RESULTS`
+**Tags:** build in public,instagram growth,content creator,social media,engineer content,creator economy,behind the scenes
+
+---
+
+## Shorts #98 — The lifestyle inflation trap: what engineers spend raises on
+**Pillar:** Wealth Mindset
+**Pexels keyword:** luxury spending credit card shopping
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Every engineer I know got a 15% raise last year. Almost none of them are 15% richer. Here's where the money went.
+
+[BODY - 45秒]
+Lifestyle inflation is the silent wealth killer. It's not a character flaw — it's a pattern that happens automatically without a system to prevent it.
+
+The raises engineers get early in their careers are significant. 10-20% jumps when changing companies. Merit increases. Promotions.
+
+What typically happens to that income:
+Better apartment because "I can afford it now."
+Nicer car because "I deserve an upgrade."
+More eating out because "I'm too busy to cook."
+Better vacations because "I work hard."
+
+Each of these is individually reasonable. Collectively, they mean the raise disappears into a higher cost baseline.
+
+Five years in: earning $50K more than you started. Monthly savings rate: unchanged.
+
+The system to stop it:
+
+Before the next raise hits your account, automate the increase to investments.
+Your expenses never see the money. Your portfolio does.
+
+The rule: invest 50% of every raise before adjusting your lifestyle.
+
+If you get a $1,000/month raise:
+$500 goes to automatic investment increase.
+$500 goes to whatever you want.
+
+Over a career of raises, this system alone puts you ahead of 90% of same-income peers.
+
+[OUTRO - 5秒]
+Follow for more on engineering your finances the same way you engineer systems.
+```
+
+**Thumbnail text:** `RAISE ≠ RICHER`
+**Tags:** lifestyle inflation,wealth mindset,financial independence,engineer finance,salary raise,investing,financial freedom
+
+---
+
+## Shorts #99 — TikTok Shop for digital products: is it worth it for engineers
+**Pillar:** Passive Income
+**Pexels keyword:** tiktok phone social media shopping
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+TikTok Shop now supports digital products. Here's whether it's actually worth setting up as an engineer with existing digital goods.
+
+[BODY - 45秒]
+TikTok Shop launched digital product support in 2024. The concept: sell ebooks, templates, and digital downloads directly in TikTok, with the purchase happening without the viewer leaving the app.
+
+The potential: TikTok's algorithm is the strongest discovery engine for new sellers right now. Products can go viral overnight with zero paid advertising.
+
+The reality for engineers:
+
+Setup friction is real.
+TikTok Shop requires business registration in eligible countries, ID verification, and approval. US and UK creators have the smoothest process. Taiwan-based sellers have a less clear path — worth checking current eligibility.
+
+The product fit:
+Digital products that sell: quick-win templates, AI prompt packs, short practical guides.
+Products that don't fit: anything complex, premium-priced, or requiring explanation.
+
+The algorithm advantage:
+One viral 30-second demo of your product can generate 50-200 sales in 24 hours. This is the main reason to explore it.
+
+Comparison to Gumroad/Etsy:
+TikTok takes 1.8-5% commission depending on category.
+Gumroad takes 10%. Etsy takes listing fees + 6.5%.
+TikTok commission is competitive if you're already making TikTok content.
+
+Bottom line: worth setting up if you already create TikTok content. Not worth building TikTok presence just for the shop.
+
+[OUTRO - 5秒]
+Follow for more on multi-platform digital product income.
+```
+
+**Thumbnail text:** `TIKTOK SHOP FOR ENGINEERS`
+**Tags:** tiktok shop,digital products,passive income,side hustle,engineer income,tiktok,digital downloads
+
+---
+
+## Shorts #100 — Year one of engineering financial freedom: what actually changed
+**Pillar:** BTS
+**Pexels keyword:** year review calendar milestone celebration
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+One year in. Here's what building multiple income streams as an engineer actually looks like — the real numbers and the real timeline.
+
+[BODY - 45秒]
+A year ago: one income stream. A salary. Nothing else working while I wasn't.
+
+Here's what I built, what worked, and what took longer than expected.
+
+What worked faster than expected:
+Content systems. Once the automation was running, the posts kept going regardless of how busy I got at work. Consistency without effort — that's the real leverage.
+Affiliate income. The first commission came at month 2. It was small. But it was the first dollar earned while sleeping.
+
+What took longer than expected:
+Audience growth. Social media growth is slow and nonlinear. Months 1-4 felt like shouting into a wall.
+SEO traffic. Blog posts take 4-6 months to rank. The articles I wrote in month 1 only started generating clicks in month 5.
+
+What surprised me:
+The second income stream gave me negotiating power at my main job. Knowing I had other income changed how I showed up in salary conversations.
+The systems compound. Month 12 output was 4x month 1 output with the same weekly time input.
+
+Where I am now:
+Multiple income channels active. Not replacing a salary yet. On a trajectory that makes that a question of time, not possibility.
+
+This isn't a success story. It's an engineering experiment. Year two starts now.
+
+[OUTRO - 5秒]
+Follow if you want to see where this goes.
+```
+
+**Thumbnail text:** `YEAR 1: REAL NUMBERS`
+**Tags:** build in public,passive income,engineer income,financial freedom,side hustle,year review,creator economy
+
+---
+
 ## 製作說明（當 YouTube secrets 設定好後）
 
 1. 每支 Shorts 使用對應 carousel 的 7 張 PNG 做 slideshow（每張 6-8 秒）
