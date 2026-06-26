@@ -4049,6 +4049,527 @@ Follow if you want to see where this goes.
 
 ---
 
+## Shorts #101 — Perplexity Labs builds you a full app from one sentence
+**Pillar:** AI Tools
+**Pexels keyword:** developer coding laptop dashboard interface
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Perplexity Labs just built me a working dashboard from one sentence. No code. Ten minutes.
+
+[BODY - 45秒]
+Here's exactly what I typed: "Build me a dashboard that tracks my 5 income streams with a monthly chart."
+
+That's it. One sentence.
+
+Labs did 4 things automatically:
+One — it researched what metrics actually matter.
+Two — it wrote the code.
+Three — it built a live, clickable interface.
+Four — it gave me a downloadable file I own forever.
+
+What this replaces: a $2,000 freelancer, or a weekend of your own time.
+
+The trick most people miss: be specific about the OUTPUT, not the steps. Say what you want to SEE, not how to build it.
+
+I now spin up a new internal tool every week this way. Each one would've cost me hours before.
+
+[OUTRO - 5秒]
+Follow for the exact prompts I use to build tools in minutes.
+```
+
+**Thumbnail text:** `1 SENTENCE = APP`
+**Tags:** perplexity ai,ai tools,no code,engineer tools,productivity,ai apps
+
+---
+
+## Shorts #102 — The $0 AI stack that replaces $300/month of software
+**Pillar:** AI Tools
+**Pexels keyword:** software subscription cancel money saving laptop
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I cancelled $300 a month in software and replaced all of it with free AI tools. Here's the exact stack.
+
+[BODY - 45秒]
+Five swaps. Zero dollars.
+
+One — Grammarly Premium, $30/month. Replaced with ChatGPT free tier. "Rewrite this clearer." Done.
+
+Two — Jasper for content, $49/month. Replaced with Claude free tier for drafts.
+
+Three — Canva Pro design, $15/month. Replaced with free AI image generators for thumbnails.
+
+Four — Otter transcription, $20/month. Replaced with free Whisper-based tools.
+
+Five — a $99/month analytics dashboard. Replaced with one Claude-built HTML file.
+
+Total killed: over $200 a month. Over $2,400 a year.
+
+The catch? Free tiers have limits. So I use free for 80% of the work and only pay for the one tool I use daily.
+
+[OUTRO - 5秒]
+Follow — I'm posting the full free-tool list this week.
+```
+
+**Thumbnail text:** `$300/MO → $0`
+**Tags:** free ai tools,save money,ai tools,side hustle,productivity,subscriptions
+
+---
+
+## Shorts #103 — NotebookLM turns 100 pages into a podcast in 2 minutes
+**Pillar:** AI Tools
+**Pexels keyword:** headphones podcast study documents reading
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I fed NotebookLM a 100-page PDF and it made me a podcast about it in two minutes. For free.
+
+[BODY - 45秒]
+Here's the workflow that saves me hours every week.
+
+Step one: drop any document into NotebookLM. A research paper. A whole book. Your own messy notes.
+
+Step two: click "Audio Overview."
+
+Two minutes later, two AI hosts are discussing your document like a real podcast. You listen on your commute instead of reading.
+
+But the real power is the chat. Ask it: "What are the 3 main arguments?" It answers, with citations pointing to the exact page.
+
+I use this to learn a new tool's docs in 20 minutes instead of 2 hours.
+
+Engineers: feed it your own codebase docs. It becomes a search engine for your project.
+
+Cost: free. Time saved: enormous.
+
+[OUTRO - 5秒]
+Follow for more underrated free AI tools.
+```
+
+**Thumbnail text:** `100 PAGES → PODCAST`
+**Tags:** notebooklm,google ai,ai tools,productivity,study tools,free ai
+
+---
+
+## Shorts #104 — Cursor's agent mode shipped my side project while I slept
+**Pillar:** AI Tools
+**Pexels keyword:** night coding screen glowing dark room developer
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I gave Cursor's agent mode a task list before bed. I woke up to a working feature.
+
+[BODY - 45秒]
+This isn't autocomplete anymore. This is delegation.
+
+Here's what I did. I wrote 5 tasks in plain English:
+"Add user login. Build the settings page. Write tests. Fix the mobile layout. Update the README."
+
+Then I let agent mode run.
+
+It opened files, wrote code across the whole project, ran the tests itself, saw what failed, and fixed it. On its own.
+
+The honest part: it's not perfect. I reviewed everything in the morning and fixed two things by hand.
+
+But here's the math that matters. A side project that would've taken me three weekends now takes one. That's 3x more shots at building something that earns.
+
+Speed of shipping is the only moat a solo engineer has.
+
+[OUTRO - 5秒]
+Follow for the agent prompts that actually work.
+```
+
+**Thumbnail text:** `IT CODED OVERNIGHT`
+**Tags:** cursor ai,ai coding,engineer tools,side hustle,ai agents,productivity
+
+---
+
+## Shorts #105 — ElevenLabs cloned my voice and now my content scales without me
+**Pillar:** AI Tools
+**Pexels keyword:** microphone recording voiceover studio sound wave
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I recorded my voice once. Now it narrates videos for me while I sleep. Here's the setup.
+
+[BODY - 45秒]
+The bottleneck for video content is always the same: you have to show up and record.
+
+Voice cloning removes that bottleneck entirely.
+
+Here's my exact pipeline:
+One — I recorded 2 minutes of clean audio to train a voice clone in ElevenLabs.
+Two — Claude writes my video scripts.
+Three — the clone reads any script in my voice, instantly, no recording session.
+Four — I drop the audio over stock footage or slides.
+
+One idea becomes a YouTube video, a Short, and a podcast clip. Same voice. Zero new recording.
+
+The result: I publish 5x more without spending 5x more time. The system runs, I just feed it scripts.
+
+This is what leverage actually looks like for a solo creator.
+
+[OUTRO - 5秒]
+Follow — link to the voice setup is in my bio.
+```
+
+**Thumbnail text:** `MY VOICE, ON AUTOPILOT`
+**Tags:** elevenlabs,ai voice,voice cloning,content creation,passive income,ai tools
+
+---
+
+## Shorts #106 — Claude Projects is the second brain engineers actually use
+**Pillar:** AI Tools
+**Pexels keyword:** organized desk notes brain knowledge system
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I stopped re-explaining my project to AI every single time. Here's the feature that fixed it.
+
+[BODY - 45秒]
+The biggest waste with AI chat: every conversation starts from zero. You paste the same context over and over.
+
+Claude Projects kills that.
+
+Here's how I use it. I create one Project per income stream. I upload the context once — my brand voice, my goals, my key files, my style guide.
+
+Now every chat inside that Project already knows everything.
+
+I open it and just say "write the next post" — and it sounds like me, follows my rules, and references my real numbers. No re-explaining.
+
+I run 4 Projects: one for YouTube, one for the blog, one for code, one for investing notes.
+
+It's the difference between a tool you instruct and a teammate that already gets it.
+
+Set this up once and every future conversation gets faster.
+
+[OUTRO - 5秒]
+Follow for the way I structure my AI Projects.
+```
+
+**Thumbnail text:** `STOP RE-EXPLAINING`
+**Tags:** claude ai,claude projects,ai tools,productivity,second brain,engineer tools
+
+---
+
+## Shorts #107 — The digital product engineers overlook: code templates
+**Pillar:** Passive Income
+**Pexels keyword:** code template marketplace laptop selling
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Engineers are sitting on a passive income product and giving it away for free. It's your boilerplate.
+
+[BODY - 45秒]
+Every engineer has a folder of starter code. Auth setups. API wrappers. Config files you've perfected over years.
+
+You think it's nothing. The market thinks it's worth $49.
+
+Here's the proof. Developers pay $99 to $299 for SaaS starter kits that save them a weekend of setup. You've already built the equivalent ten times.
+
+The play:
+One — take your cleanest boilerplate.
+Two — write a clear README and add 3 screenshots.
+Three — list it on Gumroad or LemonSqueezy.
+Four — price it at $39 to start.
+
+You need 13 sales a month to clear $500. You build it once. It sells forever.
+
+The best part: every project you build at work teaches you what to package next.
+
+[OUTRO - 5秒]
+Follow for the exact Gumroad listing setup.
+```
+
+**Thumbnail text:** `YOUR CODE = $$$`
+**Tags:** passive income,digital products,gumroad,engineer side hustle,boilerplate,sell code
+
+---
+
+## Shorts #108 — Faceless YouTube: the engineer's passive income cheat code
+**Pillar:** Passive Income
+**Pexels keyword:** youtube channel screen analytics growth chart
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+You can build a faceless YouTube channel without ever showing your face or recording your voice. Here's the stack.
+
+[BODY - 45秒]
+The whole pipeline is now AI. Four tools, one workflow.
+
+One — Claude writes the script. Give it a topic, get a full video outline.
+Two — a voice tool narrates it. No mic, no recording day.
+Three — stock footage or AI visuals fill the screen.
+Four — you batch-produce a week of videos in one sitting.
+
+The honest timeline: months 1 to 4 feel like shouting into the void. YouTube's algorithm is testing you.
+
+Then around month 5, one video catches. Then the back catalog starts earning while you sleep.
+
+Monetization needs 1,000 subscribers and 4,000 watch hours. Realistic target: 6 to 9 months of consistent posting.
+
+It's not fast. But it's an asset that pays after the work is done.
+
+[OUTRO - 5秒]
+Follow — full faceless channel guide is on the blog.
+```
+
+**Thumbnail text:** `FACELESS = FREEDOM`
+**Tags:** faceless youtube,passive income,ai content,side hustle,youtube automation,content creation
+
+---
+
+## Shorts #109 — Why your first $100 online is the hardest and the most important
+**Pillar:** Passive Income
+**Pexels keyword:** first dollar milestone celebration phone notification
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Your first $100 online is harder than your first $10,000. Here's why that's good news.
+
+[BODY - 45秒]
+The first hundred dollars isn't about money. It's proof.
+
+Proof a stranger will pay you. Proof your skill has market value outside a salary. That belief changes everything you build next.
+
+Most engineers never get there. Not because they can't — because they wait. They want the perfect product, the perfect launch.
+
+The fix: ship something small and ugly this week.
+
+A $19 template. A $5 cheat sheet. A short consultation.
+
+Here's the secret nobody tells you. Going from $0 to $100 takes a mindset shift. Going from $100 to $10,000 just takes repeating what worked and turning up the volume.
+
+The hard part is the proof, not the scale.
+
+Get your first $100. Everything after that is engineering.
+
+[OUTRO - 5秒]
+Follow for the smallest products that actually sell.
+```
+
+**Thumbnail text:** `THE FIRST $100`
+**Tags:** passive income,first sale,side hustle,engineer money,online income,mindset
+
+---
+
+## Shorts #110 — Sell your knowledge before you sell your time
+**Pillar:** Passive Income
+**Pexels keyword:** online course teaching laptop knowledge sharing
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Engineers trade hours for money. The wealthy ones sell the same knowledge a thousand times. Here's the switch.
+
+[BODY - 45秒]
+Freelancing has a hard ceiling: you have 24 hours, and you sleep through 8 of them.
+
+A digital product has no ceiling. You make it once, it sells while you sleep.
+
+Here's the bridge most people miss. You don't have to choose.
+
+Step one — take on freelance work and get paid to learn what a market struggles with.
+Step two — package the solution you keep repeating into a product.
+Step three — sell that product to the next 100 people with the same problem.
+
+Real example: you keep helping clients set up the same deployment pipeline. Turn it into a $79 course or template. Now you sell the answer instead of re-doing it.
+
+Your time funds the build. The product breaks the time-for-money trap.
+
+That's how you escape the hourly ceiling without quitting income.
+
+[OUTRO - 5秒]
+Follow for how to turn a skill into a product.
+```
+
+**Thumbnail text:** `SELL KNOWLEDGE, NOT HOURS`
+**Tags:** passive income,digital products,online course,side hustle,engineer income,freelancing
+
+---
+
+## Shorts #111 — Affiliate income: the passive stream engineers ignore
+**Pillar:** Passive Income
+**Pexels keyword:** affiliate marketing laptop link commission earnings
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I earn money every time someone signs up for tools I'd recommend for free anyway. Here's how it works.
+
+[BODY - 45秒]
+Affiliate income is the most underrated stream for engineers, and the reason is simple: you already recommend tools constantly.
+
+You tell coworkers what IDE to use. What hosting. What AI tool. You just don't get paid for it.
+
+Here's the setup:
+One — pick 3 tools you genuinely use every day.
+Two — join their affiliate program. Most are free and take 5 minutes.
+Three — write one honest review of each. What it does, who it's for, where it falls short.
+Four — put your link in the review.
+
+The honest truth: the first commission is small and slow. Mine came in month two.
+
+But it compounds. Each review keeps ranking and earning for years. You wrote it once.
+
+Rule one: only recommend what you actually use. Trust is the entire business.
+
+[OUTRO - 5秒]
+Follow for the affiliate programs worth joining first.
+```
+
+**Thumbnail text:** `PAID TO RECOMMEND`
+**Tags:** affiliate marketing,passive income,side hustle,engineer income,online income,blogging
+
+---
+
+## Shorts #112 — The 50-30-20 rule is wrong for high earners
+**Pillar:** Wealth Mindset
+**Pexels keyword:** budget planning calculator money savings chart
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+The famous 50-30-20 budget rule is quietly keeping high earners poor. Here's the fix.
+
+[BODY - 45秒]
+The classic rule: 50% needs, 30% wants, 20% savings.
+
+For an engineer making good money, that 30% "wants" bucket is a trap. It scales with your paycheck and eats every raise.
+
+This is lifestyle inflation in disguise.
+
+The high-earner version: flip it.
+
+Keep your needs flat. As your income rises, send the raise to savings and investing, not to a bigger "wants" bucket.
+
+The target most wealthy people aim for: save and invest 40% or more of income.
+
+Here's the move that makes it painless. Automate it. The day your paycheck lands, an automatic transfer pulls the investment cut out first. You budget what's left.
+
+You never feel poorer, because you never see the money. But your future net worth quietly compounds.
+
+Pay your future self before your present wants.
+
+[OUTRO - 5秒]
+Follow for the automation setup that does this for you.
+```
+
+**Thumbnail text:** `50-30-20 IS A TRAP`
+**Tags:** personal finance,wealth mindset,budgeting,financial freedom,investing,money tips
+
+---
+
+## Shorts #113 — Your salary is the worst income stream you have
+**Pillar:** Wealth Mindset
+**Pexels keyword:** office worker desk single income paycheck
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+Your salary feels safe. It's actually the riskiest income you have. Here's why.
+
+[BODY - 45秒]
+A salary has three hidden weaknesses nobody warns you about.
+
+One — it stops the second you stop. Get sick, get laid off, and it's gone. There's no work happening while you sleep.
+
+Two — it has one point of failure. One company, one manager, one bad reorg. Your entire income depends on a single decision you don't control.
+
+Three — it's taxed the hardest and capped the lowest. Your hours don't scale.
+
+Now compare an asset. A dividend stock pays whether you work or not. A digital product sells at 3am. An index fund compounds for decades untouched.
+
+The mindset shift: don't quit your salary. Use it. It's the cheapest funding you'll ever get to build the streams that don't depend on you.
+
+A salary is a starting point, not a finish line.
+
+[OUTRO - 5秒]
+Follow for how to turn a paycheck into assets.
+```
+
+**Thumbnail text:** `SALARY = RISK`
+**Tags:** wealth mindset,financial freedom,passive income,investing,personal finance,money mindset
+
+---
+
+## Shorts #114 — The wealth equation that has nothing to do with income
+**Pillar:** Wealth Mindset
+**Pexels keyword:** growth chart compounding wealth long term investing
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+I know engineers earning $200k who are broke, and engineers earning $90k who are free. Here's the difference.
+
+[BODY - 45秒]
+Wealth isn't what you earn. It's the gap between what you earn and what you spend — invested over time.
+
+Two engineers. Same age.
+
+Engineer A makes $200k, spends $190k. Saves $10k a year.
+
+Engineer B makes $90k, spends $50k. Saves $40k a year.
+
+After 20 years invested at normal market returns, Engineer B has roughly four times the net worth — on less than half the salary.
+
+The lie we're sold is that the answer is always "earn more." Earning more only works if your spending doesn't rise to match. For most people, it does.
+
+The real equation has three levers: earn more, spend less, and invest the gap for long enough that compounding does the heavy lifting.
+
+Most people only pull the first lever. The free ones pull all three.
+
+[OUTRO - 5秒]
+Follow for the compounding math that changes everything.
+```
+
+**Thumbnail text:** `$90K BEATS $200K`
+**Tags:** wealth mindset,financial freedom,investing,compound interest,personal finance,net worth
+
+---
+
+## Shorts #115 — 100 scripts in: what building this content engine taught me
+**Pillar:** BTS
+**Pexels keyword:** milestone content creation workspace reflection
+**影片長度目標：45-55 秒**
+
+```
+[HOOK - 3秒]
+This is script number 100-plus for this account. Here's the honest truth about what actually moved the needle.
+
+[BODY - 45秒]
+When I started, I thought the secret was a viral video. It wasn't.
+
+Three things actually mattered, and none of them were luck.
+
+One — systems beat motivation. The weeks I "didn't feel like it" still produced content, because the pipeline ran without my mood. Automation is the only reason 100 scripts exist.
+
+Two — consistency compounds invisibly. The first 50 scripts felt like nothing was happening. Then the back catalog started doing the work — old posts pulling in new viewers daily.
+
+Three — done beats perfect, every time. The scripts I overthought didn't perform better than the ones I shipped fast. Volume taught me more than polish ever did.
+
+The biggest lesson: an engineer's real edge isn't talent. It's building a machine that keeps producing after the motivation runs out.
+
+Script 100 isn't the finish line. It's proof the system works.
+
+[OUTRO - 5秒]
+Follow to see where the next 100 go.
+```
+
+**Thumbnail text:** `100 SCRIPTS IN`
+**Tags:** build in public,content creation,consistency,creator journey,systems,engineer mindset
+
+---
+
 ## 製作說明（當 YouTube secrets 設定好後）
 
 1. 每支 Shorts 使用對應 carousel 的 7 張 PNG 做 slideshow（每張 6-8 秒）
