@@ -1,0 +1,28 @@
+name: Threads Hook Test (10-day)
+
+# 純文字 Hook 測試：每天兩個時段自動發 Threads，跑滿 10 天（20 支）後腳本自動 no-op。
+# 與每週 IG/Threads 輪播（post-to-ig.yml）完全分開，互不干擾。
+on:
+  schedule:
+    - cron: '30 12 * * *'   # 台灣 20:30 -> 當天 AM slot
+    - cron: '0 14 * * *'    # 台灣 22:00 -> 當天 PM slot
+  workflow_dispatch:
+    inputs:
+      index:
+        description: '手動補發指定 index（0-19）。留空則依日期自動挑。'
+        required: false
+        default: ''
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/post-hook-test.mjs
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          INDEX: ${{ github.event.inputs.index }}
