@@ -6,8 +6,12 @@
 //   INDEX=3 node scripts/post-hook-test.mjs     -> 強制發第 3 支（手動測試/補發）
 //
 // slot 邏輯：start_date 起算，每天兩個時段。
-//   morning slot (UTC 時 < 13) -> 當天第 0 支
-//   evening slot (UTC 時 >= 13) -> 當天第 1 支
+//   AM slot = cron '30 12 * * *'（台灣 20:30）-> 當天第 0 支
+//   PM slot = cron '0 14 * * *'（台灣 22:00）-> 當天第 1 支
+//   排程觸發時用 CRON env（workflow 傳入 github.event.schedule）判斷時段——
+//   不能看執行當下時鐘：GitHub Actions cron 固定延遲 2-4 小時，12:30 UTC 的場次
+//   實際都在 13:00 後才跑，用時鐘判斷會把 AM 全誤判成 PM（2026-06-29~07-02 實際踩過）。
+//   手動觸發（無 CRON）才 fallback 用 UTC 時鐘。
 //   index = daysSinceStart * 2 + slotOffset；超出 0..19 範圍 -> 不發（測試已結束/未開始）
 
 import { readFile } from 'node:fs/promises';
@@ -54,7 +58,11 @@ function pickIndex(cfg) {
   const start = new Date(`${cfg.start_date}T00:00:00Z`);
   const daysSinceStart = Math.floor((Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate())
     - Date.UTC(start.getUTCFullYear(), start.getUTCMonth(), start.getUTCDate())) / 86400000);
-  const slotOffset = now.getUTCHours() < 13 ? 0 : 1; // morning vs evening
+  const cron = (process.env.CRON || '').trim();
+  let slotOffset;
+  if (cron === '30 12 * * *') slotOffset = 0;      // AM slot（台灣 20:30 場）
+  else if (cron === '0 14 * * *') slotOffset = 1;  // PM slot（台灣 22:00 場）
+  else slotOffset = now.getUTCHours() < 13 ? 0 : 1; // 手動觸發 fallback
   return daysSinceStart * 2 + slotOffset;
 }
 

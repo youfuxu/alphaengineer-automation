@@ -26,3 +26,4 @@ jobs:
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           INDEX: ${{ github.event.inputs.index }}
+          CRON: ${{ github.event.schedule }}
