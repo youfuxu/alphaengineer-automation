@@ -8,7 +8,7 @@
  *   node scripts/generate-images-only.mjs --id 81
  */
 
-import Anthropic from '@anthropic-ai/sdk';
+import { generateWithFallback, textFromResponse } from '../../scripts/lib/claude-client.js';
 import { chromium } from 'playwright';
 import { readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
@@ -56,17 +56,11 @@ ul li .icon { color: #00D4FF; font-size: 26px; flex-shrink: 0; margin-top: 2px; 
 .cta-line { font-family: 'Space Grotesk', sans-serif; font-size: 34px; font-weight: 700; color: #00D4FF; margin-top: 28px; border-top: 1px solid #1E2A30; padding-top: 24px; }
 `.trim();
 
-function buildPrompt(caption, pillar) {
+// 這段規則每次呼叫都相同（不管 caption/pillar），適合做 prompt caching
+function buildSystem() {
   return `You are creating a 7-slide Instagram carousel for @alphaengineer.ai — an account for engineers building AI-powered passive income.
 
-PILLAR: ${PILLAR_LABELS[pillar] || pillar}
-
-The carousel must visually match this caption (extract the key points from it):
----
-${caption}
----
-
-Create the complete HTML for all 7 slides (one HTML file, slides with id="p1" through id="p7").
+Create the complete HTML for all 7 slides (one HTML file, slides with id="p1" through id="p7"), matching the caption the user provides (extract the key points from it).
 
 SLIDE STRUCTURE:
 - Slide 1 (p1): Cover — Tag (pillar label), Bold headline (h1 with <span> for key phrase in cyan), subtitle in .muted
@@ -93,14 +87,22 @@ Return ONLY the HTML, wrapped in <HTML>...</HTML> tags. No other text.
 </HTML>`;
 }
 
+function buildUserPrompt(caption, pillar) {
+  return `PILLAR: ${PILLAR_LABELS[pillar] || pillar}
+
+CAPTION:
+---
+${caption}
+---`;
+}
+
 async function generateHtml(caption, pillar) {
-  const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-  const msg = await client.messages.create({
-    model: 'claude-haiku-4-5-20251001',
-    max_tokens: 6000,
-    messages: [{ role: 'user', content: buildPrompt(caption, pillar) }],
+  const { response } = await generateWithFallback({
+    system: buildSystem(),
+    messages: [{ role: 'user', content: buildUserPrompt(caption, pillar) }],
+    maxTokens: 9000, // Fable 5 的 thinking 會吃掉一部分預算，留足夠頸間
   });
-  const raw = msg.content[0].text;
+  const raw = textFromResponse(response);
   // Try <HTML>...</HTML> first, then fall back to ```html...``` code block
   const xmlMatch = raw.match(/<HTML>([\s\S]*?)<\/HTML>/i);
   if (xmlMatch) return xmlMatch[1].trim();

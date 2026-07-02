@@ -19,7 +19,7 @@
  *   - posts.json 更新（新條目加到末尾）
  */
 
-import Anthropic from '@anthropic-ai/sdk';
+import { generateWithFallback, textFromResponse } from '../../scripts/lib/claude-client.js';
 import { chromium } from 'playwright';
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
@@ -78,11 +78,9 @@ ul li .icon { color: #00D4FF; font-size: 26px; flex-shrink: 0; margin-top: 2px; 
 `.trim();
 
 // === Claude Prompt ===
-function buildPrompt(topic, pillar) {
+// 這段規則每次呼叫都相同（不管主題/pillar），適合做 prompt caching
+function buildSystem() {
   return `You are creating a 7-slide Instagram carousel for @alphaengineer.ai — an account for engineers building AI-powered passive income.
-
-TOPIC: "${topic}"
-PILLAR: ${PILLAR_LABELS[pillar] || pillar}
 
 Create:
 1. The complete HTML for all 7 slides (one HTML file, all slides with id="p1" through id="p7")
@@ -133,18 +131,22 @@ Follow for more...
 </CAPTION>`;
 }
 
+function buildUserPrompt(topic, pillar) {
+  return `TOPIC: "${topic}"
+PILLAR: ${PILLAR_LABELS[pillar] || pillar}`;
+}
+
 // === Generate with Claude ===
 async function generateContent(topic, pillar) {
   console.log('🤖 Calling Claude API...');
-  const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
-  const msg = await client.messages.create({
-    model: 'claude-sonnet-4-6',
-    max_tokens: 8000,
-    messages: [{ role: 'user', content: buildPrompt(topic, pillar) }],
+  const { response } = await generateWithFallback({
+    system: buildSystem(),
+    messages: [{ role: 'user', content: buildUserPrompt(topic, pillar) }],
+    maxTokens: 12000, // Fable 5 的 thinking 會吃掉一部分預算，留足夠頸間
   });
 
-  const raw = msg.content[0].text;
+  const raw = textFromResponse(response);
 
   const htmlMatch = raw.match(/<HTML>([\s\S]*?)<\/HTML>/);
   const captionMatch = raw.match(/<CAPTION>([\s\S]*?)<\/CAPTION>/);
