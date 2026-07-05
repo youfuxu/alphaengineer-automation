@@ -1376,6 +1376,286 @@
         "assets/post-100/06.png",
         "assets/post-100/07.png"
       ]
+    },
+    {
+      "id": 101,
+      "pillar": "ai-tools",
+      "caption": "Claude Code: the terminal agent that ships entire features while you review 🤖\n\n→ Reads your whole codebase, edits multiple files, runs tests until green\n→ A full CRUD feature in ~15 min vs 3+ hours manual\n→ Add a CLAUDE.md, work in branches, review diffs like PRs\n→ Your job shifts: 80% reviewing, 20% steering\n\nFollow for more AI tools that print leverage every week.\n\n#claudecode #aitools #aiagents #coding #softwareengineer #passiveincome #buildinpublic #devtools #automation #indiehacker",
+      "images": [
+        "assets/post-101/01.png",
+        "assets/post-101/02.png",
+        "assets/post-101/03.png",
+        "assets/post-101/04.png",
+        "assets/post-101/05.png",
+        "assets/post-101/06.png",
+        "assets/post-101/07.png"
+      ]
+    },
+    {
+      "id": 102,
+      "pillar": "passive-income",
+      "caption": "Sell a spreadsheet. Financial templates quietly make engineers $1K+/month on Gumroad.\n\n→ $29 template × 35 sales = $1K/month before fees\n→ Build in Google Sheets + AI-generated formulas in one weekend\n→ FIRE calculators, rental ROI analyzers & SaaS models sell best\n→ Free lite version → email list → upsell the bundle\n\nFollow for more passive income playbooks for engineers every week.\n\n#passiveincome #gumroad #sidehustle #digitalproducts #spreadsheets #engineerlife #makemoneyonline #indiehacker #financetips",
+      "images": [
+        "assets/post-102/01.png",
+        "assets/post-102/02.png",
+        "assets/post-102/03.png",
+        "assets/post-102/04.png",
+        "assets/post-102/05.png",
+        "assets/post-102/06.png",
+        "assets/post-102/07.png"
+      ]
+    },
+    {
+      "id": 103,
+      "pillar": "ai-tools",
+      "caption": "Turn every meeting into searchable notes — for $0 🎙️\n\n→ whisper.cpp transcribes locally, 10 min of audio in under 1 min\n→ Ollama + Llama 3.1 extracts decisions, action items & deadlines\n→ Obsidian makes 6 months of meetings searchable in <1 second\n→ One bash script automates the whole pipeline\n\nNo subscriptions. No data leaks. 100% private.\n\nFollow @alphaengineer.ai for a new AI build every week.\n\n#aitools #whisper #ollama #openai #productivity #automation #buildinpublic #passiveincome #devlife #obsidian",
+      "images": [
+        "assets/post-103/01.png",
+        "assets/post-103/02.png",
+        "assets/post-103/03.png",
+        "assets/post-103/04.png",
+        "assets/post-103/05.png",
+        "assets/post-103/06.png",
+        "assets/post-103/07.png"
+      ]
+    },
+    {
+      "id": 104,
+      "pillar": "wealth-mindset",
+      "caption": "Lifestyle creep is the silent killer of engineer wealth. Here's the math.\n\n→ A $40K raise invested = $1.32M in 20 years. Spent = $0.\n→ $800/mo car + $1,200/mo rent upgrade = $456K lost in a decade\n→ The fix: auto-invest 50% of every raise before your brain adapts\n\nFollow for more wealth systems for engineers every week.\n\n#wealthmindset #softwareengineer #passiveincome #financialfreedom #techsalary #investing #lifestylecreep #moneytips #engineerlife #compoundinterest",
+      "images": [
+        "assets/post-104/01.png",
+        "assets/post-104/02.png",
+        "assets/post-104/03.png",
+        "assets/post-104/04.png",
+        "assets/post-104/05.png",
+        "assets/post-104/06.png",
+        "assets/post-104/07.png"
+      ]
+    },
+    {
+      "id": 105,
+      "pillar": "passive-income",
+      "caption": "Your side project code is worth money. License it.\n\n→ Dual license it: AGPL for free users, commercial tier for companies\n→ Price per company: $99 solo, $499/yr teams, $2K+ enterprise\n→ Automate everything with Lemon Squeezy + Keygen — zero manual work\n→ Same code you already wrote. New recurring revenue.\n\nFollow for more engineer-first passive income plays every week.\n\n#passiveincome #sideproject #opensource #indiehacker #softwareengineer #buildinpublic #devlife #codemonetization #solopreneur",
+      "images": [
+        "assets/post-105/01.png",
+        "assets/post-105/02.png",
+        "assets/post-105/03.png",
+        "assets/post-105/04.png",
+        "assets/post-105/05.png",
+        "assets/post-105/06.png",
+        "assets/post-105/07.png"
+      ]
+    },
+    {
+      "id": 106,
+      "pillar": "ai-tools",
+      "caption": "v0 by Vercel turns one prompt into production-ready UI 🚀\n\n→ Describe your UI in plain English, get React + Tailwind + shadcn/ui code\n→ Landing pages in 20 minutes instead of 10+ hours\n→ Paste a screenshot and v0 rebuilds it as real components\n→ Pair with Supabase + Stripe = full product pipeline\n\nFollow for more AI tools for engineers every week.\n\n#v0 #vercel #aitools #buildinpublic #sideproject #microsaas #webdev #passiveincome #indiehacker #nextjs",
+      "images": [
+        "assets/post-106/01.png",
+        "assets/post-106/02.png",
+        "assets/post-106/03.png",
+        "assets/post-106/04.png",
+        "assets/post-106/05.png",
+        "assets/post-106/06.png",
+        "assets/post-106/07.png"
+      ]
+    },
+    {
+      "id": 107,
+      "pillar": "bts",
+      "caption": "I run this account in under 5 hours a week. Here's the exact schedule.\n\n→ Sunday: 30 min planning — 5 hooks, one per pillar\n→ Monday: 90 min batch writing + 45 min automated design (HTML → Puppeteer → PNG)\n→ Daily: 15 min of real engagement, timer on\n→ Friday: 30 min metrics — saves decide what lives, likes get ignored\n\nConsistency isn't discipline. It's a system.\n\nFollow for more behind-the-scenes builds every week.\n\n#buildinpublic #aiengineering #passiveincome #contentystems #automation #solopreneur #indiehacker #aitools #creatoreconomy",
+      "images": [
+        "assets/post-107/01.png",
+        "assets/post-107/02.png",
+        "assets/post-107/03.png",
+        "assets/post-107/04.png",
+        "assets/post-107/05.png",
+        "assets/post-107/06.png",
+        "assets/post-107/07.png"
+      ]
+    },
+    {
+      "id": 108,
+      "pillar": "wealth-mindset",
+      "caption": "Your emergency fund is not an investment. Stop optimizing it.\n\n→ Chasing 10% on your safety net risks $9K to gain $1.6K\n→ It's a circuit breaker, not a revenue stream\n→ 3-6 months in a 4%+ HYSA, accessible in 48 hours\n→ Its real ROI: quitting bad jobs, funding side projects, never panic-selling\n\nFollow for more engineer-grade money systems every week.\n\n#wealthmindset #emergencyfund #personalfinance #softwareengineer #passiveincome #financialfreedom #moneytips #investing #techcareer",
+      "images": [
+        "assets/post-108/01.png",
+        "assets/post-108/02.png",
+        "assets/post-108/03.png",
+        "assets/post-108/04.png",
+        "assets/post-108/05.png",
+        "assets/post-108/06.png",
+        "assets/post-108/07.png"
+      ]
+    },
+    {
+      "id": 109,
+      "pillar": "passive-income",
+      "caption": "Chrome extensions: the most underrated digital product for engineers.\n\n→ 3.4B Chrome users, $5 total startup cost, zero hosting bills\n→ Solo devs are quietly doing $4K+ MRR with niche tools\n→ Plasmo + Stripe + AI APIs = shippable in one weekend\n→ Freemium + Web Store SEO does the marketing for you\n\nFollow @alphaengineer.ai for more passive income playbooks for engineers every week.\n\n#chromeextension #passiveincome #indiehacker #buildinpublic #sidehustle #softwareengineer #solopreneur #saas #codinglife #devlife",
+      "images": [
+        "assets/post-109/01.png",
+        "assets/post-109/02.png",
+        "assets/post-109/03.png",
+        "assets/post-109/04.png",
+        "assets/post-109/05.png",
+        "assets/post-109/06.png",
+        "assets/post-109/07.png"
+      ]
+    },
+    {
+      "id": 110,
+      "pillar": "ai-tools",
+      "caption": "Perplexity Pages: publish SEO content in minutes — straight from your research.\n\n→ Convert any search thread into an indexed article with citations & images\n→ Pages live on perplexity.ai's high-authority domain and rank on Google\n→ Batch 5 comparison pages per weekend, each linking to your product\n\nFollow for more AI tools that build passive income every week.\n\n#perplexity #aitools #seotips #passiveincome #contentmarketing #sidehustle #aiforbusiness #buildinpublic #indiehacker",
+      "images": [
+        "assets/post-110/01.png",
+        "assets/post-110/02.png",
+        "assets/post-110/03.png",
+        "assets/post-110/04.png",
+        "assets/post-110/05.png",
+        "assets/post-110/06.png",
+        "assets/post-110/07.png"
+      ]
+    },
+    {
+      "id": 111,
+      "pillar": "passive-income",
+      "caption": "Paid newsletter vs free + sponsors: the real math 📊\n\n→ 10K subs, paid tier: ~$2,600/mo net after fees + churn\n→ 10K subs, sponsors: ~$3,200/mo at $40 CPM, 2 slots/week\n→ Free lists grow 2-3x faster — paywalls kill referrals\n→ Hybrid at 20K subs = ~$11K/mo from one asset\n\nThe answer isn't paid vs free. It's paid AFTER free.\n\nFollow for more engineering-driven passive income math every week.\n\n#passiveincome #newsletter #beehiiv #substack #sidehustle #buildinpublic #creatoreconomy #indiehacker #solopreneur",
+      "images": [
+        "assets/post-111/01.png",
+        "assets/post-111/02.png",
+        "assets/post-111/03.png",
+        "assets/post-111/04.png",
+        "assets/post-111/05.png",
+        "assets/post-111/06.png",
+        "assets/post-111/07.png"
+      ]
+    },
+    {
+      "id": 112,
+      "pillar": "ai-tools",
+      "caption": "Sora vs Kling vs Higgsfield — the honest comparison nobody's posting.\n\nI burned $180 in credits testing all three. Here's the short version:\n\n→ Sora: best physics + cinematics, but strict filters\n→ Kling: best cost per usable clip for faceless channels\n→ Higgsfield: fastest viral hook shots, weaker raw quality\n\nPick by revenue model, not hype. Full breakdown in the slides.\n\nFollow for more AI tool breakdowns that pay, every week.\n\n#aivideo #sora #klingai #higgsfield #aitools #contentcreator #facelessyoutube #passiveincome #aiengineering",
+      "images": [
+        "assets/post-112/01.png",
+        "assets/post-112/02.png",
+        "assets/post-112/03.png",
+        "assets/post-112/04.png",
+        "assets/post-112/05.png",
+        "assets/post-112/06.png",
+        "assets/post-112/07.png"
+      ]
+    },
+    {
+      "id": 113,
+      "pillar": "wealth-mindset",
+      "caption": "You don't retire on dollars. You retire on hours.\n\n→ 1 billion seconds = 31.7 years. At 30, you hold ~1.6B — richer than Buffett in the only currency that matters\n→ $200K salary still means 2,000 hours sold per year\n→ Code once, earn 8,760 hrs/year: $29/mo SaaS × 100 users = $34.8K\n→ Real retirement number: passive income ≥ burn rate\n\nFollow @alphaengineer.ai for engineer-built passive income every week.\n\n#passiveincome #softwareengineer #saas #microsaas #buildinpublic #sidehustle #wealthmindset #indiehacker #financialfreedom",
+      "images": [
+        "assets/post-113/01.png",
+        "assets/post-113/02.png",
+        "assets/post-113/03.png",
+        "assets/post-113/04.png",
+        "assets/post-113/05.png",
+        "assets/post-113/06.png",
+        "assets/post-113/07.png"
+      ]
+    },
+    {
+      "id": 114,
+      "pillar": "ai-tools",
+      "caption": "Stop refreshing tabs. Build AI agents that watch prices, jobs & deals 24/7 🤖\n\n→ Firecrawl + n8n + GPT-4o-mini + Telegram = full stack under $20/mo\n→ Price watcher flags 15%+ drops in 30 min — flip before anyone sees them\n→ Job sniper applies in hour one = 3-5x reply rate\n→ Sell the alerts: 100 subs = $1-2K/mo passive\n\nFollow @alphaengineer.ai for more AI passive income systems every week.\n\n#aiagents #passiveincome #n8n #automation #aitools #sidehustle #buildinpublic #techjobs #gpt4 #engineering",
+      "images": [
+        "assets/post-114/01.png",
+        "assets/post-114/02.png",
+        "assets/post-114/03.png",
+        "assets/post-114/04.png",
+        "assets/post-114/05.png",
+        "assets/post-114/06.png",
+        "assets/post-114/07.png"
+      ]
+    },
+    {
+      "id": 115,
+      "pillar": "passive-income",
+      "caption": "Udemy vs hosting your own course: where engineers actually earn more 💰\n\n→ Udemy pays you just 37% — and discounts your $199 course to $12.99\n→ Self-hosted (Gumroad, Podia, Teachable) = keep 90-97% at real prices\n→ 30 sales at $149 beats 200 sales on Udemy\n→ Best play: use Udemy for leads, sell your flagship yourself\n\nFull breakdown in the slides ⬆️\n\nFollow for more passive income plays for engineers every week.\n\n#passiveincome #onlinecourses #udemy #sideincome #techcareer #buildinpublic #solopreneur #developerlife #digitalproducts",
+      "images": [
+        "assets/post-115/01.png",
+        "assets/post-115/02.png",
+        "assets/post-115/03.png",
+        "assets/post-115/04.png",
+        "assets/post-115/05.png",
+        "assets/post-115/06.png",
+        "assets/post-115/07.png"
+      ]
+    },
+    {
+      "id": 116,
+      "pillar": "bts",
+      "caption": "Every tool running this account. Total cost: almost $0.\n\n→ Claude API writes each carousel for ~$0.03\n→ HTML + CSS + Puppeteer replaces Canva — free\n→ GitHub Actions cron replaces Buffer — free\n→ Meta Graph API auto-publishes — free\n\nTotal: under $1/mo vs the typical $50–150 creator stack.\n\nFollow for more AI automation builds every week.\n\n#buildinpublic #aiautomation #passiveincome #indiehacker #claudeai #softwareengineer #automation #sidehustle #codingtips",
+      "images": [
+        "assets/post-116/01.png",
+        "assets/post-116/02.png",
+        "assets/post-116/03.png",
+        "assets/post-116/04.png",
+        "assets/post-116/05.png",
+        "assets/post-116/06.png",
+        "assets/post-116/07.png"
+      ]
+    },
+    {
+      "id": 117,
+      "pillar": "ai-tools",
+      "caption": "RAG explained: make AI answer from YOUR data 🧠\n\n→ Chunk, embed, retrieve, generate — the 4-step pipeline behind every \"chat with your docs\" product\n→ $0-to-start stack: pgvector + LangChain + GPT-4o-mini\n→ Monetize: support bots at $200-500/mo per client\n→ Avoid the 4 mistakes that cause hallucinations\n\nFollow @alphaengineer.ai for more AI income playbooks every week.\n\n#RAG #AIEngineering #SideHustle #PassiveIncome #LangChain #BuildInPublic #AITools #ChatGPT #IndieHacker #Python",
+      "images": [
+        "assets/post-117/01.png",
+        "assets/post-117/02.png",
+        "assets/post-117/03.png",
+        "assets/post-117/04.png",
+        "assets/post-117/05.png",
+        "assets/post-117/06.png",
+        "assets/post-117/07.png"
+      ]
+    },
+    {
+      "id": 118,
+      "pillar": "wealth-mindset",
+      "caption": "The engineer's barbell strategy: boring index funds + aggressive skill bets 🏋️\n\n→ 90% into VTI/VOO on autopilot — protect your floor\n→ 10% into skill bets: micro-SaaS, AI tools, weekend builds\n→ Downside capped at ~$500. Upside? Uncapped.\n→ Failed bets still compound your skills. The middle compounds nothing.\n\nFollow @alphaengineer.ai for more wealth strategies for engineers every week.\n\n#passiveincome #softwareengineer #indexfunds #buildinpublic #sidehustle #microsaas #wealthmindset #aitools #investing",
+      "images": [
+        "assets/post-118/01.png",
+        "assets/post-118/02.png",
+        "assets/post-118/03.png",
+        "assets/post-118/04.png",
+        "assets/post-118/05.png",
+        "assets/post-118/06.png",
+        "assets/post-118/07.png"
+      ]
+    },
+    {
+      "id": 119,
+      "pillar": "passive-income",
+      "caption": "Write the code once. Charge per API call. Forever.\n\n→ No UI, no frontend — your product IS the endpoint\n→ FastAPI + Stripe metered billing = live in one weekend\n→ 50 devs × 20K calls × $0.002 = $2,000/mo at 98% margin\n→ List on RapidAPI where 4M+ devs are already shopping\n\nFollow for more passive income plays for engineers every week.\n\n#passiveincome #apidevelopment #sideproject #buildinpublic #softwareengineer #indiehacker #fastapi #devlife #saas #codingtips",
+      "images": [
+        "assets/post-119/01.png",
+        "assets/post-119/02.png",
+        "assets/post-119/03.png",
+        "assets/post-119/04.png",
+        "assets/post-119/05.png",
+        "assets/post-119/06.png",
+        "assets/post-119/07.png"
+      ]
+    },
+    {
+      "id": 120,
+      "pillar": "ai-tools",
+      "caption": "Clone your voice once. Narrate content forever.\n\n→ 30 min of clean audio + ElevenLabs = a voice clone that sounds exactly like you\n→ ~30 lines of Python turns any script into an MP3 via the API\n→ Narration cost per video drops to ~$0.20 — scale faceless channels, courses & podcasts on autopilot\n\nFollow @alphaengineer.ai for more AI tools that build passive income every week.\n\n#elevenlabs #voicecloning #aitools #passiveincome #facelessyoutube #aiautomation #contentcreation #sidehustle #buildinpublic",
+      "images": [
+        "assets/post-120/01.png",
+        "assets/post-120/02.png",
+        "assets/post-120/03.png",
+        "assets/post-120/04.png",
+        "assets/post-120/05.png",
+        "assets/post-120/06.png",
+        "assets/post-120/07.png"
+      ]
     }
   ]
 }
