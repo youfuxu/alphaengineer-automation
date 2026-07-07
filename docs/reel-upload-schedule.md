@@ -9,10 +9,10 @@
 | ✅ 06/19 | 01 | Stop trading hours for dollars | — |
 | ✅ 06/21 | 02 | AI stack reveal / build-in-public | — |
 | ✅ 06/21 | 03 | Passive income while sleeping | ElevenLabs |
-| 06/25 (三) | 04 | Dividend investing / wealth building | — |
-| 06/28 (六) | 05 | Engineer typing code → income | — |
-| 07/02 (三) | 06 | Affiliate income reveal | ElevenLabs |
-| 07/05 (六) | 07 | One prompt generates a week of content | Synthesia |
+| ✅ 06/25 (三) | 04 | Dividend investing / wealth building | — |
+| ✅ 06/28 (六) | 05 | Engineer typing code → income | — |
+| ✅ 07/02→補發07/07 | 06 | Affiliate income reveal | ElevenLabs |
+| ✅ 07/05→補發07/07 | 07 | One prompt generates a week of content | Synthesia |
 | 07/09 (三) | 08 | The compound math engineers ignore | — |
 | 07/12 (六) | 09 | Stop recommending AI tools for free | ElevenLabs |
 | 07/16 (三) | 10 | What engineers have wrong about side income | — |
