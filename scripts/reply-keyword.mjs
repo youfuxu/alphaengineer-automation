@@ -12,7 +12,7 @@ const STATE_FILE = new URL('../data/replied.json', import.meta.url);
 const DRY = process.env.DRY_RUN === 'true';
 
 const THREADS_API = 'https://graph.threads.net/v1.0';
-const IG_API = 'https://graph.facebook.com/v21.0';
+const IG_API = 'https://graph.instagram.com/v21.0';
 
 async function getJSON(url) {
   const res = await fetch(url);
