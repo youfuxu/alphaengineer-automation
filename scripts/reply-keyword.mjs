@@ -130,8 +130,8 @@ const before = state.size;
 let threadsCount = 0, igCount = 0;
 const errors = [];
 
-try { threadsCount = await runThreads(state); } catch (e) { errors.push(e.message); }
-try { igCount = await runInstagram(state); } catch (e) { errors.push(e.message); }
+try { threadsCount = await runThreads(state); } catch (e) { errors.push(`[Threads] ${e.message}`); }
+try { igCount = await runInstagram(state); } catch (e) { errors.push(`[IG] ${e.message}`); }
 
 if (!DRY && state.size !== before) await saveState(state);
 console.log(`done. threads=${threadsCount} ig=${igCount} newState=${state.size - before}`);
