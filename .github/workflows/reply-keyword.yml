@@ -1,0 +1,48 @@
+name: Auto-reply CHECK comments
+
+on:
+  schedule:
+    - cron: '15 */2 * * *'   # every 2 hours
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (scan only, no replies)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reply-keyword
+  cancel-in-progress: false
+
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Scan and reply
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
+        run: node scripts/reply-keyword.mjs
+
+      - name: Commit reply state
+        run: |
+          if [[ -n "$(git status --porcelain data/replied.json 2>/dev/null)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/replied.json
+            git commit -m "chore: update auto-reply state"
+            git pull --rebase origin main
+            git push
+          fi
