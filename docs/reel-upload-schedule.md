@@ -15,7 +15,7 @@
 | ✅ 07/05→補發07/07 | 07 | One prompt generates a week of content | Synthesia |
 | ✅ 07/09 | 08 | The compound math engineers ignore | — |
 | ✅ 07/11 (六) | 09 | Stop recommending AI tools for free | ElevenLabs |
-| 07/16 (三) | 10 | What engineers have wrong about side income | — |
+| ✅ 07/16→補發07/17 | 10 | What engineers have wrong about side income | — |
 | 07/19 (六) | 11 | Your salary has a ceiling. These don't. | — |
 | 07/23 (三) | 12 | The $0 to $1 milestone nobody talks about | ElevenLabs |
 | 07/26 (六) | 13 | Engineers who read financial statements | — |
