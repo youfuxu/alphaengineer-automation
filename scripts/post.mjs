@@ -28,12 +28,21 @@ const weekNum = getISOWeek(new Date());
 const post = posts[weekNum % posts.length];
 console.log(`Week ${weekNum} -> post #${post.id}: ${post.caption.slice(0, 60)}...`);
 
-const PUBLISHERS = [
+const ALL_PUBLISHERS = [
   { name: 'Instagram', fn: postToInstagram },
   { name: 'Threads',   fn: postToThreads   },
   { name: 'TikTok',    fn: postToTikTok    },
   { name: 'YouTube',   fn: postToYouTube   },
 ];
+
+// ONLY_PLATFORMS=Threads,IG 之類的逗號分隔清單，可只重試特定平台（例如某平台當週發布失敗，
+// 其他平台已成功，不想重複發文）。留空則照舊全部平台都跑。
+const onlyFilter = (process.env.ONLY_PLATFORMS || '')
+  .split(',').map((s) => s.trim().toLowerCase()).filter(Boolean);
+const PUBLISHERS = onlyFilter.length
+  ? ALL_PUBLISHERS.filter((p) => onlyFilter.includes(p.name.toLowerCase()))
+  : ALL_PUBLISHERS;
+if (onlyFilter.length) console.log(`ONLY_PLATFORMS filter active: ${PUBLISHERS.map((p) => p.name).join(', ')}`);
 
 const ctx = { post, rawUrl };
 const results = await Promise.allSettled(PUBLISHERS.map(({ fn }) => fn(ctx)));

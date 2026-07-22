@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '53 14 * * 3'
   workflow_dispatch:
+    inputs:
+      only_platforms:
+        description: '只重試特定平台（逗號分隔，例如 Threads），留空=全部平台照常跑'
+        required: false
+        default: ''
 
 jobs:
   post:
@@ -15,6 +20,7 @@ jobs:
           node-version: 22
       - run: node scripts/post.mjs
         env:
+          ONLY_PLATFORMS: ${{ github.event.inputs.only_platforms }}
           # ── Instagram (啟用中) ──────────────────────────────────────────────
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
