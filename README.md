@@ -17,9 +17,14 @@
 
 2026-08-31 前啟用短期安全優先輪播，讓最新的全球安全內容先被發布；期限後自動回到完整內容輪替。
 
+已實際公開的 Instagram 安全內容：
+
+- #121 [點擊或付款前先停下來](https://www.instagram.com/minddividend/p/DcQBgqpgdWq/)
+- #123 [點擊可疑連結後的復原步驟](https://www.instagram.com/minddividend/p/DcQDJCHAV7g/)
+
 | 平台 | 狀態 |
 |------|------|
-| Instagram | ⚠️ 內容佇列就緒；需有效的 Graph API 權杖 |
+| Instagram | ✅ 已有兩篇公開；API 排程仍需有效的 Graph API 權杖 |
 | Threads | ⚠️ 內容佇列就緒；需有效的 Threads API 權杖 |
 | TikTok | 💤 申請 API 審核通過後啟用 |
 | YouTube | 💤 設定 3 個 secrets 後啟用（Shorts 格式） |
@@ -59,8 +64,8 @@
 - 若某篇已在單一平台手動發布，可在該貼文加入 `publishedPlatforms` 與 `publishedUrls`；排程會跳過該平台，但仍保留其他平台的發布機會。
 
 ### 4. 排程邏輯
-`scripts/post.mjs` 會用「當週 ISO 週數 % posts.json 篇數」決定這週要發哪篇，自動輪替、不會重複設定。
-每增加一篇 posts.json，輪替池子就變大，不需改程式。
+`scripts/post.mjs` 會先使用有效期限內的 `priority: "high"` 內容輪播（目前至 2026-08-31），再回到「當週 ISO 週數 % posts.json 篇數」的完整內容輪替。若貼文已在某一平台公開，排程會只跳過該平台，保留其他平台的發布機會。
+每增加一篇 posts.json，完整輪替池子就變大，不需改程式。
 
 排程時間：每週三 14:53 UTC（約等於 11am ET，依日光節約時間略有 ±1 小時誤差）。
 
