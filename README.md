@@ -1,11 +1,13 @@
 # Alpha Engineer — 多平台自動發文 (GitHub Actions 版)
 
-免費多平台自動發文系統。每週三同步發佈到所有已設定的平台。
+免費多平台自動發文系統。每週三同步發佈到所有已設定的平台；目前的安全教育內容會導向 [MindDividend Shield 全球詐騙訊息檢查器](https://alphaengineerai.com/global-online-scam-checker.html)。
+
+這個公開專案同時示範如何用 GitHub Actions 維護可追蹤的內容佇列，讓線上安全資訊能跨語言、跨平台持續發布。
 
 | 平台 | 狀態 |
 |------|------|
-| Instagram | ✅ 啟用中（@alphaengineer.ai） |
-| Threads | ✅ 啟用中（@alphaengineer.ai） |
+| Instagram | ⚠️ 內容佇列就緒；需有效的 Graph API 權杖 |
+| Threads | ⚠️ 內容佇列就緒；需有效的 Threads API 權杖 |
 | TikTok | 💤 申請 API 審核通過後啟用 |
 | YouTube | 💤 設定 3 個 secrets 後啟用（Shorts 格式） |
 
@@ -57,4 +59,4 @@ GitHub repo → Actions → Post to Instagram → Run workflow，可以隨時手
 - 新圖片第一次 push 後，建議先用瀏覽器或 `curl` 對 jsdelivr 網址做一次 GET，預熱 CDN 快取。
 
 ## Token 到期提醒
-Instagram access token 約 60 天到期（這組 token 約 2026-08 初到期）。到期前需要到 Meta 開發者後台重新取得 token 並更新 `IG_ACCESS_TOKEN` secret（GitHub Actions 無法自動更新 secrets）。
+Instagram 與 Threads 的 access token 會到期；如果工作流程出現 OAuth expired，必須到官方開發者後台重新取得權杖並更新 GitHub Actions secrets。GitHub Actions 無法在沒有使用者重新授權的情況下自動更新 secrets。
