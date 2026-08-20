@@ -16,6 +16,7 @@ function getISOWeek(date) {
 }
 
 function rawUrl(path) {
+  if (/^https?:\/\//i.test(path)) return path;
   return `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}/${path}`;
 }
 
