@@ -4,6 +4,17 @@
 
 這個公開專案同時示範如何用 GitHub Actions 維護可追蹤的內容佇列，讓線上安全資訊能跨語言、跨平台持續發布。
 
+## 目前全球安全內容
+
+下一批內容已排入佇列，並附上可直接開啟的公開入口：
+
+- 心理施壓與可疑訊息：[Is this text a scam?](https://alphaengineerai.com/is-this-text-a-scam.html)
+- 驗證碼與帳號安全：[Global online scam checker](https://alphaengineerai.com/global-online-scam-checker.html)
+- 點擊後復原：[Recovery checklist](https://alphaengineerai.com/what-to-do-if-you-clicked-a-scam-link.html)
+- 求職詐騙：[Online job scam checker](https://alphaengineerai.com/online-job-scam-checker.html)
+
+這些頁面提供免費第一輪檢查與 13 種語言的安全指南；使用前請移除密碼、驗證碼、付款資料、身分文件與私人地址。
+
 | 平台 | 狀態 |
 |------|------|
 | Instagram | ⚠️ 內容佇列就緒；需有效的 Graph API 權杖 |
