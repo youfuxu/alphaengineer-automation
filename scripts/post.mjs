@@ -25,8 +25,17 @@ const { posts } = JSON.parse(
 );
 if (!posts.length) throw new Error('posts.json has no posts');
 
-const weekNum = getISOWeek(new Date());
-const post = posts[weekNum % posts.length];
+const now = new Date();
+const priorityPosts = posts.filter((candidate) => (
+  candidate.priority === 'high'
+  && (!candidate.priorityUntil || now <= new Date(`${candidate.priorityUntil}T23:59:59Z`))
+));
+const rotation = priorityPosts.length ? priorityPosts : posts;
+const weekNum = getISOWeek(now);
+const post = rotation[weekNum % rotation.length];
+if (priorityPosts.length) {
+  console.log(`Priority rotation active: ${priorityPosts.map(({ id }) => `#${id}`).join(', ')}`);
+}
 console.log(`Week ${weekNum} -> post #${post.id}: ${post.caption.slice(0, 60)}...`);
 
 const ALL_PUBLISHERS = [
