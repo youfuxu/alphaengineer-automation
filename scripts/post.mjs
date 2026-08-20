@@ -44,14 +44,20 @@ const PUBLISHERS = onlyFilter.length
   ? ALL_PUBLISHERS.filter((p) => onlyFilter.includes(p.name.toLowerCase()))
   : ALL_PUBLISHERS;
 if (onlyFilter.length) console.log(`ONLY_PLATFORMS filter active: ${PUBLISHERS.map((p) => p.name).join(', ')}`);
+const publishedPlatforms = new Set(post.publishedPlatforms || []);
+const READY_PUBLISHERS = PUBLISHERS.filter(({ name }) => !publishedPlatforms.has(name));
+if (publishedPlatforms.size) {
+  console.log(`Already published on: ${[...publishedPlatforms].join(', ')}`);
+  console.log(`Remaining platforms: ${READY_PUBLISHERS.map(({ name }) => name).join(', ') || 'none'}`);
+}
 
 const ctx = { post, rawUrl };
-const results = await Promise.allSettled(PUBLISHERS.map(({ fn }) => fn(ctx)));
+const results = await Promise.allSettled(READY_PUBLISHERS.map(({ fn }) => fn(ctx)));
 
 let anyFailed = false;
 for (const [i, result] of results.entries()) {
   if (result.status === 'rejected') {
-    console.error(`[${PUBLISHERS[i].name}] ERROR:`, result.reason?.message ?? result.reason);
+    console.error(`[${READY_PUBLISHERS[i].name}] ERROR:`, result.reason?.message ?? result.reason);
     anyFailed = true;
   }
 }

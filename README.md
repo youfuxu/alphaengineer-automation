@@ -54,6 +54,7 @@
 
 - `images` 只有 1 張 → 發單圖貼文
 - `images` 有多張 → 自動發輪播（carousel）
+- 若某篇已在單一平台手動發布，可在該貼文加入 `publishedPlatforms` 與 `publishedUrls`；排程會跳過該平台，但仍保留其他平台的發布機會。
 
 ### 4. 排程邏輯
 `scripts/post.mjs` 會用「當週 ISO 週數 % posts.json 篇數」決定這週要發哪篇，自動輪替、不會重複設定。
